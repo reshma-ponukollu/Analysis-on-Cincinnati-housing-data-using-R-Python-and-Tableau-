@@ -1,0 +1,1341 @@
+Student Contributor Name,Address,Zip Code,Price Sold,Date Sold,Number of Bedrooms,Number of Bathrooms (add 0.5 for a half bath),Year Built,Squared Feet,Lot size (in sqft),Number of Parking Spots
+Reshma Punukollu,"3737 Isabella Ave, Cincinnati, OH ",45209,"$839,905.00 ",12/9/2022,3,3,0,0,3092,2
+Victoria Smith,"3737 Isabella Ave, Cincinnati, OH",45209,"$839,905.00 ",12/9/2022,3,3,0,0,3092,2
+Victoria Smith,"5721 Roe St, Cincinnati, OH",45227,"$491,900.00 ",12/9/2022,3,3,0,1905,0,2
+Victoria Smith,"11900 Abbeytown Dr. #1, Cincinnati, OH",45251,"$417,000.00 ",12/9/2022,4,2,0,1976,13068,2
+Loryn Flowers,"1632 Sycamore St, Cincinnati, OH 45202",45202,"$307,500.00 ",11/17/2021,4,2,1850,1645,1437,0
+Samipya Pamuru,"1982 Wagon Wheel Dr, Hamilton, OH 45013",45013,"$387,500.00 ",12/27/2022,4,4,1859,2312,16988,2
+Meghana Mittameedi,"430 W Cliff Ln, Cincinnati, OH 45220",45220,"$2,100,000.00 ",3/23/2021,7,6,1860,12047,69696,6
+Meghana Mittameedi,"308 Amazon Ave, Cincinnati, OH 45220",45220,"$800,000.00 ",8/17/2022,6,4,1860,3600,22215.6,0
+Nick Flessner,432 Milton Street,45202,"$703,000.00 ",6/4/2021,4,4,1865,2664,1742,0
+Loryn Flowers,"502 Liberty Hl, Cincinnati, OH 45202",45202,"$308,500.00 ",11/23/2021,2,2,1865,1500,1394,0
+Neil Bechmann,8797 Eagle Creek Rd,45247,"$420,000.00 ",10/10/2022,1,1,1865,1271,530125.2,0
+Loryn Flowers,"1763 Sycamore St, Cincinnati, OH 45202",45202,"$400,000.00 ",11/22/2022,2,3,1865,2233,4142,0
+Loryn Flowers,"1763 Sycamore St, Cincinnati, OH 45202",45202,"$400,000.00 ",11/22/2022,2,3,1865,2233,4142,0
+Anhly Truong,4132 Chambers St,45223,"$361,500.00 ",12/28/2022,3,3,1865,1420,2482,0
+Jahnavi Galla,"4132 Chambers St, Cincinnati, OH",45223,"$361,500.00 ",12/28/2022,3,3,1865,1420,2482,0
+Snehal Lokhande,"4132 Chambers St, Cincinnati, OH",45223,"$361,500.00 ",12/28/2022,3,3,1865,1420,2482,0
+Reshma Punukollu,"7056 Gracely Dr, Cincinnati, OH ",45233,"$325,000.00 ",12/29/2022,4,2,1865,1792,33976,4
+Avi Aggarwal,"916 Findlay St, Cincinnati, Ohio",45214,"$330,000.00 ",1/6/2023,3,3,1865,1456,1655,0
+Chris Lindemann,"916 Findlay St, Cincinnati, OH",45214,"$330,000.00 ",1/9/2023,3,3,1865,1456,1655,0
+Elayna Franklin,"916 Findlay St, Cincinnati, Ohio",45214,"$330,000.00 ",1/9/2023,3,3,1865,1456,1655,0
+Gabriela Varisco,"916 Findlay St, Cincinnati, OH",45214,"$330,000.00 ",1/9/2023,3,3,1865,1456,1655,0
+Krishnaja Pinnamaneni,"916 Findlay St, Cincinnati, OH",45214,"$330,000.00 ",1/9/2023,3,3,1865,1456,1655,0
+Reshma Punukollu,"916 Findlay St, Cincinnati, OH ",45214,"$330,000.00 ",1/9/2023,3,3,1865,1456,1655,0
+Saiteja Boga,"916 Findlay St, Cincinnati, OH",45214,"$330,000.00 ",1/9/2023,3,3,1865,1456,1655,0
+Vaishnavi Agnihotri,"916 Findlay St, Cincinnati, OH",45214,"$330,000.00 ",1/9/2023,3,3,1865,1456,1655,0
+Kristi Duncan,"916 Findlay St, Cincinnati, OH 45214",45214,"$330,000.00 ",1/10/2023,3,3,1865,1456,1655,0
+Maddie Hannan,916 Findlay St,45214,"$330,000.00 ",1/10/2023,3,3,1865,1456,1655,0
+Xinzhu Sun,315 W Vine St,45215,"$190,000.00 ",5/25/2022,4,2,1866,2080,7230,0
+Victoria Smith,"3753 Hutton St, Cincinnati, OH",45226,"$275,000.00 ",10/7/2022,3,2,1866,2143,6490,1
+Sean McGill,"3434 Walworth Ave, Cincinnati, OH",45226,"$303,000.00 ",4/27/2022,3,3,1870,1592,4094,4
+Andrew Flach,1325 Morten St,45208,"$552,250.00 ",10/28/2022,4,2,1870,2240,8015,0
+Loryn Flowers,"1521 Republic St, Cincinnati, OH 45202",45202,"$325,000.00 ",11/19/2021,5,3,1875,1616,1655,0
+Loryn Flowers,"1329 Spring St, Cincinnati, OH 45202",45202,"$359,500.00 ",12/30/2021,3,3,1875,2383,1001,0
+Victoria Smith,"1839 Hopkins Ave, Cincinnati, OH",45212,"$122,000.00 ",10/27/2022,2,1,1875,1312,6664,0
+Loryn Flowers,"417 Vine St UNIT 602, Cincinnati, OH 45202",45202,"$643,500.00 ",11/29/2022,3,3,1875,2592,7479,2
+Ryan Sosinski,417 Vine St Unit 602,45202,"$643,500.00 ",11/29/2022,3,3,1875,2592,,2
+Chandler Craker,"3915 Dumont St, Cincinnati, OH",45226,"$60,000.00 ",1/5/2023,3,1,1876,1392,3354,0
+Hannah Grilliot,3915 Dumont St,45226,"$60,000.00 ",1/5/2023,3,1,1876,1392,3354,0
+Adam Wilson,1213 Wareham D,45202,"$374,500.00 ",1/12/2023,4,2,1876,1895,1219,1
+Krishnaja Pinnamaneni,"1213 Wareham Dr, Cincinnati, OH",45202,"$374,500.00 ",1/12/2023,4,2,1876,1895,1219,0
+Kristi Duncan,"1213 Wareham Dr, Cincinnati, OH 45202",45202,"$377,600.00 ",1/12/2023,4,2,1876,1895,1219,0
+Loryn Flowers,"1213 Wareham Dr, Cincinnati, OH 45202",45202,"$374,500.00 ",1/12/2023,4,2,1876,1895,1219,0
+Reshma Punukollu,"1213 Wareham Dr, Cincinnati, OH ",45202,"$374,500.00 ",1/12/2023,4,2,1876,1895,1219,0
+Saiteja Boga,"1213 Wareham Dr, Cincinnati, OH",45202,"$374,500.00 ",1/12/2023,4,2,1876,1895,1219,0
+Vaishnavi Agnihotri,"1213 Wareham Dr, Cincinnati, OH",45202,"$374,500.00 ",1/12/2023,4,2,1876,1895,1219,0
+Priyanka Nainani,"1213 Wareham Dr, Cincinnati, OH ",45202,"$374,500.00 ",1/13/2023,4,2,1876,1895,1219.68,0
+Sean McGill,"227 Carrel Street, Cincinnati, OH",45226,"$83,500.00 ",5/8/2020,4,2,1880,1657,2439,0
+Sean McGill,"541 Tusculum Ave, Cincinnati, OH",45226,"$134,500.00 ",5/11/2020,2,2.5,1880,1102,0,0
+Nick Flessner,1131 Belvedere Street,45202,"$570,000.00 ",12/17/2020,4,5,1880,2546,1800,2
+Nick Flessner,1017 Saint Gregory Street,45202,"$355,000.00 ",10/4/2021,4,3,1880,2114,,0
+Sean McGill,"412 Hoge Street, Cincinnati, OH",45226,"$175,000.00 ",11/5/2021,2,1,1880,1024,2962,0
+Sean McGill,"4160 Eastern Ave, Cincinnati, OH",45226,"$100,000.00 ",9/28/2022,1,1.5,1880,896,2352,0
+Nick Flessner,954 Hatch Street,45202,"$550,000.00 ",9/30/2022,3,2,1880,2076,,2
+Sean Rossander,463 W McMicken Ave,45214,"$150,000.00 ",11/5/2022,3,3,1880,4080,2526,0
+Aidan Zebertavage,"180 1st St, Addyston, OH",45001,"$133,900.00 ",12/5/2022,3,3,1880,1084,4094,0
+Rudranshi Singh,"412 Stanley Ave, Cincinnati, OH",45226,"$323,000.00 ",12/15/2022,3,1.5,1880,1320,3179,0
+Tejaswini Sapkota,"224 Stanley Ave, Cincinnati, OH 45226",45266,"$147,500.00 ",12/17/2022,2,1,1880,1317,3049,0
+Jahnavi Galla,"239 Kearney St, Cincinnati, OH",45216,"$310,000.00 ",12/20/2022,3,2,1880,2558,13939.2,2
+Avi Aggarwal,"194 Ridgeway Rd, Cincinnati, Ohio",45216,"$100,000.00 ",1/6/2023,2,1,1880,1024,7579,0
+Aidan Zebertavage,"3131 Hackberry St, Cincinnati, OH",45207,"$65,000.00 ",1/9/2023,5,2,1880,2294,3789,0
+Gabriela Varisco,"3131 Hackberry St, Cincinnati, OH",45207,"$65,000.00 ",1/9/2023,5,2,1880,2294,3789,0
+Jahnavi Galla,"3129 Hackberry St, Cincinnati, OH",45207,"$65,000.00 ",1/9/2023,4,2,1880,2334,3789,0
+Kristi Duncan,"3131 Hackberry St, Cincinnati, OH 45207",45207,"$65,000.00 ",1/9/2023,5,2,1880,2294,3789,0
+Reshma Punukollu,"3131 Hackberry St, Cincinnati, OH ",45207,"$65,000.00 ",1/9/2023,5,2,1880,2294,3789,0
+Saiteja Boga,"3129 Hackberry St, Cincinnati, OH",45207,"$65,000.00 ",1/9/2023,4,2,1880,2334,3789,0
+Saiteja Boga,"3131 Hackberry St, Cincinnati, OH",45207,"$65,000.00 ",1/9/2023,5,2,1880,2294,3789,0
+Vaishnavi Agnihotri,"3131 Hackberry St, Cincinnati, OH",45207,"$65,000.00 ",1/9/2023,5,2,1880,2294,3789,0
+Avi Aggarwal,"3129 Hackberry St, Cincinnati, OH",45207,"$65,000.00 ",1/10/2023,4,2,1880,2334,3789,0
+Maddie Hannan,3129 Hackberry St,45207,"$65,000.00 ",1/10/2023,4,2,1880,2334,3789,0
+Maddie Hannan,3131 Hackberry St,45207,"$65,000.00 ",1/10/2023,5,2,1880,2294,3789,0
+Aidan Zebertavage,"194 Ridgeway Rd, Cincinnati, OH",45216,"$100,000.00 ",1/10/2023,2,1,1880,1024,7579,0
+Elayna Franklin,"194 Ridgeway Rd, Cincinnati, Ohio",45216,"$100,000.00 ",1/10/2023,2,1,1880,1024,7579,0
+Kristi Duncan,"194 Ridgeway Rd, Cincinnati, OH 45216",45216,"$100,000.00 ",1/10/2023,2,1,1880,1024,7579,0
+Maddie Hannan,194 Ridgeway Rd,45216,"$109,900.00 ",1/10/2023,2,1,1880,1024,8712,0
+Vaishnavi Agnihotri,"194 Ridgeway Rd, Cincinnati, OH",45216,"$100,000.00 ",1/10/2023,2,1,1880,1024,7579,0
+Victoria Smith,"344 Tusculum Ave, Cincinnati, OH",45226,"$263,000.00 ",10/27/2022,3,2,1881,1504,2090,0
+Loryn Flowers,"1032 Saint Gregory St, Cincinnati, OH 45202",45202,"$450,000.00 ",4/26/2022,3,3,1883,1708,2526,0
+Loryn Flowers,"1235 Martin Dr, Cincinnati, OH 45202",45202,"$445,000.00 ",10/17/2022,2,2,1884,1338,2178,0
+Vishnu Srinath,"3160 River Rd, Cincinnati, OH",45204,"$77,000.00 ",11/22/2022,4,2,1884,2854,3920,0
+Enola Picardo,"3620 Columbia Pkwy, Cincinnati, OH",45226,"$230,900.00 ",12/30/2022,2,1.5,1884,1260,3920,1
+Tejaswini Sapkota,"3620 Columbia Pkwy, Cincinnati, OH 45226",45226,"$231,600.00 ",12/30/2022,2,2,1884,1260,3920,1
+Sean McGill,"221 Congress Ave, Cincinnati, OH",45226,"$112,000.00 ",12/31/2020,3,1,1885,1536,2874,1
+Sean McGill,"442 Delta Ave, Cincinnati, OH",45226,"$200,000.00 ",9/30/2021,2,2,1885,1071,556.28,1
+Loryn Flowers,"923 Paradrome St, Cincinnati, OH 45202",45202,"$437,000.00 ",11/12/2021,3,3,1885,2098,1089,0
+Loryn Flowers,"1329 Republic St, Cincinnati, OH 45202",45202,"$725,000.00 ",4/21/2022,2,4,1885,2180,1659,0
+Victoria Smith,"3608 Archer Ave, Cincinnati, OH",45208,"$476,500.00 ",10/7/2022,3,3,1885,2595,8540,2
+Vishnu Srinath,"2417 May St, Cincinnati, OH",45206,"$184,900.00 ",11/18/2022,4,2,1885,1632,2526,0
+Reshma Punukollu,"2830 Rosella Ave, Cincinnati, OH ",45208,"$440,000.00 ",12/9/2022,3,2,1885,1328,5445,1
+Victoria Smith,"2830 Rosella Ave, Cincinnati, OH",45208,"$440,000.00 ",12/9/2022,3,2,1885,1328,5445,1
+Victoria Smith,"2828 Rosella Ave, Cincinnati, OH",45208,"$205,000.00 ",12/9/2022,2,1,1885,1109,3789,0
+Sean Rossander,1412 Knowlton St,45223,"$89,900.00 ",1/12/2023,3,1,1885,1312,2439,0
+Sean McGill,"3826 Kellogg Ave, Cincinnati, OH",45226,"$40,000.00 ",8/12/2021,2,1,1886,1072,3267,0
+Loryn Flowers,"1224 Louden St, Cincinnati, OH 45202",45202,"$851,500.00 ",3/16/2022,3,4,1886,2880,2269,2
+Nick Flessner,1010 Hatch Street,45202,"$735,000.00 ",7/8/2022,4,5,1886,3778,2483,0
+Xinzhu Sun,210 W Vine St,45215,"$115,000.00 ",12/22/2022,3,2,1886,1361,3397,2
+Chris Lindemann,"2426 Maryland Ave, Cincinnati, OH",45204,"$288,000.00 ",12/15/2022,2,2,1887,1632,1263,0
+Rudranshi Singh,"2426 Maryland Ave, Cincinnati, OH",45204,"$288,000.00 ",12/15/2022,2,2,1887,1632,1263,0
+Pavan Preetam Motagi,"3471 Brookline Ave, Cincinnati, OH",45220,"$425,000.00 ",12/9/2021,4,4,1888,3033,4487,0
+Sean Rossander,2485 Warsaw Ave,45204,"$76,000.00 ",1/10/2023,2,1,1888,1160,3963,0
+Lawrence McCullough,"504 Maple St, Cincinnati, OH",45216,"$59,909.00 ",1/12/2023,3,2,1888,1576,3310,1
+Sean McGill,"4196 Eastern Ave, Cincinnati, OH",45226,"$134,000.00 ",10/4/2021,3,1.5,1890,1530,No Data,0
+Loryn Flowers,"205 Dorsey St, Cincinnati, OH 45202",45202,"$238,500.00 ",11/3/2021,1,2,1890,1204,1917,0
+Nick Flessner,1902 Baymiller Street,45214,"$355,000.00 ",2/28/2022,5,3,1890,2874,,0
+Loryn Flowers,"46 W McMicken Ave, Cincinnati, OH 45202",45202,"$557,400.00 ",4/22/2022,4,3,1890,2833,2309,0
+Pavan Preetam Motagi,"242 Loraine Ave, Cincinnati, OH",45220,"$570,000.00 ",5/27/2022,5,5,1890,2497,6926,1
+Andrew Flach,3423 Shady Ln,45208,"$560,000.00 ",9/30/2022,3,2.5,1890,1782,5009,0
+Loryn Flowers,"966 Hatch St, Cincinnati, OH 45202",45202,"$460,000.00 ",10/14/2022,4,4,1890,2564,1699,0
+Nick Flessner,966 Hatch Street,45202,"$460,000.00 ",10/14/2022,4,4,1890,2564,1699,0
+Saiteja Boga,"3478 Vine St, Cincinnati, OH",45220,"$125,000.00 ",11/17/2022,2,1,1890,1352,4530,1
+Andrew Flach,3535 Vista Ave,45208,"$370,000.00 ",12/5/2022,3,1.5,1890,1790,3963,0
+Aidan Zebertavage,"4130 Mad Anthony St, Cincinnati, OH",45223,"$200,000.00 ",12/6/2022,4,3,1890,1235,2352,0
+Rudranshi Singh,"335 W 5th St UNIT 304, Cincinnati, OH",45202,"$318,000.00 ",12/16/2022,2,2,1890,1440,10833,1
+Chris Lindemann,"2392 Maryland Ave, Cincinnati, OH",45204,"$275,000.00 ",12/19/2022,2,2,1890,1216,3833,0
+Jahnavi Galla,"8128 Woodbine Ave, Cincinnati, OH",45216,"$245,000.00 ",12/21/2022,4,3,1890,2578,15246,1
+Enola Picardo,"1005 W Seymour Ave, Cincinnati, OH",45216,"$150,000.00 ",1/3/2023,2,1,1890,1350,10018,1
+Maddie Hannan,538 Klotter Ave,45214,"$299,000.00 ",1/6/2023,3,2,1890,2652,1829,0
+Saiteja Boga,"538 Klotter Ave, Cincinnati, OH",45214,"$299,000.00 ",1/6/2023,3,2,1890,2652,N/A,0
+Saiteja Boga,"2625 Cleinview Ave UNIT 4, Cincinnati, OH",45206,"$177,000.00 ",1/10/2023,2,1,1890,1057,N/A,0
+Vaishnavi Agnihotri,"2625 Cleinview Ave UNIT 4, Cincinnati, OH",45206,"$177,000.00 ",1/10/2023,2,1,1890,1057,12196.8,0
+Adam Wilson,1131 Carney St,45202,"$277,500.00 ",1/11/2023,2,1,1890,1085,2178,2
+Anhly Truong,1131 Carney St,45202,"$277,500.00 ",1/11/2023,2,1,1890,1085,2178,0
+Gabriela Varisco,"1131 Carney St, Cincinnati, OH",45202,"$277,500.00 ",1/11/2023,2,1,1890,1085,2178,0
+Krishnaja Pinnamaneni,"1131 Carney St, Cincinnati,",45202,"$277,500.00 ",1/11/2023,2,1,1890,1085,2178,0
+Kristi Duncan,"1131 Carney St, Cincinnati, OH 45202",45202,"$289,900.00 ",1/11/2023,2,1,1890,1085,2178,0
+Loryn Flowers,"1131 Carney St, Cincinnati, OH 45202",45202,"$289,900.00 ",1/11/2023,2,1,1890,1085,2178,0
+Maddie Hannan,1131 Carny St,45202,"$277,500.00 ",1/11/2023,2,1,1890,1085,2178,0
+Priyanka Nainani,"1131 Carney St, Cincinnati, OH ",45202,"$277,500.00 ",1/11/2023,2,1,1890,1085,2178,0
+Saiteja Boga,"1131 Carney St, Cincinnati, OH",45202,"$277,500.00 ",1/11/2023,2,1,1890,1085,2178,0
+Vaishnavi Agnihotri,"1131 Carney St, Cincinnati, OH",45202,"$277,500.00 ",1/11/2023,2,1,1890,1085,2178,0
+Nick Flessner,2029 Crown Ave,45212,"$231,500.00 ",12/15/2020,4,2,1891,2824,,3
+Sean McGill,"312 Tusculum Ave, Cincinnati, OH",45226,"$312,300.00 ",9/17/2021,3,2,1891,1720,2395,2
+Loryn Flowers,"1825 Highland Ave, Cincinnati, OH 45202",45202,"$284,000.00 ",2/17/2022,6,3,1891,4163,2395,0
+Chris Lindemann,"1850 Kinney Ave, Cincinnati, OH",45207,"$385,000.00 ",12/15/2022,6,4,1891,3695,7579,0
+Rudranshi Singh,"1850 Kinney Ave, Cincinnati, OH",45207,"$385,000.00 ",12/15/2022,6,4,1891,3695,7579,0
+Chris Lindemann,"4432 Ashland Ave, Cincinnati, OH",45212,"$370,000.00 ",12/16/2022,4,3,1891,2991,7013,2
+Pavan Preetam Motagi,"3536 Vine St, Cincinnati, OH",45220,"$180,000.00 ",3/17/2020,4,3,1894,1843,3536,0
+Pavan Preetam Motagi,"238 Senator Pl, Cincinnati, OH",45220,"$375,000.00 ",12/10/2021,6,4,1894,3720,6229,0
+Nick Flessner,454 Klotter Avenue,45214,"$360,000.00 ",11/8/2019,2,2,1895,2052,1176,1
+Pavan Preetam Motagi,"3495 Brookline Ave, Cincinnati, OH",45220,"$215,000.00 ",4/15/2020,5,2,1895,3032,10074,0
+Pavan Preetam Motagi,"245 Hosea Ave, Cincinnati, OH",45220,"$282,000.00 ",5/24/2021,3,2,1895,2149,21780,0
+Nick Flessner,1235 Ida Street,45202,"$500,000.00 ",7/30/2021,3,4,1895,2533,,0
+Nick Flessner,923 Paradrome Street,45202,"$437,000.00 ",11/12/2021,3,3,1895,2098,1083,0
+Nick Flessner,610 Klotter Avenue,45214,"$350,000.00 ",9/2/2022,3,3,1895,2006,1742,0
+Aidan Zebertavage,"6123 Navarre Pl, Cincinnati, OH",45227,"$382,000.00 ",12/14/2022,3,3,1895,1862,8668,0
+Anhly Truong,1626 Potter Pl,45207,"$171,400.00 ",12/16/2022,3,2,1895,1668,3136,0
+Sean Rossander,791 Sedham St,45204,"$69,999.00 ",12/24/2022,3,2,1895,1836,5227,1
+Hannah Grilliot,1011 McPherson Ave,45205,"$112,000.00 ",12/30/2022,4,2,1895,1996,2526,1
+Chandler Craker,"4268 Langland St, Cincinnati, OH",45223,"$479,000.00 ",1/5/2023,3,3,1895,2333,3428,1
+Hannah Grilliot,4268 Langland St,45223,"$479,000.00 ",1/5/2023,3,3,1895,2333,3428,0
+Snehal Lokhande,"4268 Langland St, Cincinnati, OH",45223,"$479,000.00 ",1/5/2023,3,3,1895,2333,3428,0
+Snehal Lokhande,"4268 Langland St, Cincinnati, OH",45223,"$479,000.00 ",1/5/2023,3,3,1895,2333,3428,0
+Gabriela Varisco,"3853 Vine St, Cincinnati, OH",45217,"$230,000.00 ",1/6/2023,3,2,1895,2456,3397,2
+Krishnaja Pinnamaneni,"3829 Llewellyn Ave, Cincinnati, OH",45223,"$37,900.00 ",1/13/2023,2,2,1895,1816,"2,787 sqft",0
+Kristi Duncan,"3829 Llewellyn Ave, Cincinnati, OH 45223",45223,"$37,900.00 ",1/13/2023,2,2,1895,1816,2787,0
+Meghana Mittameedi,"3829 Llewellyn Ave, Cincinnati, OH 45223",45223,"$37,900.00 ",1/13/2023,2,2,1895,1816,2787.84,0
+Priyanka Nainani,"3829 Llewellyn Ave, Cincinnati, OH ",45223,"$37,900.00 ",1/13/2023,2,2,1895,1816,2787.84,0
+Vaishnavi Agnihotri,"3829 Llewellyn Ave, Cincinnati, OH",45223,"$37,900.00 ",1/13/2023,2,2,1895,1816,2787,0
+Maddie Hannan,2630 Stanton Ave,45206,"$415,000.00 ",1/6/2023,9,5,1896,5078,11761,6
+Saiteja Boga,"2630 Stanton Ave, Cincinnati, OH",45206,"$415,000.00 ",1/6/2023,9,5,1896,5078,N/A,6
+Pavan Preetam Motagi,"226 Hosea Ave, Cincinnati, OH",45220,"$305,000.00 ",12/28/2021,8,5,1898,4280,8015,0
+Sean McGill,"258 Strader Ave, Cincinnati, OH",45226,"$155,000.00 ",9/1/2022,7,3.5,1898,3740,5314,0
+Xinzhu Sun,1234 2nd St,45215,"$160,000.00 ",9/26/2022,3,2,1899,1368,8537,0
+Victoria Smith,"81 Ferndale Ave, Cincinnati, OH",45216,"$158,000.00 ",5/8/2020,3,2,1900,1498,6970,0
+Pavan Preetam Motagi,"315 Bryant Ave, Cincinnati, OH",45220,"$300,000.00 ",6/3/2020,5,3,1900,2810,3789,0
+Sean McGill,"3919 Dumont Street, Cincinnati, OH",45226,"$11,970.00 ",2/10/2022,3,1,1900,960,3615,1
+Pavan Preetam Motagi,"119 Hosea Ave, Cincinnati, OH",45220,"$285,000.00 ",2/28/2022,4,2,1900,2789,6011,1
+Pavan Preetam Motagi,"217 Loraine Ave, Cincinnati, OH",45220,"$700,000.00 ",4/1/2022,6,4,1900,5765,16117,4
+Nick Flessner,1905 Baymiller Street,45214,"$805,000.00 ",6/6/2022,3,4,1900,3970,2483,2
+Andrew Flach,3470 Holly Ave,45208,"$1,290,000.00 ",9/14/2022,5,5,1900,4231,16117,2
+Rohit Bhoite,"875 Symmes Ave, Hamilton, OH",45015,"$49,000.00 ",9/20/2022,2,1,1900,1183,3920,0
+Victoria Smith,"576 Delta Ave, Cincinnati, OH",45226,"$285,000.00 ",10/7/2022,2,2,1900,1600,3702,0
+Victoria Smith,"4318 Whetsel Ave, Cincinnati, OH",45227,"$432,000.00 ",10/7/2022,3,3,1900,0,7143,0
+Saiteja Boga,"3414 Whitfield Ave, Cincinnati, OH",45220,"$515,000.00 ",11/16/2022,6,4,1900,N/A,N/A,1
+Vishnu Srinath,"636 Delta Ave, Cincinnati, OH ",45226,"$343,000.00 ",11/18/2022,4,2,1900,2075,3310,0
+Hannah Grilliot,7519 Anthony Wayne Ave,45216,"$115,000.00 ",12/30/2022,2,1,1900,1089,3746,0
+Reshma Punukollu,"7519 Anthony Wayne Ave, Cincinnati, OH ",45216,"$115,000.00 ",12/30/2022,2,1,1900,1089,3746,1
+Anhly Truong,1114 Garden Ave,45011,"$48,000.00 ",1/6/2023,1,1,1900,620,3920,0
+Sean Rossander,2002 Clarion Ave,45207,"$340,000.00 ",1/12/2023,4,2.5,1900,2230,5052,0
+Jorgen Kerens,"522 Main St, Loveland, OH",45140,"$319,000.00 ",1/13/2023,2,2,1900,1816,7623,2
+Sean Rossander,4133 Dane Ave,45223,"$279,000.00 ",1/13/2023,5,2.5,1900,1928,4356,1
+Nick Flessner,2012 Crown Ave,45212,"$137,000.00 ",9/27/2022,4,2,1901,2930,,2
+Avi Aggarwal,"3069 Beekman St, Cincinnati, Ohio",45225,"$12,000.00 ",12/30/2022,2,1,1901,1050,2700,0
+Elayna Franklin,"3069 Beekman St, Cincinnati, Ohio",45225,"$12,000.00 ",1/10/2023,2,1,1901,1050,2700,0
+Krishnaja Pinnamaneni,"3069 Beekman St, Cincinnati, OH ",45225,"$15,000.00 ",1/10/2023,2,1,1901,1050,2700,0
+Maddie Hannan,3069 Beekman St,45225,"$15,000.00 ",1/10/2023,2,1,1901,1050,2700,0
+Pavan Preetam Motagi,"3426 Bishop St, Cincinnati, OH",45220,"$360,000.00 ",5/25/2022,5,2.5,1902,2232,3920,2
+Vishnu Srinath,"6115 Glade Ave, Cincinnati, OH",45230,"$220,000.00 ",11/23/2022,2,2,1903,1469,13939.2,2
+Samipya Pamuru,"1659 See Ave, Hamilton, OH 45011",45011,"$51,000.00 ",1/2/2023,3,1,1903,864,4356,0
+Rohit Bhoite,"527 Highland Pl, Hamilton, OH",45013,"$55,000.00 ",9/19/2022,2,2,1904,1206,4791,0
+Loryn Flowers,"2215 Reading Rd, Cincinnati, OH 45202",45202,"$225,000.00 ",10/7/2022,5,2,1904,2667,4791,2
+Vishnu Srinath,"5562 Moorehead St, Cincinnati, OH",45212,"$105,000.00 ",11/21/2022,3,2,1904,832,5140,1
+Dayne Brito,"Letitia Ave, Amelia, OH 45102",45102,"$225,000.00 ",11/25/2020,4,1,1905,1203,15246,0
+Pavan Preetam Motagi,"3418 Bishop St, Cincinnati, OH",45220,"$451,000.00 ",6/7/2022,4,2,1905,2361,4443,0
+Sean McGill,"251 McCullough Street, Cincinnati, OH",45226,"$355,000.00 ",6/27/2022,3,2,1905,1840,5575,1
+Andrew Flach,3534 Larkspur Ave,45208,"$425,000.00 ",9/12/2022,3,2,1905,1577,6011,2
+Victoria Smith,"4903 Roanoke St, Cincinnati, OH",45227,"$115,000.00 ",10/26/2022,2,3,1905,1344,5140,1
+Loryn Flowers,"400 Pike St UNIT 620, Cincinnati, OH 45202",45202,"$467,500.00 ",11/1/2022,2,2,1905,1629,56628,1
+Ryan Sosinski,2731 Glenway Ave,45204,"$30,000.00 ",11/25/2022,2,2,1905,1661,6098,0
+Vishnu Srinath,"3522 Vista Ave, Cincinnati, OH",45208,"$475,000.00 ",11/28/2022,4,3,1905,2160,5140,1
+Anhly Truong,2421 Fairview Ave,45219,"$200,000.00 ",12/14/2022,4,2,1905,2150,5924,0
+Anhly Truong,1915 Tilden Ave,45212,"$251,000.00 ",12/16/2022,3,2,1905,1728,5880,2
+Chris Lindemann,"2224 Adams Ave, Cincinnati, OH",45212,"$459,900.00 ",12/20/2022,4,3,1905,2576,7492,2
+Aidan Zebertavage,"1606 Goodman Ave, Cincinnati, OH",45239,"$84,598.00 ",12/22/2022,2,2,1905,1172,4225,1
+Cormac Warde,1606 Goodman Ave,45239,"$84,598.00 ",12/22/2022,2,2,1905,1172,4225,1
+Jahnavi Galla,"1606 Goodman Ave, Cincinnati, OH",45239,"$84,598.00 ",12/22/2022,2,2,1905,1172,4225,1
+Reshma Punukollu,"400 Pike St UNIT 718, Cincinnati, OH ",45202,"$250,000.00 ",12/30/2022,1,1,1905,945,56628,1
+Avi Aggarwal,"1343 Aster Pl, Cincinnati, Ohio",45224,"$64,000.00 ",1/5/2023,2,2,1905,1292,10410,0
+Elayna Franklin,"1343 Aster Pl, Cincinnati, Ohio",45224,"$64,000.00 ",1/10/2023,2,2,1905,1292,10410,0
+Gabriela Varisco,"1343 Aster Pl, Cincinnati, OH",45224,"$64,000.00 ",1/10/2023,2,2,1905,1292,10410,0
+Kristi Duncan,"1343 Aster Pl, Cincinnati, OH 45224",45224,"$64,000.00 ",1/10/2023,2,2,1905,1292,10410,0
+Maddie Hannan,1343 Aster Pl,45224,"$64,000.00 ",1/10/2023,2,2,1905,1292,10410,0
+Vaishnavi Agnihotri,"1343 Aster Pl, Cincinnati, OH",45224,"$64,000.00 ",1/10/2023,2,1,1905,1292,10410,0
+Ryan Sosinski,2356 Park Ave Unit 406,45206,"$245,000.00 ",11/28/2022,2,1.5,1906,1283,na,0
+Sean Rossander,3347 Bonaparte Ave,45207,"$165,000.00 ",12/12/2022,5,2,1906,1816,4181,0
+Pavan Preetam Motagi,"124 Hosea Ave, Cincinnati, OH",45220,"$660,000.00 ",7/20/2020,3,3,1907,4193,13939,3
+Xinzhu Sun,313 Walnut St,45215,"$102,500.00 ",6/22/2022,2,1,1907,684,5662,0
+Rudranshi Singh,"3815 Odin Ave, Cincinnati, OH",45213,"$116,000.00 ",12/15/2022,3,2,1907,1460,9016,2
+Saiteja Boga,"423 Dorchester Ave, Cincinnati, OH",45219,"$130,000.00 ",12/28/2022,3,2,1907,1648,3092,0
+Enola Picardo,"2879 Ratterman Ave, Cincinnati, OH",45211,"$115,000.00 ",1/3/2023,3,1.5,1907,2405,7623,0
+Lawrence McCullough,"230 Cleveland Ave, Hamilton, OH",45013,"$87,200.00 ",1/12/2023,3,1,1907,1632,3685,0
+Meghana Mittameedi,"3425 Middleton Ave, Cincinnati, OH 45220",45220,"$950,000.00 ",8/17/2022,3,2,1908,2094,4443,2
+Xinzhu Sun,1311 3rd St,45215,"$177,900.00 ",9/1/2022,2,2,1908,1414,5619,3
+Xinzhu Sun,24 W Columbia Ave,45215,"$165,000.00 ",10/18/2022,2,3,1909,2117,3615,0
+Chris Lindemann,"3824 Elsmere Ave, Cincinnati, OH",45212,"$345,000.00 ",12/20/2022,3,2,1909,2356,7535,3
+Andrew Flach,1256 Edwards Rd,45208,"$865,000.00 ",12/22/2022,4,3,1909,2652,16553,3
+Avi Aggarwal,"3824 Elsmere Ave, Cincinnati, OH",45212,"$345,000.00 ",12/29/2022,3,2,1909,2356,7535,3
+Enola Picardo,"808 Academy Ave, Cincinnati, OH",45205,"$310,000.00 ",12/31/2022,6,3,1909,3732,7840,3
+Reshma Punukollu,"808 Academy Ave, Cincinnati, OH ",45205,"$310,000.00 ",12/31/2022,6,3,1909,3732,7840,3
+Jorgen Kerens,"302 Haldimand Ave, Hamilton, OH",45013,"$130,000.00 ",1/13/2023,2,2,1909,910,6124,1
+Pavan Preetam Motagi,"3400 Bishop St, Cincinnati, OH",45220,"$389,000.00 ",1/11/2022,5,5,1910,2938,9147,1
+Xinzhu Sun,114 Halker St,45215,"$150,000.00 ",5/27/2022,3,1,1910,1379,5488,0
+Pavan Preetam Motagi,"3314 Ormond Ave, Cincinnati, OH",45220,"$449,900.00 ",6/28/2022,4,4,1910,2301,5183,0
+Rohit Bhoite,"2849 Pleasant Ave, Hamilton, OH",45015,"$195,000.00 ",9/19/2022,4,3.5,1910,1680,19297,0
+Andrew Flach,1335 Michigan Ave,45208,"$692,000.00 ",10/5/2022,4,1.5,1910,2046,10018,2
+Andrew Flach,2832 E Saint Charles Pl,45208,"$885,000.00 ",10/10/2022,6,3.75,1910,4285,14375,3
+Andrew Flach,2366 Bedford Ave,45208,"$1,500,000.00 ",10/27/2022,5,4,1910,5164,35284,2
+Victoria Smith,"2366 Bedford Ave, Cincinnati, OH",45208,"$1,500,000.00 ",10/27/2022,5,4,1910,5164,35283,1
+Victoria Smith,"3900 Spencer Ave, Cincinnati, OH",45212,"$450,000.00 ",11/30/2022,5,4,1910,2567,5052,2
+Andrew Flach,3443 Mooney Ave,45208,"$655,000.00 ",12/16/2022,5,3.5,1910,3014,7623,2
+Dayne Brito,"3443 Mooney Ave, Cincinnati, OH 45208",45208,"$655,000.00 ",12/16/2022,5,4,1910,3014,7623,2
+Anhly Truong,2340 Victor St,45219,"$227,500.00 ",12/27/2022,4,2,1910,1635,2134,0
+Saiteja Boga,"2340 Victor St, Cincinnati, OH",45219,"$227,500.00 ",12/27/2022,4,2,1910,1635,2134,0
+Sean Rossander,3512 Handman Ave,45226,"$290,000.00 ",1/6/2023,2,2,1910,1320,2439,0
+Maddie Hannan,10081 Menominee Dr,45251,"$177,000.00 ",1/10/2023,3,2,1910,1457,4568,0
+Adam Wilson,311 Purcell Ave,45205,"$100,000.00 ",1/11/2023,4,2,1910,1987,3528,1
+Elayna Franklin,"311 Purcell Ave, Cincinnati, Ohio",45205,"$100,000.00 ",1/11/2023,4,2,1910,1987,3528,0
+Jahnavi Galla,"311 Purcell Ave, Cincinnati, OH",45205,"$100,000.00 ",1/11/2023,4,2,1910,1987,3528,0
+Krishnaja Pinnamaneni,"311 Purcell Ave, Cincinnati, OH",45205,"$100,000.00 ",1/11/2023,4,2,1910,1987,3528,0
+Kristi Duncan,"311 Purcell Ave, Cincinnati, OH 45205",45205,"$100,000.00 ",1/11/2023,4,2,1910,1987,3528,0
+Maddie Hannan,311 Purcell Ave,45205,"$100,000.00 ",1/11/2023,4,2,1910,1987,3528,0
+Priyanka Nainani,"311 Purcell Ave, Cincinnati, OH ",45205,"$100,000.00 ",1/11/2023,4,2,1910,1987,3528.36,0
+Saiteja Boga,"311 Purcell Ave, Cincinnati, OH",45205,"$100,000.00 ",1/11/2023,4,2,1910,1987,3528,0
+Vaishnavi Agnihotri,"311 Purcell Ave, Cincinnati, OH",45205,"$100,000.00 ",1/11/2023,4,2,1910,1987,3528,0
+Adam Wilson,1178 Herschel Ave,45208,"$405,000.00 ",1/12/2023,2,2,1910,1424,4704,1
+Elayna Franklin,"1178 Herschel Ave, Cincinnati, Ohio",45208,"$405,000.00 ",1/12/2023,2,2,1910,1424,4704,1
+Gabriela Varisco,"1178 Herschel Ave, Cincinnati, OH",45208,"$405,000.00 ",1/12/2023,2,2,1910,1424,4704,1
+Krishnaja Pinnamaneni,"1178 Herschel Ave, Cincinnati, OH",45208,"$405,000.00 ",1/12/2023,2,2,1910,1424,4704,1
+Kristi Duncan,"1178 Herschel Ave, Cincinnati, OH 45208",45208,"$405,000.00 ",1/12/2023,2,2,1910,1424,4074,1
+Vaishnavi Agnihotri,"1178 Herschel Ave, Cincinnati, OH",45208,"$405,000.00 ",1/12/2023,2,2,1910,1424,4704,1
+Priyanka Nainani,"1178 Herschel Ave, Cincinnati, OH ",45208,"$405,000.00 ",1/13/2023,2,2,1910,1424,4704.48,1
+Pavan Preetam Motagi,"3523 Vinecrest Pl, Cincinnati, OH",45220,"$389,000.00 ",7/27/2020,2,1,1911,1285,9452,0
+Chandler Craker,"422 W 22nd St, Covington, KY",41014,"$155,000.00 ",1/5/2023,1,1,1911,1092,7405,1
+Adam Wilson,675 Greenwood Ave,45229,"$257,500.00 ",1/11/2023,4,3,1911,1794,7405,0
+Elayna Franklin,"675 Greenwood Ave, Cincinnati, Ohio",45229,"$275,500.00 ",1/11/2023,4,3,1911,1794,7405,2
+Gabriela Varisco,"675 Greenwood Ave, Cincinnati, OH",45229,"$257,500.00 ",1/11/2023,4,3,1911,1794,7405,0
+Krishnaja Pinnamaneni,"675 Greenwood Ave, Cincinnati, OH",45229,"$257,500.00 ",1/11/2023,4,3,1911,1794,7405,0
+Kristi Duncan,"675 Greenwood Ave, Cincinnati, OH 45229",45229,"$257,500.00 ",1/11/2023,4,3,1911,1794,7409,0
+Priyanka Nainani,"675 Greenwood Ave, Cincinnati, OH ",45229,"$257,500.00 ",1/11/2023,4,3,1911,1794,7405.2,0
+Saiteja Boga,"675 Greenwood Ave, Cincinnati, OH",45229,"$257,500.00 ",1/11/2023,4,3,1911,1794,7405,0
+Vaishnavi Agnihotri,"675 Greenwood Ave, Cincinnati, OH",45229,"$257,500.00 ",1/11/2023,4,3,1911,1794,7405,0
+Pavan Preetam Motagi,"3341 Bishop St #3343, Cincinnati, OH",45220,"$456,000.00 ",8/17/2021,9,4,1912,4122,11761,3
+Pavan Preetam Motagi,"3341 Bishop St, Cincinnati, OH",45220,"$456,000.00 ",9/2/2021,6,2,1912,2200,11761,4
+Andrew Flach,1302 Michigan Ave,45208,"$410,000.00 ",8/26/2022,3,1.5,1912,2017,7492,2
+Sean Rossander,344 Helen St,45219,"$459,000.00 ",9/15/2022,3,3,1912,2638,4660,0
+Vishnu Srinath,"1224 Carolina Ave, Cincinnati, OH ",45237,"$204,000.00 ",11/23/2022,4,4,1912,2354,5445,0
+Chandler Craker,"5221 Rolston Ave, Norwood, OH",45212,"$224,900.00 ",1/6/2023,3,2,1912,1063,5009,1
+Lawrence McCullough,"5221 Rolston Ave, Norwoood, OH",45212,"$224,900.00 ",1/6/2023,3,2,1912,1063,5009,0
+Pavan Preetam Motagi,"3513 Telford St, Cincinnati, OH",45220,"$529,000.00 ",8/23/2021,5,4,1913,3205,21780,2
+Andrew Flach,46 Arcadia Pl,45208,"$452,000.00 ",10/7/2022,3,1.5,1913,1580,4922,1
+Pavan Preetam Motagi,"3406 Bishop St #3408, Cincinnati, OH",45220,"$449,900.00 ",10/27/2022,6,3,1913,3076,7492,3
+Aidan Zebertavage,"17 Juergens Ave, Cincinnati, OH",45220,"$169,000.00 ",12/12/2022,4,1,1913,1528,3005,0
+Saiteja Boga,"17 Juergens Ave, Cincinnati, OH",45220,"$169,000.00 ",12/12/2022,4,1,1913,1528,3005,0
+Jorgen Kerens,"630 Oak St, Newport, KY",41071,"$372,500.00 ",1/13/2023,3,2,1913,1381,3484,2
+Meghana Mittameedi,"630 Oak St, Newport, KY 41071",41071,"$372,500.00 ",1/13/2023,3,2,1913,1381,3484.8,2
+Jayanth Chowdary Bandi,"105 N Willomet Ave, Dallas, TX",75208,"$539,000.00 ",1/14/2023,3,2,1913,1687,7320,2
+Enola Picardo,"3122 Schubert Ave, Cincinnati, OH",45213,"$259,000.00 ",1/3/2023,3,2,1914,1300,7100,1
+Sean Rossander,2545 Cleinview Ave,45206,"$260,000.00 ",1/11/2023,6,3.5,1914,1571,5662,0
+Aidan Zebertavage,"3864 Isabella Ave, Cincinnati, OH",45309,"$325,000.00 ",12/20/2022,2,2,1915,1380,3484,0
+Enola Picardo,"3864 Isabella Ave, Cincinnati, OH",45209,"$325,000.00 ",12/30/2022,2,2,1915,1380,3484,0
+Hannah Grilliot,3421 McFadden Ave,45211,"$140,000.00 ",12/30/2022,2,1,1915,932,3876,0
+Enola Picardo,"6031 Cary Ave, Cincinnati, OH",45224,"$175,000.00 ",1/2/2023,4,1,1915,2769,11761,0
+Snehal Lokhande,"6031 Cary Ave, Cincinnati, OH",45224,"$175,000.00 ",1/2/2023,4,1,1915,2769,11761,0
+Mackenzie Dunn,1115 Burnet Ave,41071,"$180,000.00 ",1/6/2023,3,1,1915,1141,8712,0
+Andrew Flach,2334 E Hill Ave,45208,"$805,000.00 ",10/27/2022,5,3,1916,3303,11761,2
+Victoria Smith,"2334 E Hill Ave, Cincinnati, OH",45208,"$805,000.00 ",10/27/2022,5,4,1916,3303,11761,2
+Vishnu Srinath,"614 Trenton Ave, Cincinnati, OH",45205,"$68,300.00 ",11/23/2022,4,1,1916,1280,3005,1
+Rohit Bhoite,"305 Fairview Ave, Hamilton, OH",45015,"$155,000.00 ",9/19/2022,3,2,1917,1212,4356,2
+Jahnavi Galla,"3338 Bevis Ave, Cincinnati, OH",45207,"$215,000.00 ",12/21/2022,3,2,1917,1317,5052,0
+Cormac Warde,6834 Betts Ave,45239,"$80,000.00 ",1/3/2023,3,3,1917,1426,3615,2
+Enola Picardo,"6834 Betts Ave, Cincinnati, OH",45239,"$80,000.00 ",1/3/2023,3,2.5,1917,1426,3615,2
+Sean Rossander,5421 Whetsel Ave,45227,"$217,000.00 ",1/4/2023,2,2,1917,1208,7840,0
+Samipya Pamuru,"1741 Tytus Ave, Middletown, OH 45042",45042,"$156,000.00 ",1/10/2023,2,2,1917,1300,5527,0
+Andrew Flach,2805 Observatory Ave,45208,"$425,000.00 ",12/29/2022,3,3.5,1918,2240,4399,0
+Reshma Punukollu,"2805 Observatory Ave, Cincinnati, OH ",45208,"$425,000.00 ",12/29/2022,3,3,1918,2240,4399,0
+Xinzhu Sun,1431 Bonnell Ave,45215,"$200,000.00 ",12/29/2022,5,2,1918,2968,15246,2
+Gabriela Varisco,"6051 Belmont Ave, Cincinnati, OH",45224,"$165,000.00 ",1/6/2023,2,1,1918,1182,8189,1
+Snehal Lokhande,"6051 Belmont Ave, Cincinnati, OH",45224,"$165,000.00 ",1/6/2023,2,1,1918,1182,8189,1
+Pavan Preetam Motagi,"3429 Ruther Ave, Cincinnati, OH",45220,"$193,000.00 ",2/5/2020,1,1,1919,3064,6359,1
+Andrew Flach,2136 Easthill Ave,45208,"$930,000.00 ",8/22/2022,5,4.5,1919,4285,26572,2
+Aidan Zebertavage,"3339 Sherlock Ave, Cincinnati, OH",45220,"$275,000.00 ",12/6/2022,3,1,1919,1592,4486,1
+Saiteja Boga,"3339 Sherlock Ave, Cincinnati, OH",45220,"$275,000.00 ",12/6/2022,3,1,1919,1592,4486,1
+Loryn Flowers,"905 Paradrome St, Cincinnati, OH 45202",45202,"$413,000.00 ",3/4/2022,3,2,1920,1969,1089,0
+Andrew Flach,3012 Paul St,45208,"$357,500.00 ",9/14/2022,3,1,1920,1230,4051,1
+Andrew Flach,3014 Paul St,45208,"$357,500.00 ",9/14/2022,3,1.5,1920,1117,3528,0
+Saiteja Boga,"3515 Cornell Pl, Cincinnati, OH",45220,"$593,000.00 ",11/14/2022,5,3,1920,2671,13939.2,2
+Saiteja Boga,"15 E Interwood Pl, Cincinnati, OH",45220,"$665,000.00 ",12/13/2022,4,4,1920,3399,65340,1
+Samipya Pamuru,"521 N Main St, Georgetown, OH 45121",45121,"$110,000.00 ",12/27/2022,3,1,1920,1002,14375,1
+Mackenzie Dunn,107 Buttermilk Pike,41017,"$142,000.00 ",1/6/2023,2,2,1920,1209,392040,0
+Avi Aggarwal,"15 E Interwood Pl, Cincinnati, Ohio",45220,"$665,000.00 ",1/9/2023,4,4,1920,3399,65340,1
+Gabriela Varisco,"3466 Trimble Ave, Cincinnati, OH ",45207,"$140,000.00 ",1/12/2023,4,2,1920,2626,7448,1
+Krishnaja Pinnamaneni,"3466 Trimble Ave, Cincinnati, OH",45207,"$140,000.00 ",1/12/2023,4,2,1920,2626,7448,1
+Kristi Duncan,"3466 Trimble Ave, Cincinnati, OH 45207",45207,"$140,000.00 ",1/12/2023,4,2,1920,2626,7448,1
+Vaishnavi Agnihotri,"3466 Trimble Ave, Cincinnati, OH",45207,"$140,000.00 ",1/12/2023,4,2,1920,2626,7448,1
+Jorgen Kerens,"1406 N Fort Thomas Ave, Fort Thomas, KY",41075,"$230,000.00 ",1/13/2023,3,2,1920,,,1
+Meghana Mittameedi,"1406 N Fort Thomas Ave, Fort Thomas, KY 41075",41075,"$230,000.00 ",1/13/2023,3,2,1920,1367,1306.8,1
+Priyanka Nainani,"3466 Trimble Ave, Cincinnati, OH ",45207,"$140,000.00 ",1/13/2023,4,2,1920,2626,7448.76,1
+Loryn Flowers,"911 Paradrome St, Cincinnati, OH 45202",45202,"$514,200.00 ",11/20/2023,3,3,1920,2053,1089,0
+Lawrence McCullough,"511 W Wyoming Ave, Lockland, OH",45215,"$135,000.00 ",1/5/2023,5,4,1921,2916,23958,4
+Chris Lindemann,"3462 Woodburn Ave, Cincinnati, OH",45207,"$235,000.00 ",1/6/2023,4,2,1921,1640,3789,1
+Elayna Franklin,"3462 Woodburn Ave, Cincinnati, Ohio",45207,"$235,000.00 ",1/6/2023,4,2,1921,1640,3789,1
+Gabriela Varisco,"3462 Woodburn Ave, Cincinnati, OH",45207,"$235,000.00 ",1/6/2023,4,2,1921,1640,3789,1
+Hannah Grilliot,3462 Woodburn Ave,45207,"$235,000.00 ",1/6/2023,4,2,1921,1640,3789,1
+Maddie Hannan,3462 Woodburn Ave,45207,"$235,000.00 ",1/6/2023,4,2,1921,1640,3789,1
+Saiteja Boga,"3462 Woodburn Ave, Cincinnati, OH",45207,"$235,000.00 ",1/6/2023,4,2,1921,1640,3789,1
+Chandler Craker,"7416 Werner Ave, Cincinnati, OH",45231,"$217,000.00 ",1/6/2023,4,2,1921,1586,6403,1
+Pavan Preetam Motagi,"3496 Brookline Ave, Cincinnati, OH",45220,"$600,000.00 ",5/10/2022,4,4,1922,4144,30056,2
+Andrew Flach,18 Arcadia Pl,45208,"$500,000.00 ",10/31/2022,3,1.5,1922,1674,7274,2
+Avi Aggarwal,"514 Considine Ave, Cincinnati, OH",45205,"$200,000.00 ",12/20/2022,3,2,1922,1446,6795,1
+Chris Lindemann,"514 Considine Ave, Cincinnati, OH",45205,"$200,000.00 ",1/6/2023,3,2,1922,1446,6795,1
+Gabriela Varisco,"514 Considine Ave, Cincinnati, OH",45205,"$200,000.00 ",1/6/2023,3,2,1922,1446,6795,1
+Hannah Grilliot,514 Considine Ave,45205,"$200,000.00 ",1/6/2023,3,2,1922,1446,6795,1
+Maddie Hannan,514 Considine Ave,45205,"$200,000.00 ",1/6/2023,3,2,1922,1446,6795,1
+Andrew Flach,197 Green Hills Rd,45208,"$1,150,000.00 ",9/16/2022,5,4,1923,4542,11761,2
+Victoria Smith,"3515 Tarpis Ave, Cincinnati, OH",45208,"$310,000.00 ",10/26/2022,3,1,1923,1403,4094,1
+Rudranshi Singh,"2908 Montclair Ave, Cincinnati, OH",45211,"$112,500.00 ",12/15/2022,2,2,1923,1560,4965,2
+Rohit Bhoite,"1442 See Ave, Hamilton, OH",45011,"$20,615.00 ",9/19/2022,2,1,1924,1016,3920,0
+Cormac Warde,6718 N Betts Ave,45239,"$125,000.00 ",12/5/2022,2,1,1924,1037,3615,1
+Avi Aggarwal,"2903 Maisel Dr, Cincinnati, OH",45220,"$185,000.00 ",12/13/2022,2,2,1924,1130,2482,0
+Jahnavi Galla,"2903 Maisel Dr, Cincinnati, OH",45220,"$185,000.00 ",12/29/2022,2,2,1924,1130,2482,0
+Saiteja Boga,"2903 Maisel Dr, Cincinnati, OH",45220,"$185,000.00 ",12/29/2022,2,2,1924,1130,19602,0
+Tejaswini Sapkota,"1140 Pamela Rd, Cincinnati, OH 45255",45255,"$487,000.00 ",12/29/2022,4,5,1924,4317,30927.6,2
+Hannah Grilliot,4710 Loretta Ave,45238,"$145,900.00 ",12/30/2022,4,2,1924,1376,5793,0
+Chandler Craker,"2353 Highland Ave, Cincinnati, OH",45212,"$194,900.00 ",1/6/2023,2,2,1924,1100,5100,1
+Elayna Franklin,"3069 Henshaw Ave, Cincinnati, Ohio",45225,"$199,000.00 ",1/10/2023,2,1,1924,805,3963,0
+Kristi Duncan,"3069 Henshaw Ave, Cincinnati, OH 45225",45225,"$199,000.00 ",1/10/2023,2,1,1924,805,3963,0
+Saiteja Boga,"3069 Henshaw Ave, Cincinnati, OH",45225,"$199,000.00 ",1/10/2023,2,1,1924,805,3963,0
+Snehal Lokhande,"3069 Henshaw Ave, Cincinnati, OH",45225,"$199,000.00 ",1/10/2023,2,1,1924,805,3963,0
+Vaishnavi Agnihotri,"3069 Henshaw Ave, Cincinnati, OH",45225,"$199,000.00 ",1/10/2023,2,1,1924,805,3963,0
+Saurav Nandi,"6390 May St, Cincinnati",45243,"$370,000.00 ",7/2/2178,3,2,1924,1208,21345,2
+Andrew Flach,2766 Sarita Pl,45208,"$410,000.00 ",9/19/2022,3,1.5,1925,1468,6838,1
+Sean Rossander,1326 Ryland Ave,45237,"$225,000.00 ",10/21/2022,3,1,1925,1634,6316,0
+Ryan Sosinski,7000 Cambridge Ave,45227,"$199,900.00 ",11/29/2022,2,2,1925,1066,4138,1
+Cormac Warde,1710 Sterling Ave,45239,"$142,000.00 ",12/2/2022,2,1,1925,748,6011,1
+Aidan Zebertavage,"20 Arcadia Pl, Cincinnati, OH",45208,"$524,500.00 ",12/14/2022,3,2,1925,1468,3833,1
+Andrew Flach,20 Arcadia Pl,45208,"$524,500.00 ",12/14/2022,3,2,1925,1468,3833,1
+Anhly Truong,5001 Corinth Ave,45237,"$160,000.00 ",12/22/2022,3,2,1925,1664,5096,0
+Anhly Truong,2094 Yoast Ave,45225,"$27,500.00 ",12/29/2022,3,2,1925,720,3136,0
+Elayna Franklin,"4021 W 8th St, Cincinnati, Ohio",45205,"$230,000.00 ",1/10/2023,2,2,1925,2284,6534,0
+Gabriela Varisco,"4021 W 8th St, Cincinnati, OH",45205,"$230,000.00 ",1/10/2023,2,2,1925,2284,6534,0
+Krishnaja Pinnamaneni,"4021 W 8th St, Cincinnati, OH",45205,"$230,000.00 ",1/10/2023,2,2,1925,2284,6534,0
+Priyanka Nainani,"4021 W 8th St, Cincinnati, OH ",45205,"$230,000.00 ",1/10/2023,2,2,1925,2284,6534,0
+Vaishnavi Agnihotri,"4021 W 8th St, Cincinnati, OH",45205,"$230,000.00 ",1/10/2023,2,2,1925,2284,6534,0
+Elayna Franklin,"3934 Oakpark Pl, Cincinnati, Ohio",45209,"$185,000.00 ",1/10/2023,3,2,1925,1010,4443,0
+Krishnaja Pinnamaneni,"3934 Oakpark Pl, Cincinnati, OH",45209,"$185,000.00 ",1/10/2023,3,2,1925,-,4443,0
+Maddie Hannan,3934 Oakpark Pl,45209,"$185,000.00 ",1/10/2023,3,2,1925,1100,4443,0
+Priyanka Nainani,"3934 Oakpark Pl, Cincinnati, OH ",45209,"$185,000.00 ",1/10/2023,3,2,1925,0,4443.12,0
+Avi Aggarwal,"4021 W 8th St, Cincinnati, Ohio",45205,"$230,000.00 ",1/11/2023,2,2,1925,2284,6534,0
+Avi Aggarwal,"3934 Oakpark Pl, Cincinnati, Ohio",45209,"$185,000.00 ",1/11/2023,3,2,1925,1010,4443,0
+Adam Wilson,4030 Red Bud Ave,45229,"$289,900.00 ",1/11/2023,4,3,1925,2821,6621,2
+Chris Lindemann,"4030 Red Bud Ave, Cincinnati, OH",45229,"$289,900.00 ",1/11/2023,4,3,1925,2821,6621,2
+Elayna Franklin,"4030 Red Bud Ave, Cincinnati, Ohio",45229,"$289,900.00 ",1/11/2023,4,3,1925,2921,6621,2
+Gabriela Varisco,"4030 Red Bud Ave, Cincinnati, OH",45229,"$289,900.00 ",1/11/2023,4,3,1925,2821,6621,2
+Krishnaja Pinnamaneni,"4030 Red Bud Ave, Cincinnati, OH",45229,"$289,900.00 ",1/11/2023,4,3,1925,2821,6621,2
+Kristi Duncan,"4030 Red Bud Ave, Cincinnati, OH 45229",45229,"$289,900.00 ",1/11/2023,4,3,1925,2821,6621,2
+Maddie Hannan,4030 Red Bud Ave,45229,"$289,900.00 ",1/11/2023,4,3,1925,2821,6621,2
+Priyanka Nainani,"4030 Red Bud Ave, Cincinnati, OH ",45229,"$289,900.00 ",1/11/2023,4,3,1925,2821,6621.12,2
+Saiteja Boga,"4030 Red Bud Ave, Cincinnati, OH",45229,"$28,990.00 ",1/11/2023,4,3,1925,2821,6621,2
+Vaishnavi Agnihotri,"4030 Red Bud Ave, Cincinnati, OH",45229,"$289,900.00 ",1/11/2023,4,3,1925,2821,6621,2
+Xinzhu Sun,1425 Jefferson Ave,45215,"$159,000.00 ",9/23/2022,2,1,1926,1243,4704,2
+Ryan Sosinski,586 Greenwell Ave,45238,"$55,000.00 ",11/28/2022,4,1,1926,1585,9321,0
+Victoria Smith,"3418 Delta Ave, Cincinnati, OH",45208,"$469,900.00 ",12/9/2022,4,2,1926,1940,10890,1
+Saiteja Boga,"3741 Norwich Ln, Cincinnati, OH",45220,"$130,000.00 ",12/14/2022,3,2,1926,1407,8058,1
+Xinzhu Sun,1304 Market St,45215,"$161,600.00 ",12/22/2022,2,2,1926,1148,2744,0
+Chandler Craker,"3865 Kirkup Ave, Cincinnati, OH",45213,"$153,000.00 ",1/5/2023,2,2,1926,1112,7535,2
+Hannah Grilliot,3865 Kirkup Ave,45213,"$153,000.00 ",1/5/2023,2,2,1926,1112,7535,2
+Lawrence McCullough,"3865 Kirkup Ave, Cincinnati, OH",45213,"$153,000.00 ",1/5/2023,2,2,1926,1112,7535,2
+Avi Aggarwal,"3741 Norwich Ln, Cincinnati, Ohio",45220,"$131,200.00 ",1/9/2023,3,2,1926,1407,8058,3
+Elayna Franklin,"4508 Plainville Rd, Cincinnati, Ohio",45227,"$120,000.00 ",1/10/2023,3,1,1926,1053,4138,0
+Krishnaja Pinnamaneni,"4508 Plainville Rd, Cincinnati, OH",45227,"$120,000.00 ",1/10/2023,3,1,1926,1053,4138,0
+Kristi Duncan,"4508 Plainville Rd, Cincinnati, OH 45227",45227,"$120,000.00 ",1/10/2023,3,1,1926,1053,4138,0
+Maddie Hannan,4508 Plainville Rd,45227,"$120,000.00 ",1/10/2023,3,1,1926,1053,4138,0
+Priyanka Nainani,"4508 Plainville Rd, Cincinnati, OH ",45227,"$120,000.00 ",1/10/2023,3,1,1926,1053,4138.2,0
+Vaishnavi Agnihotri,"4508 Plainville Rd, Cincinnati, OH",45227,"$120,000.00 ",1/10/2023,3,1,1926,1053,4138,0
+Avi Aggarwal,"4508 Plainville Rd, Cincinnati, Ohio",45227,"$120,000.00 ",1/11/2023,3,1,1926,1053,4138,0
+Sean McGill,"4772 Mount Alverno Rd, Delhi, OH",45238,"$55,000.00 ",6/27/2021,4,1,1927,1392,12197,1
+Pavan Preetam Motagi,"3380 Bishop St, Cincinnati, OH",45220,"$522,350.00 ",11/19/2021,6,2,1927,4479,13939,4
+Vishnu Srinath,"2819 Inverness PI, Cincinnati, OH ",45209,"$557,500.00 ",11/21/2022,4,2,1927,2000,5924,2
+Avi Aggarwal,3419 Manor Hill Dr,45220,"$535,000.00 ",12/8/2022,4,4,1927,1420,7840,2
+Chris Lindemann,"2513 Williams Ave, Cincinnati, OH",45212,"$215,000.00 ",12/16/2022,2,1,1927,1296,3615,1
+Enola Picardo,"2506 Warsaw Ave, Cincinnati, OH",45204,"$70,000.00 ",1/3/2023,2,1.5,1927,1105,4878,1
+Chandler Craker,"3419 Manor Hill Dr, Cincinnati, OH",45220,"$535,000.00 ",1/5/2023,4,4,1927,2547,7840,2
+Hannah Grilliot,3419 Manor Hill Dr,45220,"$535,000.00 ",1/5/2023,4,4,1927,1420,7840,2
+Saiteja Boga,"3419 Manor Hill Dr, Cincinnati, OH ",45220,"$535,000.00 ",1/5/2023,4,4,1927,2547,7840,2
+Snehal Lokhande,"3419 Manor Hill Dr, Cincinnati, OH",45220,"$535,000.00 ",1/5/2023,4,4,1927,2547,7840,2
+Meghana Mittameedi,"3656 Jessup Rd, Cincinnati, OH 45247",45247,"$184,900.00 ",1/13/2023,3,1,1927,1281,25961.7,1
+Pavan Preetam Motagi,"124 Glenmary Ave, Cincinnati, OH",45220,"$389,000.00 ",7/28/2020,5,4,1928,2571,14375,0
+Pavan Preetam Motagi,"102 Glenmary Ave, Cincinnati, OH",45220,"$226,000.00 ",4/25/2022,3,2,1928,1812,3789,2
+Xinzhu Sun,1423 Market St,45215,"$20,300.00 ",10/28/2022,3,2,1928,1774,14810.4,0
+Vishnu Srinath,"3933 Marburgh Ave, Cincinnati, OH",45209,"$273,000.00 ",11/18/2022,3,2,1928,1242,8712,2
+Cormac Warde,1928 Sterling Ave,45239,"$165,000.00 ",12/5/2022,3,2,1928,1426,6011,1
+Sean Rossander,1317 Ryland Ave,45237,"$102,900.00 ",12/14/2022,2,1,1928,1294,4007,2
+Anhly Truong,4707 Hamilton Ave,45223,"$309,900.00 ",12/16/2022,2,2,1928,1307,17859.6,1
+Rudranshi Singh,"4707 Hamilton Ave, Cincinnati, OH",45223,"$309,900.00 ",12/16/2022,2,2,1928,1307,17859,1
+Tejaswini Sapkota,"1360 Voll Rd, Cincinnati, OH 45230",45230,"$249,000.00 ",12/20/2022,3,2,1928,2244,17424,3
+Lawrence McCullough,"226 Charles St, Cincinnnati, OH",45215,"$290,000.00 ",1/5/2023,3,2,1928,1164,6751,0
+Gabriela Varisco,"2947 Feltz Ave, Cincinnati, OH",45211,"$189,900.00 ",1/6/2023,3,1,1928,1261,8450,2
+Hannah Grilliot,2947 Feltz Ave,45211,"$189,900.00 ",1/6/2023,3,1,1928,1261,8450,2
+Saurav Nandi,6866 Esther Ln,45243,"$260,000.00 ",9/14/2206,3,2,1928,1240,6969,2
+Pavan Preetam Motagi,"256 Ludlow Ave, Cincinnati, OH",45220,"$320,000.00 ",7/24/2020,5,2,1929,4364,6795,0
+Rohit Bhoite,"514 Laurel Ave, Hamilton, OH",45015,"$115,000.00 ",9/20/2022,3,2,1929,1080,4791.6,2
+Andrew Flach,2632 Handasyde Ave,45208,"$834,900.00 ",12/9/2022,3,3,1929,2509,5706,2
+Aidan Zebertavage,"3334 Claramont Ave, Cincinnati, OH",45209,"$332,000.00 ",12/12/2022,2,1,1929,1330,3876,0
+Snehal Lokhande,"1557 Wittekind Ter, Cincinnati, OH",45224,"$240,000.00 ",12/22/2022,4,3,1929,1876,7623,1
+Hannah Grilliot,4111 Flower Ave,45205,"$153,000.00 ",12/30/2022,2,1,1929,1166,4051,1
+Aidan Zebertavage,"6 Sheldon Clos, Cincinnati, OH",45227,"$600,000.00 ",1/3/2023,2,5,1929,1831,6577,2
+Enola Picardo,"6 Sheldon Clos, Cincinnati, OH",45227,"$600,000.00 ",1/3/2023,2,4.5,1929,1831,6577,2
+Mackenzie Dunn,6 Sheldon Clos,45227,"$600,000.00 ",1/3/2023,2,5,1929,1831,6577,2
+Anhly Truong,2632 Queen City Ave,45238,"$105,000.00 ",1/3/2023,4,2,1929,1770,11761.2,1
+Enola Picardo,"2632 Queen City Ave, Cincinnati, OH",45238,"$105,000.00 ",1/3/2023,4,2,1929,1770,11761,1
+Gabriela Varisco,"3244 Stanhope Ave, Cincinnati, OH",45211,"$121,000.00 ",1/6/2023,2,2,1929,1040,4660,0
+Hannah Grilliot,3244 Stanhope Ave,45211,"$121,000.00 ",1/6/2023,2,2,1929,1040,4660,0
+Chandler Craker,"9469 Reading Rd, Cincinnati, OH",45215,"$155,000.00 ",1/6/2023,2,1,1929,1157,10018,1
+Lawrence McCullough,"9469 Reading Rd, Cincinnati, OH ",45215,"$155,000.00 ",1/6/2023,2,1,1929,1157,10018,1
+Xinzhu Sun,9469 Reading Rd,45215,"$155,000.00 ",1/6/2023,2,1,1929,1157,10018,1
+Gabriela Varisco,"2746 Enslin St, Cincinnati, OH",45225,"$149,900.00 ",1/6/2023,2,2,1929,1332,4181,0
+Hannah Grilliot,2746 Enslin St,45225,"$149,000.00 ",1/6/2023,2,2,1929,1332,,0
+Maddie Hannan,2746 Enslin St,45225,"$149,900.00 ",1/6/2023,2,2,1929,1332,4181,0
+Victoria Smith,"1302 Herlin Pl Cincinnati, OH",45208,"$404,000.00 ",10/27/2022,3,2,1930,1506,5445,1
+Vishnu Srinath,"3819 Edge Hill PI, Cincinnati, OH",45229,"$90,000.00 ",11/18/2022,3,2,1930,1184,7623,2
+Andrew Flach,3511 Victoria Pl,45208,"$340,000.00 ",12/9/2022,3,3,1930,1566,6882,2
+Jahnavi Galla,"3804 Beech St, Cincinnati, OH",45227,"$426,800.00 ",12/23/2022,3,2,1930,1758,4399,1
+Anhly Truong,5037 Western Hills Ave,45238,"$190,000.00 ",12/29/2022,5,1,1930,1658,6054,1
+Aidan Zebertavage,"1812 Carll St, Cincinnati, OH",45225,"$62,500.00 ",1/2/2023,2,1,1930,964,5314,0
+Enola Picardo,"1812 Carll St, Cincinnati, OH",45225,"$62,500.00 ",1/3/2023,2,1,1930,964,5314,0
+Snehal Lokhande,"1812 Carll St, Cincinnati, OH",45225,"$62,500.00 ",1/3/2023,2,1,1930,964,5314,0
+Lawrence McCullough,"822 W Main St, Wilmington, OH",45177,"$57,500.00 ",1/12/2023,2,1,1930,1088,18295,0
+Krishnaja Pinnamaneni,"2015 Emerson Ave, Cincinnati, OH",45239,"$145,000.00 ",1/13/2023,2,1,1930,825,6185,2
+Kristi Duncan,"2015 Emerson Ave, Cincinnati, OH 45239",45239,"$145,000.00 ",1/13/2023,2,1,1930,825,6185,2
+Snehal Lokhande,"2015 Emerson Ave, Cincinnati, OH",45239,"$145,000.00 ",1/13/2023,2,1,1930,825,6185,2
+Vaishnavi Agnihotri,"2015 Emerson Ave, Cincinnati, OH",45239,"$145,000.00 ",1/13/2023,2,1,1930,825,6185,2
+Anhly Truong,748 Beechwood Ave,45232,"$200,000.00 ",12/15/2022,3,2,1932,1724,4356,0
+Dayne Brito,"9 Lakeview Dr, North Bend, OH 45052",45052,"$60,000.00 ",12/20/2022,2,1,1932,1064,43996,1
+Sean McGill ,"3 Stanley Lane, Cincinnati, OH",45226,"$810,000.00 ",10/26/2020,4,3.5,1933,3900,74052,2
+Samipya Pamuru,"2300 Oxford State Rd, Middletown, OH 45044",45044,"$139,900.00 ",1/9/2023,3,1,1933,1366,37026,2
+Lawrence McCullough,"309 Starr Ave, Hamilton, OH",45013,"$95,510.00 ",1/12/2023,2,1,1933,660,3484,1
+Vishnu Srinath,"4576 Herzog PI, Cincinnati, OH",45238,"$229,000.00 ",11/22/2022,4,2,1935,1224,19602,3
+Jahnavi Galla,"3136 Portsmouth Ave, Cincinnati, OH",45208,"$610,000.00 ",12/28/2022,4,3,1935,3259,9452,2
+Meghana Mittameedi,"1489 Burney Ln, Cincinnati, OH 45230",45230,"$310,000.00 ",1/13/2023,3,3,1935,2128,10715.76,1
+Pavan Preetam Motagi,"239 Glenmary Ave, Cincinnati, OH",45220,"$290,000.00 ",7/11/2022,2,2,1936,1195,2918,1
+Victoria Smith,"3223 Glengyle Ave, Cincinnati, OH",45208,"$385,000.00 ",10/7/2022,3,2,1936,1351,5575,1
+Ryan Sosinski,1006 Anderson Ferry Rd,45238,"$152,500.00 ",11/28/2022,2,2,1936,1260,9234,1
+Aidan Zebertavage,"1966 Catalina Ave, Cincinnati, OH",45237,"$250,000.00 ",12/21/2022,3,2,1936,1466,5739,0
+Samipya Pamuru,"200 N High St, Georgetown, OH 45121",45121,"$148,000.00 ",1/3/2023,2,1,1936,1068,6534,0
+Victoria Smith,"3422 Ault Ave, Cincinnati, OH",45208,"$875,000.00 ",10/27/2022,3,2,1937,2886,5401,1
+Vishnu Srinath,"6714 Jersey Ave, Cincinnati, OH",45223,"$195,000.00 ",11/22/2022,3,1,1937,1335,8145,1
+Victoria Smith,"1660 Beacon St, Cincinnati, OH",45230,"$210,000.00 ",12/9/2022,4,2,1937,1825,6272,1
+Cormac Warde,5405 Philloret Dr,45239,"$139,000.00 ",12/15/2022,3,2,1938,1674,10759,2
+Enola Picardo,"6200 Tyne Ave, Cincinnati, OH",45213,"$380,000.00 ",12/30/2022,4,2.5,1938,1716,23958,4
+Hannah Grilliot,6200 Tyne Ave,45213,"$380,000.00 ",12/30/2022,4,3,1938,1716,23958,4
+Gabriela Varisco,"3922 Odin Ave, Cincinnati, OH",45213,"$156,000.00 ",1/6/2023,2,2,1938,1256,7492,1
+Tejaswini Sapkota,"1489 Burney Ln, Cincinnati, OH 45230",45230,"$310,000.00 ",1/11/2023,3,3,1938,2128,10715,1
+Meghana Mittameedi,"4241 Race Rd, Cincinnati, OH 45211",45211,"$215,500.00 ",1/13/2023,3,1,1938,1814,17554.6,1
+Aidan Zebertavage,"1489 Burney Ln, Cincinnati, OH",45230,"$310,000.00 ",1/13/2023,3,3,1938,2128,10715,1
+Krishnaja Pinnamaneni,"1489 Burney Ln, Cincinnati, OH",45230,"$310,000.00 ",1/13/2023,3,3,1938,2128,10715,1
+Kristi Duncan,"1489 Burney Ln, Cincinnati, OH 45230",45230,"$310,000.00 ",1/13/2023,3,3,1938,2128,10715,2
+Priyanka Nainani,"1489 Burney Ln, Cincinnati, OH ",45230,"$310,000.00 ",1/13/2023,3,3,1938,2128,10715.76,1
+Vaishnavi Agnihotri,"1489 Burney Ln, Cincinnati, OH",45230,"$310,000.00 ",1/13/2023,3,3,1938,2128,10715,2
+Saurav Nandi,7064 Shawnee Run Rd,45243,"$350,000.00 ",8/2/2153,3,3,1938,1570,14375,1
+Saurav Nandi,6767 Rose Crest Ave,45243,"$235,000.00 ",1/30/1929,2,1,1939,866,5619,1
+Pavan Preetam Motagi,"130 Glenmary Ave, Cincinnati, OH",45220,"$296,000.00 ",4/1/2020,3,2,1939,1502,5793,2
+Pavan Preetam Motagi,"143 Crestmont Ln, Cincinnati, OH",45220,"$332,103.00 ",10/14/2021,3,3,1939,1256,6272,3
+Adam Wilson,5518 Leumas Rd,45239,"$206,000.00 ",1/12/2023,3,2,1939,1137,6490,1
+Aidan Zebertavage,"2336 Banning Rd, Cincinnati, OH",45239,"$164,900.00 ",11/30/2022,2,1,1940,868,46173.6,2
+Cormac Warde,2751 Jessup Rd,45239,"$207,000.00 ",12/12/2022,3,2,1940,1610,9539,2
+Rudranshi Singh,"860 Northern Pkwy, Cincinnati, OH",45224,"$231,000.00 ",12/16/2022,3,2,1940,1463,5619,1
+Reshma Punukollu,"1708 Flora Ave, Cincinnati, OH ",45231,"$195,500.00 ",12/20/2022,3,2,1940,1647,6621,1
+Jahnavi Galla,"4428 Camberwell Rd, Cincinnati, OH",45209,"$275,000.00 ",12/23/2022,3,1,1940,1566,11761.2,1
+Sean Rossander,2460 Kipling Ave,45239,"$185,000.00 ",12/25/2022,3,2,1940,1260,6577,2
+Anhly Truong,301 Home Ave,45215,"$173,000.00 ",1/3/2023,3,1,1940,1607,6446,1
+Avi Aggarwal,"2726 Wekastle Ln, Cincinnati, Ohio",45211,"$152,500.00 ",1/10/2023,3,3,1940,2168,7361,2
+Adam Wilson,2726 Werkastle Ln,45211,"$152,500.00 ",1/11/2023,3,3,1940,2168,7361,2
+Elayna Franklin,"2726 Wekastle Ln, Cincinnati, Ohio",45211,"$152,500.00 ",1/11/2023,3,3,1940,2168,7361,2
+Jahnavi Galla,"2726 Werkastle Ln, Cincinnati, OH",45211,"$152,500.00 ",1/11/2023,3,3,1940,2168,7361,2
+Krishnaja Pinnamaneni,"2726 Werkastle Ln, Cincinnati",45211,"$152,500.00 ",1/11/2023,3,3,1940,2168,7361,2
+Kristi Duncan,"2726 Werkastle Ln, Cincinnati, OH 45211",45211,"$152,500.00 ",1/11/2023,3,3,1940,2168,7361,2
+Maddie Hannan,2726 Werkastle Ln,45211,"$152,500.00 ",1/11/2023,3,3,1940,2168,7361,2
+Priyanka Nainani,"2726 Werkastle Ln, Cincinnati, OH",45211,"$152,500.00 ",1/11/2023,3,3,1940,2168,7361.64,2
+Vaishnavi Agnihotri,"2726 Werkastle Ln, Cincinnati, OH",45211,"$152,500.00 ",1/11/2023,3,3,1940,2168,7361,2
+Jorgen Kerens,"4940 N State Route 72, Sabina, OH",45169,"$172,500.00 ",1/13/2023,4,1,1940,1304,43560,3
+Nitish HS Reddy,"4940 N State Route 72, Sabina, OH 45169",45169,"$172,500.00 ",1/13/2023,4,1,1940,1304,43560,3
+Sean McGill,"411 Plum Rd, Cincinnati, OH",45238,"$125,000.00 ",9/20/2021,2,1,1941,1054,4965,0
+Neil Bechmann,9307 Daly Rd,45231,"$280,000.00 ",7/6/2022,3,2.5,1941,2164,115869.6,4
+Xinzhu Sun,21 Gahl Ter,45215,"$185,000.00 ",7/27/2022,3,1,1941,1314,6403,1
+Ryan Sosinski,4998 Mount Alverno Rd,45238,"$185,000.00 ",11/28/2022,4,2,1941,1937,,2
+Cormac Warde,7022 Ellen Ave,45239,"$116,900.00 ",12/7/2022,4,2,1941,1607,4965,1
+Jahnavi Galla,"4117 Paxton Ave, Cincinnati, OH",45209,"$372,000.00 ",12/28/2022,3,2,1941,1575,6708,1
+Elayna Franklin,"7336 Reading Rd, Cincinnati, Ohio",45237,"$253,000.00 ",1/6/2023,4,4,1941,2500,5634,7
+Avi Aggarwal,"4117 Paxton Ave, Cincinnati, OH",45209,"$372,000.00 ",1/9/2023,3,2,1941,1575,6708,1
+Avi Aggarwal,"7336 Reading Rd, Cincinnati, Ohio",45237,"$253,000.00 ",1/9/2023,4,4,1941,2500,5634,7
+Avi Aggarwal,"7336 Reading Rd, Cincinnati, Ohio",45237,"$253,000.00 ",1/10/2023,4,4,1941,2500,5634,7
+Saurav Nandi,7156 Maple Ave,45243,"$876,066.00 ",9/17/2232,4,4,1941,2682,10149,2
+Jorgen Kerens,"406 Kentucky St, La Grange, KY",40031,"$209,900.00 ",1/13/2023,3,1,1942,1217,27442,1
+Nitish HS Reddy,"
+406 Kentucky St, La Grange, KY 40031",40031,"$209,900.00 ",1/13/2023,3,1,1942,1217,27442.8,
+Rohit Bhoite,"915 Lawn Ave, Hamilton, OH",45013,"$165,000.00 ",9/19/2022,2,1,1943,1411,6969,0
+Samipya Pamuru,"1351 Pyle Rd, Clarksville, OH 45113",45113,"$47,000.00 ",12/20/2022,3,1,1943,1280,41818,0
+Saurav Nandi,"50 Gahl Ter, Reading",45215,"$229,000.00 ",12/24/2068,6,4,1943,1468,6054,4
+Samipya Pamuru,"740 Fort Hill Rd, Maysville, KY 41056",41056,"$580,000.00 ",11/3/2022,4,4,1944,3024,85378,3
+Vishnu Srinath,"206 Escalon St, Cincinnati, OH",45216,"$123,500.00 ",11/23/2022,2,1,1946,1335,5662,0
+Cormac Warde,2010 Dallas Ave,45239,"$155,000.00 ",12/2/2022,3,2,1946,2580,8755,1
+Jorgen Kerens,"103 Stevenson Rd, Erlanger, KY",41018,"$92,000.00 ",1/13/2023,3,2,1946,1081,12197,1
+Meghana Mittameedi,"103 Stevenson Rd, Erlanger, KY 41018",41018,"$92,000.00 ",1/13/2023,3,2,1946,1081,12197,1
+Nitish HS Reddy,"103 Stevenson Rd, Erlanger, KY 41018",41018,"$92,000.00 ",1/13/2023,3,2,1946,1081,12197,1
+Dayne Brito,"5625 Surrey Ave, Cincinnati, OH 45248",45248,"$159,000.00 ",1/13/2023,2,1,1946,934,7492,1
+Meghana Mittameedi,"5625 Surrey Ave, Cincinnati, OH 45248",45248,"$159,000.00 ",1/13/2023,2,1,1946,934,7492.32,1
+Sean McGill,"384 Bob Dr, Cincinnati, OH",45238,"$95,000.00 ",3/5/2021,3,1.5,1947,988,6120,1
+Tejaswini Sapkota,"6329 Coffey St, Cincinnati, OH 45230",45230,"$175,000.00 ",12/16/2022,2,2,1947,1331,10193,1
+Mackenzie Dunn,6304 Stewart Rd,45227,"$220,000.00 ",1/6/2023,3,3,1947,979,13939.2,1
+Avi Aggarwal,"58 Laurel St, Cincinnati, Ohio",45216,"$206,000.00 ",1/10/2023,3,3,1947,1000,8276,0
+Elayna Franklin,"58 Laurel St, Cincinnati, Ohio",45216,"$206,000.00 ",1/10/2023,3,3,1947,1000,8276,0
+Krishnaja Pinnamaneni,"58 Laurel St, Cincinnati, OH",45216,"$206,000.00 ",1/10/2023,3,3,1947,-,8276,0
+Maddie Hannan,58 Laurel St,45216,"$206,000.00 ",1/10/2023,3,3,1947,1890,8276,0
+Priyanka Nainani,"58 Laurel St, Cincinnati, OH ",45216,"$206,000.00 ",1/11/2023,3,3,1947,0,8276.4,1
+Sethavatey Limsreng,"7840 Campus Ln, Montgomery, OH 45242",45242,"$525,000.00 ",9/27/2022,3,3,1948,2566,19602,1
+Tejaswini Sapkota,"1221 Coolidge Ave, Cincinnati, OH 45230",45230,"$207,000.00 ",12/14/2022,4,2,1948,1685,7230,1
+Cormac Warde,2728 Robers Ave,45239,"$226,600.00 ",12/19/2022,4,3,1948,2799,10541,1
+Snehal Lokhande,"2728 Robers Ave, Cincinnati, OH",45239,"$226,600.00 ",12/19/2022,4,3,1948,2799,10541,1
+Jahnavi Galla,"5137 Highview Dr, Cincinnati, OH",45238,"$185,000.00 ",12/27/2022,4,2,1948,2090,7187,1
+Aidan Zebertavage,"6973 Paddison Rd, Cincinnati, OH",45230,"$240,000.00 ",1/3/2023,3,1,1948,1620,27442.8,1
+Enola Picardo,"6973 Paddison Rd, Cincinnati, OH",45230,"$240,000.00 ",1/3/2023,3,1,1948,1620,27443,1
+Avi Aggarwal,"6141 Sunridge Dr, Cincinnati, Ohio",45224,"$199,000.00 ",1/6/2023,4,2,1948,1266,5706,1
+Samipya Pamuru,"500 Sharon Ln, Hamilton, OH 45013",45013,"$170,000.00 ",1/9/2023,3,2,1948,2087,8276,1
+Aidan Zebertavage,"6141 Sunridge Dr, Cincinnati, OH",45224,"$199,000.00 ",1/10/2023,4,2,1948,1266,5706,1
+Elayna Franklin,"6141 Sunridge Dr, Cincinnati, Ohio",45224,"$199,000.00 ",1/10/2023,4,2,1948,1266,5706,1
+Gabriela Varisco,"6141 Sunridge Dr, Cincinnati, OH",45224,"$199,000.00 ",1/10/2023,4,2,1948,1266,5706,1
+Jahnavi Galla,"6141 Sunridge Dr, Cincinnati, OH",45224,"$199,000.00 ",1/10/2023,4,2,1948,1266,5706,1
+Kristi Duncan,"6141 Sunridge Dr, Cincinnati, OH 45224",45224,"$199,000.00 ",1/10/2023,4,2,1948,1266,5706,1
+Maddie Hannan,6141 Sunridge Dr,45224,"$199,000.00 ",1/10/2023,4,2,1948,1266,5706,1
+Snehal Lokhande,"6141 Sunridge Dr, Cincinnati, OH",45224,"$199,000.00 ",1/10/2023,4,2,1948,1266,5706,1
+Vaishnavi Agnihotri,"6141 Sunridge Dr, Cincinnati, OH",45224,"$199,000.00 ",1/10/2023,4,2,1948,1266,5706,1
+Sean Rossander,4757 Basil Ln,45238,"$264,900.00 ",1/10/2023,4,2,1948,1083,8703,1
+Saurav Nandi,7229 Iuka Ave,45243,"$291,400.00 ",11/17/2228,3,1,1948,1308,7187,2
+Victoria Smith,"1088 McMann Spur, Cincinnati, OH",45245,"$215,000.00 ",12/10/2022,3,2,1949,1312,30927,2
+Jayanth Chowdary Bandi,"332 Krueger St, Dallas, TX",75224,"$225,000.00 ",12/20/2022,3,1,1949,936,8450,1
+Anhly Truong,2635 Cypress Way,45212,"$295,000.00 ",1/4/2023,3,2,1949,2302,6534,1
+Sean Rossander,8080 Knollwood Ln,45224,"$114,000.00 ",1/6/2023,5,1,1949,1589,15246,1
+Sean McGill,"4561 Mayhew Ave, Cincinnati, OH",45238,"$126,000.00 ",5/26/2020,3,1,1950,1471,13068,1
+Andrew Flach,405 Torrence Ct,45202,"$632,000.00 ",11/20/2020,3,3,1950,2290,5052,1
+Nick Flessner,2020 Crown Ave,45212,"$215,000.00 ",9/24/2021,3,2,1950,1800,4007,3
+Samipya Pamuru,"54 Bryant Cir, Maysville, KY 41056",41056,"$130,000.00 ",10/31/2022,3,1,1950,1488,8712,0
+Aidan Zebertavage,"2641 Gracewood Ave, Cincinnati, OH",45239,"$243,900.00 ",12/6/2022,3,2,1950,1235,8886,1
+Cormac Warde,2641 Gracewood Ave,45239,"$243,900.00 ",12/6/2022,3,2,1950,1235,8886,1
+Cormac Warde,6942 Rob Vern Dr,45239,"$140,000.00 ",12/6/2022,4,2,1950,1721,7535,1
+Reshma Punukollu,"2641 Gracewood Ave, Cincinnati, OH ",45239,"$243,900.00 ",12/6/2022,3,2,1950,1235,8886,1
+Reshma Punukollu,"4294 Mayhew Ave, Cincinnati, OH ",45238,"$225,000.00 ",12/9/2022,5,2,1950,2438,24829,1
+Rudranshi Singh,"3062 Belden Cir, Cincinnati, OH",45211,"$201,000.00 ",12/15/2022,4,2,1950,1889,7840,2
+Samipya Pamuru,"627 N Mulberry St, Wilmington, OH 45177",45177,"$130,000.00 ",12/19/2022,2,1,1950,828,7448,2
+Wenhan Zhu,"7141 Tylersville Rd, West Chester, OH 45069",45069,"$189,000.00 ",12/30/2022,3,1,1950,1326,14300,1
+Avi Aggarwal,"1183 Nancy Lee Ln, Cincinnati, Ohio",45238,"$215,500.00 ",1/6/2023,4,2,1950,1077,6229,1
+Aidan Zebertavage,"1183 Nancy Lee Ln, Cincinnati, OH",45238,"$215,500.00 ",1/9/2023,4,2,1950,1077,6229,0
+Chris Lindemann,"1183 Nancy Lee Ln, Cincinnati, OH",45238,"$215,500.00 ",1/9/2023,4,2,1950,1077,6229,2
+Elayna Franklin,"1183 Nancy Lee Ln, Cincinnati, Ohio",45238,"$215,500.00 ",1/9/2023,4,2,1950,1077,6229,1
+Gabriela Varisco,"1183 Nancy Lee Ln, Cincinnati, OH",45238,"$215,500.00 ",1/9/2023,4,2,1950,1077,6229,0
+Krishnaja Pinnamaneni,"1183 Nancy Lee Ln, Cincinnati, OH",45238,"$215,500.00 ",1/9/2023,4,2,1950,1077,6229,0
+Kristi Duncan,"1183 Nancy Lee Ln, Cincinnati, OH 45238",45238,"$215,500.00 ",1/9/2023,4,2,1950,1077,6229,0
+Mackenzie Dunn,1183 Nancy Lee Ln,45238,"$215,500.00 ",1/9/2023,4,2,1950,1077,6229,0
+Vaishnavi Agnihotri,"1183 Nancy Lee Ln, Cincinnati, OH",45238,"$215,500.00 ",1/9/2023,4,2,1950,1077,6229,0
+Maddie Hannan,1183 Nancy Lee Ln,45238,"$215,500.00 ",1/10/2023,4,2,1950,1077,6229,0
+Adam Wilson,8786 Daly Rd,45231,"$140,000.00 ",1/12/2023,3,2,1950,1020,7318,1
+Elayna Franklin,"8786 Daly Rd, Cincinnati, Ohio",45231,"$140,000.00 ",1/12/2023,3,2,1950,1020,7318,1
+Krishnaja Pinnamaneni,"8786 Daly Rd, Cincinnati, OH",45231,"$140,000.00 ",1/12/2023,3,2,1950,1020,7318,1
+Kristi Duncan,"8786 Daly Rd, Cincinnati, OH 45231",45231,"$140,000.00 ",1/12/2023,3,2,1950,1020,7318,1
+Lawrence McCullough,"8786 Daly Rd, Cincinnati, OH",45231,"$140,000.00 ",1/12/2023,3,2,1950,1020,7318,1
+Snehal Lokhande,"8786 Daly Rd, Cincinnati, OH",45231,"$140,000.00 ",1/12/2023,3,2,1950,1020,7318,1
+Vaishnavi Agnihotri,"8786 Daly Rd, Cincinnati, OH",45231,"$140,000.00 ",1/12/2023,3,2,1950,1020,7318,1
+Jorgen Kerens,"505 Davis St, Ghent, KY",41045,"$79,900.00 ",1/13/2023,2,1,1950,816,10018,0
+Nitish HS Reddy,"
+505 Davis St, Ghent, KY 41045",41045,"$79,900.00 ",1/13/2023,2,1,1950,816,10018,
+Priyanka Nainani,"8786 Daly Rd, Cincinnati, OH ",45231,"$140,000.00 ",1/13/2023,3,2,1950,1020,7318.08,1
+Neil Bechmann,940 Hollytree Dr,45231,"$157,500.00 ",6/17/2022,3,1.5,1951,1440,9147,1
+Neil Bechmann,9561 Flick Rd,45247,"$200,000.00 ",8/5/2022,4,2.5,1951,1840,71002.8,5
+Jahnavi Galla,"977 Glenna Dr, Cincinnati, OH",45238,"$184,000.00 ",12/19/2022,4,2,1951,1332,7361,1
+Jahnavi Galla,"6520 Greenfield Dr, Cincinnati, OH",45224,"$238,000.00 ",12/22/2022,3,2,1951,1580,9757,1
+Mackenzie Dunn,25 Roselea Ave,45011,"$131,000.00 ",1/6/2023,2,1,1951,720,7993,0
+Saurav Nandi,7812 Locust Ln,45243,"$352,000.00 ",9/5/2177,4,2,1951,1683,6882,1
+Rohit Bhoite,"15 Flamingo Dr, Hamilton, OH",45013,"$155,000.00 ",9/19/2022,3,1,1952,864,7405.2,2
+Jayanth Chowdary Bandi,"2735 Rolinda Dr, Dallas, TX",75211,"$349,000.00 ",10/18/2022,4,4,1952,1642,7492,3
+Andrew Flach,1254 Rookwood Dr,45208,"$1,100,000.00 ",11/16/2022,3,3.5,1952,3830,18295,2
+Saiteja Boga,"576 Lowell Ave, Cincinnati, OH",45220,"$185,000.00 ",11/16/2022,4,1.5,1952,1279,7187,1
+Ryan Sosinski,6131 Springdale Rd,45247,"$6,000.00 ",11/28/2022,3,3,1952,1640,,1
+Avi Aggarwal,"1533 Ruth Ave, Cincinnati, OH",45207,"$363,000.00 ",12/19/2022,3,2.5,1952,1452,6490,1
+Chris Lindemann,"1533 Ruth Ave, Cincinnati, OH",45207,"$363,000.00 ",12/19/2022,3,2.5,1952,1452,6490,1
+Gabriela Varisco,"1080 Morado Dr, Cincinnati, OH",45238,"$195,000.00 ",1/6/2023,3,2,1952,1428,9408,1
+Hannah Grilliot,1080 Morado Dr,45238,"$195,000.00 ",1/6/2023,3,2,1952,1428,9408,1
+Maddie Hannan,1080 Morado Dr,45238,"$195,000.00 ",1/6/2023,3,2,1952,1428,9408,1
+Adam Wilson,7075 State Route 128,45002,"$172,500.00 ",1/10/2023,2,1,1952,978,25265,1
+Rohit Bhoite,"6621 Paxton Guinea Rd, Loveland, OH",45140,"$187,000.00 ",1/13/2023,4,1,1952,1008,52707.6,1
+Priyanka Nainani,"2224 Ross Estates Dr, Hamilton, OH ",45013,"$450,000.00 ",9/12/2022,5,3,1953,3223,0.41,1
+Rohit Bhoite,"1025 Timberman Ave, Hamilton, OH",45013,"$187,250.00 ",9/19/2022,3,1,1953,1288,6098.4,1
+Rohit Bhoite,"1298 Southern Hills Blvd, Hamilton, OH",45013,"$172,000.00 ",9/20/2022,3,2,1953,1349,7840.8,1
+Neil Bechmann,11112 Colerain Ave,45252,"$250,000.00 ",10/24/2022,2,1,1953,2080,32670,2
+Cormac Warde,3007 Lapland Dr,45239,"$145,000.00 ",12/9/2022,3,1,1953,874,5532,0
+Cormac Warde,8284 Firshade Ter,45239,"$179,500.00 ",12/15/2022,3,3,1953,1081,8145,1
+Reshma Punukollu,"2865 Lafeuille Ave, Cincinnati, OH ",45211,"$165,500.00 ",12/16/2022,3,2,1953,1611,8363,1
+Rudranshi Singh,"2865 Lafeuille Ave, Cincinnati, OH",45211,"$165,500.00 ",12/16/2022,3,2,1953,1611,8363,1
+Anhly Truong,1023 Noyes Ave,45015,"$185,000.00 ",1/3/2023,3,2,1953,1008,9148,1
+Adam Wilson,56 Edwards Ct,41075,"$327,500.00 ",1/11/2023,3,3,1953,1388,6098,1
+Adam Wilson,5754 Biscayne Ave,45248,"$160,000.00 ",1/12/2023,4,3,1953,1332,7187,1
+Lawrence McCullough,"5754 Biscayne Ave, Cincinnati, OH",45248,"$160,000.00 ",1/12/2023,4,3,1953,1332,7187,1
+Saurav Nandi,7481 N Timberlane Dr,45243,"$550,000.00 ",2/17/2177,3,3,1953,2172,20909,1
+Saurav Nandi,7249 Berwood Dr,45243,"$407,000.00 ",12/18/2180,3,3,1953,1667,8102,1
+Saurav Nandi,7460 Mar Del Dr,45243,"$360,000.00 ",1/22/2205,3,3,1953,1650,14810,2
+Saurav Nandi,7913 Tances Dr,45243,"$521,500.00 ",11/17/2228,3,4,1953,1456,7100,0
+Saurav Nandi,7911 Tances Dr,45243,"$334,500.00 ",8/18/2234,3,2,1953,1258,7318,0
+Sean McGill,"339 Glenroy Ave, Cincinnati, OH",45238,"$150,250.00 ",11/9/2021,3,2,1954,832,9409,1
+Xinzhu Sun,1312 Bonnell Ave,45215,"$875,000.00 ",10/10/2022,4,1,1954,1480,7840,0
+Vishnu Srinath,"546 Rentz PI, Cincinnati, OH",45238,"$174,000.00 ",11/22/2022,4,1,1954,1518,7492,1
+Dayne Brito,"2529 Bethel New Richmond Rd, Bethel, OH 45106",45106,"$200,000.00 ",11/25/2022,3,1,1954,1210,43560,1
+Vishnu Srinath,"1056 Delhi Ave, Cincinnati, OH",45204,"$38,000.00 ",11/28/2022,2,1,1954,792,4704,1
+Ryan Sosinski,1590 Oak knoll Dr,45224,"$250,000.00 ",11/28/2022,4,2,1954,2560,,4
+Rudranshi Singh,"2609 Bonnie Dr, Cincinnati, OH",45230,"$326,400.00 ",12/15/2022,4,2,1954,1574,16988,2
+Tejaswini Sapkota,"2609 Bonnie Dr, Cincinnati, OH 45230",45230,"$326,400.00 ",12/15/2022,4,2,1954,1574,16988.4,2
+Snehal Lokhande,"1268 Murat Ct, Cincinnati, OH",45231,"$160,000.00 ",12/30/2022,3,2,1954,1377,9670,0
+Mackenzie Dunn,1236 Jenkins Ln,45103,"$160,000.00 ",1/5/2023,3,2,1954,1656,28749.6,2
+Chandler Craker,"8550 Darnell Ave, Cincinnati, OH",45236,"$248,000.00 ",1/6/2023,4,2,1954,1484,7797,1
+Saurav Nandi,6475 Kenview Dr,45243,"$435,000.00 ",10/10/2178,3,2,1954,1379,14375,2
+Chris Lindemann,"5319 Lilibet Ct, Cincinnati, OH",45238,"$205,800.00 ",5/6/2022,4,2,1955,1996,12632,1
+Dayne Brito,"41 Apple Rd, Amelia, OH 45102",45102,"$177,500.00 ",5/25/2022,2,1,1955,1498,39640,1
+Sethavatey Limsreng,"7757 Hartfield Pl, Montgomery, OH 45242",45242,"$425,000.00 ",11/18/2022,3,2,1955,3013,20908.8,2
+Ryan Sosinski,6668 Golfway Dr,45239,"$187,725.00 ",11/28/2022,4,1.5,1955,2088,7230,1
+Ryan Sosinski,439 Greenwell Ave,45238,"$85,000.00 ",11/29/2022,3,1.5,1955,1092,7100,0
+Cormac Warde,5896 Ranlyn Ave,45239,"$299,900.00 ",12/9/2022,4,3,1955,1700,7840,1
+Cormac Warde,8389 Coghill Ln,45239,"$233,000.00 ",12/9/2022,4,2,1955,2297,6316,1
+Cormac Warde,2875 Ranlyn Ct,45239,"$282,000.00 ",12/12/2022,3,3,1955,1556,10802,2
+Rudranshi Singh,"1273 Aldrich Ave, Cincinnati, OH",45231,"$141,000.00 ",12/16/2022,3,1,1955,1188,6359,0
+Samipya Pamuru,"58 B St, Wilmington, OH 45177",45177,"$137,900.00 ",12/22/2022,2,1,1955,918,15681.6,2
+Jahnavi Galla,"5429 Day Rd, Cincinnati, OH",45252,"$313,500.00 ",12/22/2022,5,3,1955,2498,98445.6,1
+Cormac Warde,2745 Mount Airy Ave,45239,"$227,500.00 ",12/23/2022,4,3,1955,2274,10890,1
+Anhly Truong,318 Kings Mills Rd,45040,"$275,000.00 ",12/28/2022,3,2,1955,1656,20473.2,2
+Snehal Lokhande,"1751 Monterey Ct, Cincinnati, OH",45223,"$145,000.00 ",12/28/2022,3,1,1955,925,6229,0
+Tejaswini Sapkota,"1059 Doolittle Ln, Cincinnati, OH 45230",45230,"$24,600.00 ",12/29/2022,3,1,1955,1298,18730,1
+Sean Rossander,1846 Wyoming Ave,45205,"$100,000.00 ",1/6/2023,2,1,1955,792,5052,1
+Chandler Craker,"7605 View Place Dr, Cincinnati, OH",45224,"$223,500.00 ",1/6/2023,3,2,1955,2188,19600,1
+Chandler Craker,"8858 Monsanto Dr, Cincinnati, OH",45231,"$185,000.00 ",1/6/2023,4,2,1955,N/A,6969,1
+Sean Rossander,4800 Fehr Rd,45238,"$189,900.00 ",1/10/2023,3,1,1955,810,9975,2
+Neil Bechmann,865 Sabino Ct,45231,"$247,189.00 ",8/8/2022,4,1.5,1956,2558,6969,1
+Sean McGill,"4715 Hardwick Drive, Cincinnati, OH",45238,"$70,000.00 ",11/10/2022,2,1,1956,1221,8102,0
+Sean Rossander,5764 Windsorhill Dr,45238,"$185,000.00 ",11/10/2022,3,2,1956,1085,6664,1
+Sethavatey Limsreng,"10240 Montgomery Rd, Cincinnati, OH 45242",45242,"$371,000.00 ",11/29/2022,3,2,1956,1670,18295.2,2
+Neil Bechmann,9362 Long ln,45231,"$210,000.00 ",12/14/2022,3,1.5,1956,2110,20037.6,2
+Cormac Warde,2800 Jessup Rd,45239,"$177,000.00 ",12/15/2022,2,2,1956,1950,16988.4,1
+Anhly Truong,1733 Gellenbeck St,45205,"$80,000.00 ",1/3/2023,3,2,1956,1562,6882,1
+Enola Picardo,"1733 Gellenbeck St, Cincinnati, OH",45205,"$80,000.00 ",1/3/2023,3,1.5,1956,1562,6882,1
+Adam Wilson,6013 Catherine Dr,45150,"$249,900.00 ",1/11/2023,3,1,1956,1050,29185,2
+Rohit Bhoite,"6013 Catherine Dr, Milford, OH",45150,"$249,900.00 ",1/11/2023,3,1,1956,1050,29098,2
+Jorgen Kerens,"35 Lou Ave, Eminence, KY",40019,"$130,000.00 ",1/13/2023,2,1,1956,792,11325,2
+Nitish HS Reddy,"35 Lou Ave, Eminence, KY 40019",40019,"$130,000.00 ",1/13/2023,2,1,1956,792,11325.6,2
+Saurav Nandi,6704 Eleck Pl,45243,"$399,900.00 ",11/6/2150,3,2,1956,1070,14375,1
+John Smith,3424 March Terrace,45239,"$202,000.00 ",4/4/2022,3,1.5,1957,1325,5488,1
+Sethavatey Limsreng,"9740 Zig Zag Rd, Montgomery, OH 45242",45242,"$825,045.00 ",10/18/2022,4,4,1957,4567,15246,3
+Cormac Warde,8292 Haskell Dr,45239,"$146,000.00 ",12/15/2022,2,1,1957,1266,16552.8,1
+Anhly Truong,626 Moeller Ave,45217,"$135,000.00 ",12/16/2022,4,1,1957,1221,6751,1
+Cormac Warde,3359 Dolomar Dr,45239,"$200,510.00 ",12/22/2022,3,2,1957,1643,12196.8,2
+Snehal Lokhande,"3359 Dolomar Dr, Cincinnati, OH",45239,"$200,510.00 ",12/22/2022,3,2,1957,1643,12196,2
+Sean Rossander,5106 Chantilly Dr,45238,"$148,313.00 ",1/3/2023,3,1,1957,999,6708,2
+Mackenzie Dunn,2658 Crane Schoolhouse Rd,45106,"$467,500.00 ",1/5/2023,3,2,1957,2616,919116,2
+Cormac Warde,5535 Fox Rd,45239,"$175,000.00 ",1/6/2023,2,2,1957,1155,9408,2
+Gabriela Varisco,"5535 Fox Rd, Cincinnati, OH",45239,"$175,000.00 ",1/6/2023,2,2,1957,1155,9408,2
+Hannah Grilliot,5535 Fox Rd,45239,"$175,000.00 ",1/6/2023,2,2,1957,1155,9408,2
+Snehal Lokhande,"5535 Fox Rd, Cincinnati, OH",45239,"$175,000.00 ",1/6/2023,2,2,1957,1155,9408,2
+Jayanth Chowdary Bandi,"2034 Ferndale Ave, Dallas, TX",75224,"$375,000.00 ",1/10/2023,3,2,1957,1824,8450,2
+Samipya Pamuru,"68 Dayspring Dr, Hamilton, OH 45015",45015,"$184,000.00 ",1/11/2023,3,2,1957,1040,6534,1
+Rohit Bhoite,"4721 Tealtown Rd, Milford, OH",45150,"$220,000.00 ",1/13/2023,3,1,1957,999,21910.68,2
+Jorgen Kerens,"178 S College St, Sabina, OH",45169,"$28,500.00 ",1/13/2023,3,1,1957,1200,6551,0
+Nitish HS Reddy,"178 S College St, Sabina, OH 45169",45169,"$28,500.00 ",1/13/2023,3,1,1957,1200,6551,0
+Neil Bechmann,445 Karenlaw Ln,45231,"$212,000.00 ",9/24/2020,3,2.5,1958,1838,20037.6,2
+Neil Bechmann,9367 Candy Ln,45231,"$227,000.00 ",10/30/2020,4,2,1958,1302,20037.6,2
+Xinzhu Sun,289 Genoma Dr,45215,"$69,800.00 ",9/16/2022,3,1.5,1958,8712,8712,1
+Sethavatey Limsreng,"7910 Mitchell Farm Ln, Montgomery, OH 45242",45242,"$570,000.00 ",10/6/2022,4,3,1958,2340,15681.6,2
+Andrew Flach,2755 Lower Grandin Rd,45208,"$590,000.00 ",10/21/2022,3,3,1958,2635,14810,1
+Cormac Warde,3363 Alexis Rd,45239,"$205,000.00 ",11/30/2022,4,2,1958,1308,9365,1
+Reshma Punukollu,"3150 Hyannis Dr, Cincinnati, OH ",45251,"$149,900.00 ",12/14/2022,3,1,1958,864,6577,1
+Enola Picardo,"7035 Beechmont Ave, Cincinnati, OH",45230,"$80,000.00 ",1/4/2023,2,1,1958,925,12632,2
+Hannah Grilliot,7035 Beechmont Ave,45230,"$80,000.00 ",1/4/2023,2,1,1958,925,12632.4,2
+Chandler Craker,"9 Iroquois Dr, Loveland, OH",45140,"$205,000.00 ",1/6/2023,2,2,1958,1481,12000,3
+Lawrence McCullough,"9 Iroquois Dr, Loveland, OH",45140,"$205,000.00 ",1/6/2023,2,2,1958,1481,12632,0
+Saurav Nandi,7235 Osceola Dr,45243,"$380,000.00 ",11/9/2176,4,2,1958,1792,7318,1
+Saurav Nandi,7259 Longfield Dr,45243,"$325,000.00 ",3/2/2209,3,2,1958,1319,9583,1
+Nick Flessner,10513 Lemarie Drive,45241,"$195,000.00 ",6/30/2021,4,2,1959,1819,,0
+Neil Bechmann,9567 Kosta Dr,45231,"$165,000.00 ",3/1/2022,3,1.5,1959,1432,13068,2
+Nick Flessner,10511 Thornview Drive,45241,"$260,000.00 ",4/13/2022,4,1,1959,1759,7492,2
+Xinzhu Sun,316 W Crest Dr,45215,"$245,000.00 ",4/21/2022,4,2,1959,1238,9191,0
+Xinzhu Sun,256 Wenchris Dr,45215,"$203,500.00 ",9/22/2022,4,1,1959,1674,9016,1
+Neil Bechmann,964 Twincrest Ct,45231,"$225,000.00 ",10/20/2022,3,2.5,1959,1563,6838,1
+Ryan Sosinski,9696 Adair Ct,45251,"$67,000.00 ",11/28/2022,3,1,1959,925,8102,0
+Sethavatey Limsreng,"7381 Timberknoll Dr, Cincinnati, OH 45242",45242,"$525,500.00 ",11/29/2022,4,3,1959,2282,18730.8,2
+Anhly Truong,238 Diston Ln,45246,"$188,000.00 ",12/29/2022,3,2,1959,1026,7013,1
+Enola Picardo,"6235 Fairhurst Ave, Cincinnati, OH",45213,"$312,000.00 ",1/4/2023,3,2,1959,1609,4660,1
+Hannah Grilliot,6235 Fairhurst Ave,45213,"$312,000.00 ",1/4/2023,3,2,1959,1609,4660,1
+Hannah Grilliot,9231 Coogan Dr,45231,"$165,000.00 ",1/5/2023,3,2,1959,1704,5880,1
+Gabriela Varisco,"6086 Colter Ave, Cincinnati, OH",45230,"$320,000.00 ",1/10/2023,5,3,1959,1938,6229,8
+Tejaswini Sapkota,"6086 Colter Ave, Cincinnati, OH 45230",45230,"$325,600.00 ",1/10/2023,5,3,1959,1938,16117.2,2
+Avi Aggarwal,"2622 Tampico Dr, Cincinnati, Ohio",45231,"$168,800.00 ",1/10/2023,4,1,1959,1347,6359,1
+Maddie Hannan,1100 Gracewind Ct,45231,"$277,500.00 ",1/10/2023,4,4,1959,2500,17424,2
+Aidan Zebertavage,"7502 Towerview Ln, Anderson, OH",45255,"$210,000.00 ",1/10/2023,3,2,1959,1305,20037.6,2
+Elayna Franklin,"7502 Towerview Ln, Anderson, Ohio",45255,"$210,000.00 ",1/10/2023,3,2,1959,1305,20037.6,2
+Gabriela Varisco,"7502 Towerview Ln, Anderson, OH",45255,"$210,000.00 ",1/10/2023,3,2,1959,1305,20037,2
+Jahnavi Galla,"7502 Towerview Ln, Anderson, OH",45255,"$210,000.00 ",1/10/2023,3,2,1959,1305,20037.6,2
+Kristi Duncan,"7502 Towerview Ln, Anderson, OH 45255",45255,"$210,000.00 ",1/10/2023,3,2,1959,1305,20038,2
+Tejaswini Sapkota,"7502 Towerview Ln, Anderson, OH 45255",45255,"$254,200.00 ",1/10/2023,3,2,1959,1305,20037.6,3
+Adam Wilson,2622 Tampico Dr,45231,"$168,800.00 ",1/11/2023,4,1,1959,1347,6359,1
+Elayna Franklin,"2622 Tampico Dr, Cincinnati, Ohio",45231,"$168,800.00 ",1/11/2023,4,1,1959,1347,6359,1
+Krishnaja Pinnamaneni,"2622 Tampico Dr, Cincinnati, OH",45231,"$168,800.00 ",1/11/2023,4,1,1959,1347,6359,0
+Kristi Duncan,"2622 Tampico Dr, Cincinnati, OH 45231",45231,"$168,800.00 ",1/11/2023,4,1,1959,1347,6359,0
+Maddie Hannan,2622 Tampico Dr,45231,"$168,800.00 ",1/11/2023,4,1,1959,1347,6359,0
+Priyanka Nainani,"2622 Tampico Dr, Cincinnati, OH ",45231,"$168,800.00 ",1/11/2023,4,1,1959,1347,6359.76,0
+Snehal Lokhande,"2622 Tampico Dr, Cincinnati, OH",45231,"$168,800.00 ",1/11/2023,4,1,1959,1347,6359,0
+Vaishnavi Agnihotri,"2622 Tampico Dr, Cincinnati, OH",45231,"$168,800.00 ",1/11/2023,4,1,1959,1347,6359,0
+Jorgen Kerens,"729 N State Route 729, Sabina, OH",45169,"$40,900.00 ",1/13/2023,3,1,1959,912,43560,0
+Nitish HS Reddy,"729 N State Route 729, Sabina, OH 45169",45169,"$40,900.00 ",1/13/2023,3,1,1959,912,43560,
+Krishnaja Pinnamaneni,"9726 Woodmill Ln, Cincinnati, OH",45231,"$184,450.00 ",1/13/2023,3,2,1959,1845,12196.8,2
+Kristi Duncan,"1100 Gracewind Ct, Cincinnati, OH 45231",45231,"$277,500.00 ",1/13/2023,4,4,1959,2500,17424,2
+Kristi Duncan,"9726 Woodmill Ln, Cincinnati, OH 45231",45231,"$184,450.00 ",1/13/2023,3,2,1959,1845,12197,2
+Priyanka Nainani,"9726 Woodmill Ln, Cincinnati, OH ",45231,"$184,450.00 ",1/13/2023,3,2,1959,1845,0.275,2
+Snehal Lokhande,"9726 Woodmill Ln, Cincinnati, OH",45231,"$184,450.00 ",1/13/2023,3,2,1959,1845,12196,2
+Vaishnavi Agnihotri,"9726 Woodmill Ln, Cincinnati, OH",45231,"$184,450.00 ",1/13/2023,3,2,1959,1845,12196.8,2
+Nick Flessner,10541 Lemarie Drive,45241,"$222,600.00 ",9/24/2020,4,2,1960,1759,7187,3
+Nick Flessner,4043 Beavercreek Circle,45241,"$210,000.00 ",8/31/2021,2,2,1960,945,7231,1
+Neil Bechmann,8868 Cavalier Dr,45231,"$432,600.00 ",4/13/2022,3,1.5,1960,2609,11761.2,2
+Xinzhu Sun,1759 Keith Dr,45215,"$220,000.00 ",8/2/2022,3,2,1960,1760,7448,1
+Andrew Flach,3 Walsh Ln,45208,"$950,000.00 ",10/19/2022,4,2.5,1960,2506,18731,2
+Vishnu Srinath,"865 N Hill Ln, Cincinnati, OH",45224,"$118,000.00 ",11/23/2022,2,2,1960,1257,12196.8,1
+Victoria Smith,"8834 Cavalier Dr, Cincinnati, OH",45231,"$340,500.00 ",12/12/2022,5,3,1960,2386,16552,2
+Jahnavi Galla,"7715 Bluecrystal Ct, Cincinnati, OH",45224,"$355,000.00 ",12/22/2022,4,3,1960,2659,15681.6,2
+Jahnavi Galla,"5354 Foley Rd, Cincinnati, OH",45238,"$207,500.00 ",12/22/2022,3,3,1960,1211,7405,1
+Reshma Punukollu,"5354 Foley Rd, Cincinnati, OH ",45238,"$207,500.00 ",12/22/2022,3,3,1960,1211,7405,1
+Dayne Brito,"7922 Bridgetown Rd, Cleves, OH 45002",45002,"$269,000.00 ",12/30/2022,5,3,1960,3200,20909,2
+Aidan Zebertavage,"3743 Kenilworth Pl, Cincinnati, OH",45226,"$115,000.00 ",1/3/2023,2,1,1960,1124,5009,0
+Enola Picardo,"3743 Kenilworth Pl, Cincinnati, OH",45226,"$115,000.00 ",1/3/2023,2,1,1960,1124,5009,0
+Reshma Punukollu,"3743 Kenilworth Pl, Cincinnati, OH ",45226,"$115,000.00 ",1/3/2023,2,1,1960,1124,5009,1
+Chris Lindemann,"4002 Beavercreek Cir, Cincinnati, OH",45241,"$280,000.00 ",1/3/2023,4,3,1960,1952,7840,2
+Mackenzie Dunn,6528 Dimmick Rd,45069,"$255,500.00 ",1/4/2023,3,2,1960,1504,22651.2,2
+Wenhan Zhu,"6528 Dimmick Rd, West Chester, OH 45069",45069,"$255,500.00 ",1/4/2023,3,2,1960,1504,5200,2
+Aidan Zebertavage,"2200 Varelman Ave, Cincinnati, OH",45212,"$285,000.00 ",1/4/2023,3,2,1960,1736,6534,1
+Enola Picardo,"2200 Varelman Ave, Cincinnati, OH",45212,"$285,000.00 ",1/4/2023,3,2,1960,1736,6534,1
+Hannah Grilliot,2200 Varelman Ave,45212,"$285,000.00 ",1/4/2023,3,2,1960,1736,6534,1
+Reshma Punukollu,"2200 Varelman Ave, Cincinnati, OH ",45212,"$285,000.00 ",1/4/2023,3,2,1960,1736,6534,1
+Dayne Brito,"315 Wyoming Ave, Fairfield, OH 45014",45014,"$235,000.00 ",1/12/2023,4,2,1960,1571,12197,1
+Lawrence McCullough,"315 Wyoming Ave, Fairfield, OH",45014,"$235,000.00 ",1/12/2023,4,2,1960,1571,12197,1
+Krishnaja Pinnamaneni,"680 Overland Ave UNIT 1, Cincinnati, OH ",45226,"$265,000.00 ",1/13/2023,3,3,1960,2607,27007.2,1
+Meghana Mittameedi,"680 Overland Ave UNIT 1, Cincinnati, OH 45226",45226,"$265,000.00 ",1/13/2023,3,3,1960,2607,26572,1
+Priyanka Nainani,"680 Overland Ave UNIT 1, Cincinnati, OH",45226,"$265,000.00 ",1/13/2023,3,3,1960,2607,0.6193,1
+Vaishnavi Agnihotri,"680 Overland Ave UNIT 1, Cincinnati, OH",45226,"$265,000.00 ",1/13/2023,3,3,1960,2607,27007.2,1
+Saurav Nandi,7002 Dawson Rd,45243,"$460,000.00 ",2/22/2203,2,2,1960,91476,12190,1
+Nick Flessner,10581 Sarazen Court,45241,"$199,900.00 ",5/20/2020,3,2,1961,1708,7884,1
+Nick Flessner,3647 Concerto Drive,45241,"$250,000.00 ",5/21/2021,3,2,1961,1768,8276,1
+Xinzhu Sun,116 Bunker Hill Ct,45215,"$294,308.00 ",8/11/2022,3,2,1961,1408,12196.8,1
+Priyanka Nainani,"38 Flamingo Dr, Hamilton, OH ",45013,"$146,000.00 ",9/12/2022,3,1,1961,864,7405.2,1
+Rohit Bhoite,"54 Warr Ct, Hamilton, OH",45013,"$175,900.00 ",9/20/2022,3,2,1961,1063,9226.008,1
+Sethavatey Limsreng,"7805 Westwind Ln, Cincinnati, OH 45242",45242,"$580,000.00 ",11/14/2022,4,3,1961,3036,20037.6,2
+Ryan Sosinski,7271 Jamerine Ct,45239,"$279,900.00 ",11/28/2022,5,4,1961,3310,,2
+Rudranshi Singh,"5380 Plover Ln, Cincinnati, OH",45238,"$170,000.00 ",12/16/2022,3,2,1961,1068,6969,1
+Aidan Zebertavage,"1039 Paxton Ave, Cincinnati, OH",45208,"$560,000.00 ",12/21/2022,3,3,1961,1972,10410,2
+Tejaswini Sapkota,"288 Deliquia Dr, Cincinnati, OH 45230",45230,"$195,000.00 ",12/29/2022,3,2,1961,1192,6359,1
+Avi Aggarwal,"3700 Hermes Dr, Cincinnati, Ohio",45247,"$190,000.00 ",1/10/2023,3,2,1961,972,8712,1
+Adam Wilson,3700 Hermes Dr,45247,"$190,000.00 ",1/11/2023,3,2,1961,972,8712,1
+Elayna Franklin,"3700 Hermes Dr, Cincinnati, Ohio",45247,"$190,000.00 ",1/11/2023,3,2,1961,972,8712,1
+Krishnaja Pinnamaneni,"3700 Hermes Dr, Cincinnati, OH",45247,"$190,000.00 ",1/11/2023,3,2,1961,972,8712,1
+Kristi Duncan,"3700 Hermes Dr, Cincinnati, OH 45247",45247,"$190,000.00 ",1/11/2023,3,2,1961,972,8712,1
+Maddie Hannan,3700 Hermes Dr,45247,"$190,000.00 ",1/11/2023,3,2,1961,972,8712,1
+Priyanka Nainani,"3700 Hermes Dr, Cincinnati, OH ",45247,"$190,000.00 ",1/11/2023,3,2,1961,972,8712,1
+Snehal Lokhande,"3700 Hermes Dr, Cincinnati, OH",45247,"$190,000.00 ",1/11/2023,3,2,1961,972,8712,1
+Vaishnavi Agnihotri,"3700 Hermes Dr, Cincinnati, OH",45247,"$190,000.00 ",1/11/2023,3,2,1961,972,8712,1
+Gabriela Varisco,"8926 Cavalier Dr, Cincinnati, OH",45231,"$263,500.00 ",1/12/2023,3,3,1961,2353,19602,2
+Krishnaja Pinnamaneni,"8926 Cavalier Dr, Cincinnati, OH",45231,"$263,500.00 ",1/12/2023,3,3,1961,2353,19602,2
+Kristi Duncan,"8926 Cavalier Dr, Cincinnati, OH 45231",45231,"$263,500.00 ",1/12/2023,3,3,1961,2353,19602,2
+Snehal Lokhande,"8926 Cavalier Dr, Cincinnati, OH",45231,"$263,500.00 ",1/12/2023,3,3,1961,2353,19602,2
+Vaishnavi Agnihotri,"8926 Cavalier Dr, Cincinnati, OH",45231,"$263,500.00 ",1/12/2023,3,3,1961,2353,19602,2
+Jorgen Kerens,"2490 Jerrys Ln, Fort Mitchell, KY",41017,"$262,000.00 ",1/13/2023,3,2,1961,,14374,1
+Meghana Mittameedi,"2490 Jerrys Ln, Fort Mitchell, KY 41017",41017,"$262,000.00 ",1/13/2023,3,2,1961,3125,143747,1
+Priyanka Nainani,"8926 Cavalier Dr, Cincinnati, OH ",45231,"$263,500.00 ",1/13/2023,3,3,1961,2353,0.445,2
+Krishnaja Pinnamaneni,"9841 Marino Dr, Cincinnati, OH",45251,"$135,000.00 ",1/13/2023,3,1,1961,925,12632.4,1
+Priyanka Nainani,"9841 Marino Dr, Cincinnati, OH ",45251,"$135,000.00 ",1/13/2023,3,1,1961,925,0.285,1
+Saurav Nandi,116 Bunker Hill Ct,45215,"$294,308.00 ",2/6/2122,3,2,1961,1408,12196,1
+Saurav Nandi,6233 Coachlite Way,45243,"$512,500.00 ",11/9/2176,3,3,1961,2998,20038,2
+Nick Flessner,3495 Grandview Avenue,45241,"$180,000.00 ",12/17/2020,3,1,1962,1272,6825,1
+Neil Bechmann,1354 Riviera Pl,45231,"$179,000.00 ",5/28/2021,3,1.5,1962,1824,7800,1
+Victoria Smith,"6510 Murray Ave, Cincinnati, OH",45227,"$277,000.00 ",10/26/2022,2,1,1962,1078,6229,1
+Sean Rossander,6648 Vine St,45216,"$110,000.00 ",11/17/2022,2,1.5,1962,972,3354,1
+Vishnu Srinath,"7092 Jeannie Ave, Cincinnati, OH",45230,"$245,000.00 ",11/22/2022,3,2,1962,1590,7797,0
+Dayne Brito,"5489 Fomorin Rd, Williamsburg, OH 45176",45176,"$335,000.00 ",11/29/2022,3,2,1962,1539,85378,2
+Tejaswini Sapkota,"847 Rosetree Ln, Cincinnati, OH 45230",45230,"$292,100.00 ",12/13/2022,3,3,1962,1504,8319,1
+Wenhan Zhu,"7634 Barret Rd, West Chester, OH 45069",45069,"$265,000.00 ",1/6/2023,3,2,1962,1812,4600,2
+Anhly Truong,11825 Knollsprings Ct,45246,"$228,000.00 ",1/9/2023,3,3,1962,1829,10323,2
+Saurav Nandi,7210 Sycamorehill Ln,45243,"$725,000.00 ",4/9/2236,4,4,1962,2310,20474,2
+Neil Bechmann,556 Compton Rd,45231,"$440,000.00 ",8/28/2020,3,2.5,1963,3763,19602,2
+Nick Flessner,10929 Aztec Court,45241,"$270,000.00 ",7/8/2021,3,2,1963,1450,7492,2
+Neil Bechmann,650 Flagstaff Dr,45231,"$453,900.00 ",7/12/2021,4,3.5,1963,2531,28314,2
+Neil Bechmann,9639 Tanbark Ct,45231,"$180,000.00 ",9/24/2021,3,1.5,1963,1672,9496,1
+Nick Flessner,3557 Grandview Avenue,45241,"$217,000.00 ",1/27/2022,4,1.5,1963,1836,7230,1
+Xinzhu Sun,113 Biscoe Dr,45215,"$228,000.00 ",7/1/2022,3,2,1963,1775,16117.2,2
+Xinzhu Sun,1731 Keith Dr,45215,"$245,000.00 ",9/21/2022,3,2,1963,1364,43124.4,0
+Sethavatey Limsreng,"7959 Jolain Dr, Cincinnati, OH 45242",45242,"$670,000.00 ",10/4/2022,4,4,1963,2189,16552.8,2
+Sethavatey Limsreng,"7959 Jolain Dr, Montgomery, OH 45242",45242,"$670,000.00 ",10/11/2022,4,4,1963,2189,16117.2,2
+Victoria Smith,"2324 Madison Rd Unit 1501, Cincinnati, OH",45208,"$160,000.00 ",10/26/2022,1,1,1963,882,0,0
+Sethavatey Limsreng,"10396 Southwind Dr, Montgomery, OH 45242",45242,"$282,345.00 ",10/26/2022,9,4,1963,4009,20908.8,2
+Ryan Sosinski,219 Cloverhill Ter,45238,"$275,000.00 ",11/28/2022,3,2,1963,1350,,1
+Vishnu Srinath,"219 Cloverhill Ter, Cincinnati, OH",45238,"$275,000.00 ",11/28/2022,3,2,1963,1350,20473.2,1
+Ryan Sosinski,1093 Wilderness Trl,45238,"$185,000.00 ",11/29/2022,3,2,1963,1040,9452,1
+Vishnu Srinath,"1093 Wilderness Trl, Cincinnati, OH",45238,"$185,000.00 ",11/29/2022,3,2,1963,1040,9452,1
+Reshma Punukollu,"9584 Trafford Ct, Cincinnati, OH ",45231,"$125,500.00 ",12/9/2022,4,3,1963,1248,12196.8,0
+Cormac Warde,3442 Rocker Dr,45239,"$230,000.00 ",12/9/2022,3,3,1963,1542,9104,2
+Rudranshi Singh,"3012 Lehman Rd, Cincinnati, OH",45204,"$196,500.00 ",12/15/2022,4,2,1963,1080,6882,1
+Sean Rossander,5978 Waldway Ln,45224,"$249,900.00 ",12/21/2022,4,2.5,1963,1872,5793,2
+Anhly Truong,1031 Thornfield Ln,45224,"$270,000.00 ",12/29/2022,4,2,1963,2829,11325.6,2
+Reshma Punukollu,"1031 Thornfield Ln, Cincinnati, OH ",45224,"$270,000.00 ",12/29/2022,4,2,1963,2829,11325.6,2
+Snehal Lokhande,"1031 Thornfield Ln, Cincinnati, OH",45224,"$270,000.00 ",12/29/2022,4,2,1963,2829,11325,2
+Sean Rossander,1090 Wilderness Trl,45238,"$260,000.00 ",1/9/2023,3,2,1963,1384,9801,2
+Saurav Nandi,5677 Oakvista Dr,45227,"$435,000.00 ",10/18/2230,3,2,1963,2082,34848,2
+Neil Bechmann,650 Allencrest Ct,45231,"$250,000.00 ",3/4/2022,5,3.5,1964,3060,39639.6,2
+Cormac Warde,2737 Westonridge Dr,45239,"$205,000.00 ",12/22/2022,3,2,1964,1902,11761.2,3
+Snehal Lokhande,"9285 Comstock Dr, Cincinnati, OH",45231,"$120,000.00 ",12/23/2022,3,1,1964,1826,16117,0
+Chandler Craker,"2487 Stockport Ct, Cincinnati, OH",45231,"$158,000.00 ",1/5/2023,3,1,1964,1248,8494,1
+Hannah Grilliot,2487 Stockport Ct,45231,"$158,000.00 ",1/5/2023,3,1,1964,1248,8494,1
+Lawrence McCullough,"7581 Robin Dr, Maineville, OH",45039,"$226,500.00 ",1/6/2023,2,1,1964,1420,22651,2
+Saurav Nandi,7605 Camargo Rd,45243,"$218,000.00 ",6/9/2232,3,1,1964,925,7187,0
+Sean McGill,"4479 Cloverholl Terrace, Cincinnati, OH",45238,"$156,000.00 ",12/1/2021,3,2.5,1965,1432,9365,1
+Vishnu Srinath,"10189 Winstead Ln, Cincinnati, OH",45231,"$430,000.00 ",11/22/2022,4,4,1965,3155,30056.4,2
+Samipya Pamuru,"988 Kathryn Dr, Wilmington, OH 45177",45177,"$213,000.00 ",12/16/2022,3,2,1965,1375,8712,2
+Snehal Lokhande,"6596 S Oak Knoll Dr, Cincinnati, OH",45224,"$200,000.00 ",12/22/2022,3,2,1965,1714,7230,2
+Rohit Bhoite,"2335 Gibbs Rd, Goshen, OH",45122,"$449,900.00 ",1/13/2023,3,3,1965,1254,780464.5,3
+Andrew Flach,2242 Ivy Ave,45208,"$380,000.00 ",8/1/2022,2,1,1966,1190,2482,1
+Vishnu Srinath,"5096 Foley Rd, Cincinnati, OH",45238,"$240,000.00 ",11/23/2022,3,3,1966,1965,16117.2,3
+Victoria Smith,"2200 Victory Pkwy APT 1203, Cincinnati, OH",45206,"$412,350.00 ",11/30/2022,2,2,1966,1240,0,2
+Rudranshi Singh,"2200 Victory Pkwy APT 1207, Cincinnati, OH",45206,"$370,000.00 ",12/16/2022,2,2,1966,1240,45302,2
+Rudranshi Singh,"9355 Montoro Dr, Cincinnati, OH",45231,"$310,000.00 ",12/16/2022,5,4,1966,2254,13939,2
+Rudranshi Singh,"2468 Fulbourne Dr, Cincinnati, OH",45231,"$163,500.00 ",12/16/2022,3,1.5,1966,1014,8450,1
+Rudranshi Singh,"5472 Starcrest Dr, Cincinnati, OH",45238,"$215,604.00 ",12/16/2022,3,2,1966,1400,6446,1
+Anhly Truong,1019 Grandin Ridge Dr,45208,"$679,000.00 ",12/30/2022,3,3,1966,1488,23958,2
+Enola Picardo,"1019 Grandin Ridge Dr, Cincinnati, OH",45208,"$679,000.00 ",12/30/2022,3,3,1966,1488,23958,2
+Enola Picardo,"2701 Lehman Rd UNIT A19, Cincinnati, OH",45204,"$81,500.00 ",1/4/2023,2,1,1966,672,273121,1
+Adam Wilson,5510 Stokeswood Ct,45238,"$237,000.00 ",1/12/2023,4,4,1966,2404,13504,2
+Elayna Franklin,"5510 Stokeswood Ct, Cincinnati, Ohio",45238,"$237,000.00 ",1/12/2023,4,4,1966,2404,13503.6,2
+Gabriela Varisco,"5510 Stokeswood Ct, Cincinnati, OH",45238,"$237,000.00 ",1/12/2023,4,4,1966,2404,13501,2
+Jahnavi Galla,"5510 Stokeswood Ct, Cincinnati, OH",45238,"$237,000.00 ",1/12/2023,4,4,1966,2404,13503.6,2
+Krishnaja Pinnamaneni,"5510 Stokeswood Ct, Cincinnati, OH ",45238,"$237,000.00 ",1/12/2023,4,4,1966,2404,13503.6,2
+Kristi Duncan,"5510 Stokeswood Ct, Cincinnati, OH",45238,"$237,000.00 ",1/12/2023,4,4,1966,2404,13504,2
+Lawrence McCullough,"5510 Stokeswood Ct, Cincinnati, OH",45238,"$237,000.00 ",1/12/2023,4,4,1966,2404,13504,2
+Vaishnavi Agnihotri,"5510 Stokeswood Ct, Cincinnati, OH",45238,"$237,000.00 ",1/12/2023,4,4,1966,2404,13503.6,2
+Priyanka Nainani,"5510 Stokeswood Ct, Cincinnati, OH ",45238,"$237,000.00 ",1/13/2023,4,4,1966,2404,0.313,2
+Xinzhu Sun,214 E Vine St,45215,"$160,000.00 ",8/9/2022,3,1,1967,936,5793,0
+Andrew Flach,2295 Grandin Rd,45208,"$2,550,000.00 ",10/5/2022,5,5,1967,6358,18295,3
+Sethavatey Limsreng,"7430 Baywind Dr, Montgomery, OH 45242",45242,"$500,000.00 ",11/10/2022,4,3,1967,2211,20037.6,2
+Dayne Brito,"3121 Leeds Rd, Amelia, OH 45102",45102,"$235,000.00 ",12/7/2022,3,1,1967,1215,24829,2
+Chris Lindemann,"5382 Julmar Dr, Cincinnati, OH",45238,"$405,000.00 ",12/19/2022,4,4,1967,2668,19166,2
+Aidan Zebertavage,"11266 Melissa Ct, Cincinnati, OH",45251,"$219,500.00 ",12/21/2022,4,2,1967,1944,7579,1
+Chris Lindemann,"4306 Eaglepoint Ct, Cincinnati, OH",45238,"$289,900.00 ",12/29/2022,4,3,1967,2226,13939,2
+Dayne Brito,"4306 Eaglepoint Ct, Delhi, OH 45238",45238,"$289,000.00 ",12/29/2022,4,3,1967,2226,13939,2
+Krishnaja Pinnamaneni,"2444 Madison Rd UNIT 1702, Cincinnati, OH",45208,"$344,350.00 ",1/12/2023,2,3,1967,2290,593722.8,1
+Vaishnavi Agnihotri,"2444 Madison Rd UNIT 1702, Cincinnati, OH",45208,"$344,350.00 ",1/12/2023,2,3,1967,2290,593722.8,1
+Meghana Mittameedi,"1915 Franklin St, Covington, KY 41014",41014,"$186,900.00 ",1/13/2023,3,2,1967,1281,25961.7,2
+Krishnaja Pinnamaneni,"2444 Madison Rd UNIT 801, Cincinnati, OH",45208,"$267,500.00 ",1/13/2023,2,2,1967,1791,593722.8,1
+Meghana Mittameedi,"2444 Madison Rd UNIT 801, Cincinnati, OH 45208",45208,"$267,500.00 ",1/13/2023,2,2,1967,1791,13.6266,1
+Priyanka Nainani,"2444 Madison Rd UNIT 1702, Cincinnati, OH ",45208,"$344,350.00 ",1/13/2023,2,3,1967,2290,13.6266,1
+Priyanka Nainani,"2444 Madison Rd UNIT 801, Cincinnati, OH ",45208,"$267,500.00 ",1/13/2023,2,2,1967,1791,13.6266,1
+Reshma Punukollu,"2444 Madison Rd UNIT 801, Cincinnati, OH ",45208,"$274,500.00 ",1/13/2023,2,2,1967,1791,593722.8,2
+Vaishnavi Agnihotri,"2444 Madison Rd UNIT 801, Cincinnati, OH",45208,"$267,500.00 ",1/13/2023,2,2,1967,1791,593722.8,2
+Saurav Nandi,8177 Miami Ave,45243,"$359,900.00 ",11/17/2228,4,3,1967,2018,13068,2
+Xinzhu Sun,9767 Acton Ct,45215,"$405,000.00 ",5/2/2022,4,3,1968,2666,28314,2
+Sean McGill,"182 Silverspring Dr, Cincinnati, OH",45238,"$280,000.00 ",9/14/2022,3,2.5,1968,2075,13939,2
+Samipya Pamuru,"71 Sunset Blvd, Georgetown, OH 45121",45121,"$68,000.00 ",12/15/2022,1,1,1968,576,25265,0
+Reshma Punukollu,"3919 Pocahontas Ave, Cincinnati, OH ",45227,"$425,000.00 ",12/15/2022,3,3,1968,2923,7492,2
+Rudranshi Singh,"412 Stonehearst Ln, Cincinnati, OH",45231,"$275,000.00 ",12/16/2022,4,3.5,1968,2467,20037,2
+Dayne Brito,"7360 Silver Creek Rd, Cleves, OH 45002",45002,"$140,000.00 ",12/22/2022,2,1,1968,1934,93654,2
+Enola Picardo,"727 Miles Ln, Cincinnati, OH",45245,"$125,200.00 ",1/4/2023,3,2,1968,1546,13939,2
+Hannah Grilliot,727 Miles Ln,45245,"$125,200.00 ",1/4/2023,3,2,1968,1546,13939.2,2
+Gabriela Varisco,"10132 Winstead Ln, Cincinnati, OH",45231,"$275,000.00 ",1/6/2023,4,3,1968,2214,20473,2
+Hannah Grilliot,10132 Winstead Ln,45231,"$275,000.00 ",1/6/2023,4,3,1968,2214,20473.2,2
+Jahnavi Galla,"10132 Winstead Ln, Cincinnati, OH",45231,"$275,000.00 ",1/6/2023,4,3,1968,2214,20473.2,2
+Chandler Craker,"11347 Kenshire Dr, Cincinnati, OH",45240,"$255,000.00 ",1/6/2023,4,3,1968,2012,8755,2
+Chandler Craker,"8075 Kugler Mill Rd, Cincinnati, OH",45243,"$2,383,000.00 ",1/6/2023,5,10,1968,8174,130000,3
+Lawrence McCullough,"8075 Kugler Mill Rd, Cincinnati, OH",45243,"$2,383,000.00 ",1/6/2023,5,10,1968,8174,130680,3
+Lawrence McCullough,"1390 Rawlings Dr, Fairborn, OH",45324,"$240,000.00 ",1/12/2023,4,3,1968,2109,13504,2
+Jorgen Kerens,"11709 Bluegrass Dr, Independence, KY",41051,"$300,000.00 ",1/13/2023,3,3,1968,1800,48351,3
+Nitish HS Reddy,"11709 Bluegrass Dr, Independence, KY 41051",41051,"$300,000.00 ",1/13/2023,3,3,1968,1800,48351.6,3
+Xinzhu Sun,1306 4th St,45215,"$205,000.00 ",8/18/2022,3,1,1969,1000,8319,2
+Vishnu Srinath,"6100 Faircrest Dr, Cincinnati, OH",45224,"$175,000.00 ",11/22/2022,3,3,1969,1722,7884,1
+Ryan Sosinski,1619 W Belmar Pl,45224,"$166,000.00 ",11/28/2022,2,2,1969,1085,7492,1
+Ryan Sosinski,312 Bob Dr,45238,"$225,000.00 ",11/29/2022,4,3,1969,1424,4051,2
+Wenhan Zhu,"8623 Butler Warren Rd, West Chester, OH 45069",45069,"$309,000.00 ",12/12/2022,3,3,1969,1431,8200,2
+Loryn Flowers,"1038 Hatch St, Cincinnati, OH 45202",45202,"$387,000.00 ",4/21/2022,2,2,1970,1600,N/A,2
+Sethavatey Limsreng,"9978 Knollbrook Ter, Montgomery, OH 45242",45242,"$525,000.00 ",11/7/2022,4,4,1970,2423,15246,2
+Sethavatey Limsreng,"10728 Adventure Ln, Montgomery, OH 45242",45242,"$490,000.00 ",11/15/2022,4,3,1970,2040,20473.2,2
+Ryan Sosinski,880 Rue De la Paix Apt T1,45220,"$96,000.00 ",11/28/2022,2,2,1970,1300,,1
+Saiteja Boga,"880 Rue De La Paix APT T1, Cincinnati, OH",45220,"$96,000.00 ",11/28/2022,2,2,1970,1300,N/A,1
+Saiteja Boga,"880 Rue De La Paix #A-1, Cincinnati, OH",45220,"$96,000.00 ",11/30/2022,2,2,1970,1300,N/A,0
+Snehal Lokhande,"880 Rue De La Paix #A-1, Cincinnati, OH",45220,"$96,000.00 ",11/30/2022,2,2,1970,1300,1300,0
+Reshma Punukollu,"1039 Sutton Rd, Cincinnati, OH ",45230,"$325,000.00 ",12/12/2022,3,2,1970,1874,41817.6,4
+Tejaswini Sapkota,"1039 Sutton Rd, Cincinnati, OH 45230",45230,"$3,325,000.00 ",12/12/2022,3,2,1970,1874,49560,4
+Mackenzie Dunn,5551 Seville Ct,45247,"$265,000.00 ",1/4/2023,4,3,1970,2891,20037.6,2
+Hannah Grilliot,709 Woodfield Dr,45231,"$280,000.00 ",1/6/2023,4,2,1970,2457,12632.4,2
+Neil Bechmann,9731 Streambrook Dr,45231,"$256,500.00 ",7/30/2021,3,2.5,1971,2983,12920,2
+Cormac Warde,3369 Linsan Dr,45239,"$335,000.00 ",12/2/2022,4,3,1971,1815,8058,4
+Cormac Warde,5867 Seiler Dr,45239,"$227,000.00 ",12/8/2022,3,3,1971,2110,10236,2
+Chris Lindemann,"5650 Muirwood Dr, Cincinnati, OH",45233,"$331,000.00 ",12/28/2022,3,3,1971,1828,23087,2
+Reshma Punukollu,"2836 Quaker Ct, Cincinnati, OH ",45251,"$212,900.00 ",12/28/2022,3,2,1971,1500,8668,1
+Lawrence McCullough,"6628 Tylersville Rd, West Chester, OH",45069,"$280,000.00 ",1/4/2023,3,2,1971,1860,20909,2
+Mackenzie Dunn,6628 Tylersville Rd,45069,"$280,000.00 ",1/4/2023,3,2,1971,1860,20908.8,2
+Wenhan Zhu,"6628 Tylersville Rd, West Chester, OH 45069",45096,"$280,000.00 ",1/4/2023,3,2,1971,1860,4800,2
+Aidan Zebertavage,"1738 Muskegon Dr, Cincinnati, OH",45255,"$348,000.00 ",1/4/2023,5,3,1971,2363,17859.6,2
+Enola Picardo,"1738 Muskegon Dr, Cincinnati, OH",45255,"$348,000.00 ",1/4/2023,5,3,1971,2363,17860,2
+Hannah Grilliot,1738 Muskegon Dr,45255,"$348,000.00 ",1/4/2023,5,3,1971,2363,17859.6,2
+Tejaswini Sapkota,"1738 Muskegon Dr, Cincinnati, OH 45255",45255,"$348,600.00 ",1/4/2023,5,3,1971,2363,17859.6,2
+Dayne Brito,"7305 Applevalley Ct, Cincinnati, OH 45247",45247,"$310,000.00 ",1/5/2023,4,3,1971,2028,12197,2
+Hannah Grilliot,7305 Applevalley Ct,45247,"$310,000.00 ",1/5/2023,4,3,1971,2028,12196.8,2
+Snehal Lokhande,"7305 Applevalley Ct, Cincinnati, OH",45247,"$310,000.00 ",1/5/2023,4,3,1971,2028,12196,2
+Neil Bechmann,7524 E Miami Rd,45247,"$410,000.00 ",11/10/2022,4,2.5,1972,3090,230868,3
+Vishnu Srinath,"6405 Simon Dr, Cincinnati, OH",45233,"$282,100.00 ",11/23/2022,3,2,1972,1623,17424,2
+Ryan Sosinski,797 Picket Way,45245,"$275,000.00 ",11/28/2022,4,3,1972,1948,,2
+Wenhan Zhu,"8534 Ashwood Dr, West Chester, OH 45069",45069,"$369,900.00 ",12/15/2022,3,2,1972,2488,6900,2
+Wenhan Zhu,"8283 Cox Rd, West Chester, OH 45069",45069,"$272,000.00 ",12/15/2022,3,2,1972,1350,5200,1
+Samipya Pamuru,"856 Dry Creek Rd, Cold Spring, KY 41076",41076,"$350,000.00 ",12/30/2022,3,3,1972,1352,190793,2
+Anhly Truong,496 Bessinger Dr,45240,"$220,000.00 ",1/6/2023,3,2,1972,1356,8668,1
+Chandler Craker,"496 Bessinger Dr, Cincinnati, OH",45240,"$220,000.00 ",1/6/2023,3,2,1972,1356,8668,1
+Mackenzie Dunn,2835 Campus Dr,41017,"$245,000.00 ",1/9/2023,3,3,1972,1144,9147,2
+Chandler Craker,"1526 Forester Dr, Cincinnati, OH",45240,"$155,000.00 ",1/6/2023,3,2,1973,1508,16989,2
+Chris Lindemann,"10681 Creeknoll Ct, Montgomery, OH",45242,"$400,000.00 ",1/6/2023,5,3,1973,2570,21344,2
+Lawrence McCullough,"10681 Creeknoll Ct, Montgomery, OH",45242,"$400,000.00 ",1/6/2023,5,3,1973,2570,21344,2
+Sethavatey Limsreng,"10681 Creeknoll Ct, Montgomery, OH 45242",45242,"$400,000.00 ",1/6/2023,5,3,1973,2570,21344.4,2
+Chris Lindemann,"4263 Paul Rd, Cincinnati, OH",45238,"$200,000.00 ",1/9/2023,3,2,1973,1484,8232,2
+Hannah Grilliot,4263 Paul Rd ,45238,"$200,000.00 ",1/9/2023,3,2,1973,1484,8232,2
+Maddie Hannan,4263 Paul Rd,45238,"$200,000.00 ",1/10/2023,3,2,1973,1484,8232,2
+Jorgen Kerens,"1426 Waterworks Rd, Newport, KY",41071,"$213,000.00 ",1/13/2023,3,3,1973,,9147,2
+Meghana Mittameedi,"1426 Waterworks Rd, Newport, KY 41071",41071,"$213,000.00 ",1/13/2023,3,3,1973,3124,9147.6,2
+Nitish HS Reddy,"1426 Waterworks Rd, Newport, KY 41071",41071,"$213,000.00 ",1/13/2023,3,3,1973,,9147,2
+Kristi Duncan,"4263 Paul Rd, Cincinnati, OH 45238",45238,"$200,000.00 ",1/13/2023,3,2,1973,1484,8232,2
+Pavan Preetam Motagi,"3502 Clifton Ave UNIT 1, Cincinnati, OH",45220,"$250,000.00 ",1/11/2022,3,2,1974,1487,7443,2
+Ryan Sosinski,53 Stillmeadow Dr,45245,"$105,000.00 ",11/29/2022,1,1,1974,804,,0
+Victoria Smith,"6704 Devonwood Dr, Cincinnati, OH",45224,"$235,000.00 ",12/12/2022,3,4,1974,2496,16117,3
+Sethavatey Limsreng,"10690 Creeknoll Ct, Montgomery, OH 45242",45242,"$505,000.00 ",12/27/2022,4,4,1974,2964,20473.2,2
+Sethavatey Limsreng,"9935 Forestglen Dr, Montgomery, OH 45242",45242,"$696,000.00 ",12/28/2022,4,4,1974,3200,20037.6,2
+Mackenzie Dunn,7435 Lawndale Dr,45069,"$205,000.00 ",1/3/2023,4,3,1974,2358,21344.4,2
+Chris Lindemann,"9926 Forestglen DR, Montgomery, OH",45242,"$395,000.00 ",1/3/2023,4,3,1974,2093,20473,2
+Sethavatey Limsreng,"9926 Forestglen Dr, Montgomery, OH 45242",45242,"$395,000.00 ",1/3/2023,4,3,1974,2093,20473.2,2
+Gabriela Varisco,"6586 Knottypine Dr, Cincinnati, OH",45230,"$274,000.00 ",1/6/2023,3,3,1974,1694,8712,2
+Hannah Grilliot,6586 Knottypine Dr,45230,"$274,000.00 ",1/6/2023,3,3,1974,1694,8712,2
+Maddie Hannan,6586 Knottypine Dr,45230,"$274,000.00 ",1/6/2023,3,3,1974,1694,8172,2
+Tejaswini Sapkota,"6586 Knottypine Dr, Cincinnati, OH 45230",45230,"$274,200.00 ",1/6/2023,3,3,1974,1694,8712,1
+Rohit Bhoite,"1502 Woodland Dr, Loveland, OH",45140,"$115,000.00 ",1/13/2023,3,1,1974,960,12196.8,1
+Kristi Duncan,"6586 Knottypine Dr, Cincinnati, OH 45230",45230,"$274,000.00 ",1/13/2023,3,3,1974,1694,8712,2
+Neil Bechmann,427 Flemridge Ct,45231,"$357,900.00 ",2/8/2021,4,3.5,1975,2196,15246,2
+Sethavatey Limsreng,"10637 Merrick Ln, Montgomery, OH 45242",45242,"$350,000.00 ",11/28/2022,5,2,1975,2260,13939.2,2
+Ryan Sosinski,9529 Haddington Ct,45251,"$88,000.00 ",11/28/2022,3,1.5,1975,952,,0
+Sethavatey Limsreng,"7835 Shadowhill Way, Montgomery, OH 45242",45242,"$465,000.00 ",11/30/2022,4,3,1975,3063,19166.4,2
+Rudranshi Singh,"3967 Benjamin St, Cincinnati, OH",45245,"$231,000.00 ",12/16/2022,3,1.5,1975,1452,19602,2
+Dayne Brito,"4129 Forsythia Dr, Cincinnati, OH 45245",45245,"$310,000.00 ",12/23/2022,4,3,1975,2026,20038,2
+Jahnavi Galla,"4129 Forsythia Dr, Cincinnati, OH",45245,"$310,000.00 ",12/23/2022,4,3,1975,2026,20037.6,2
+Adam Wilson,1761 Pioneer Blvd,41005,"$230,000.00 ",1/11/2023,3,3,1975,1659,11326,2
+Sean McGill,"338 Pedretti Ave, Cincinnati, OH",45238,"$140,000.00 ",9/13/2022,3,1.5,1976,1600,6141,1
+Ryan Sosinski,4009 Benjamin st,45245,"$199,900.00 ",11/28/2022,3,3,1976,1860,na,2
+Snehal Lokhande,"9427 Haddington Ct #221, Cincinnati, OH",45251,"$134,000.00 ",12/20/2022,3,2,1976,1521,0,2
+Sethavatey Limsreng,"10699 Indian Woods Dr, Cincinnati, OH 45242",45242,"$489,900.00 ",12/22/2022,5,4,1976,3376,21344.4,2
+Chris Lindemann,"12067 Wesken Ln, Cincinnati, OH",45241,"$365,000.00 ",12/29/2022,4,3,1976,3219,14810,2
+Chandler Craker,"1533 Hazelgrove Dr, Cincinnati, OH",45240,"$228,000.00 ",1/6/2023,3,2,1976,1508,9104,2
+Adam Wilson,5215 Clearlake Dr,45247,"$192,500.00 ",1/11/2023,3,2,1976,1302,289238,1
+Samipya Pamuru,"738 Dowdell Ave #740, Xenia, OH 45385",45385,"$140,000.00 ",1/11/2023,4,2,1976,1536,9766,0
+Sean Rossander,3241 Crest Rd,45251,"$144,900.00 ",1/13/2023,3,2.5,1976,867,2791,1
+Neil Bechmann,733 Buff Ct,45231,"$307,650.00 ",1/6/2022,3,3.5,1977,3347,19602,2
+Sethavatey Limsreng,"8756 Tanagerwoods Dr, Cincinnati, OH 45249",45249,"$550,000.00 ",11/30/2022,4,4,1977,3936,24829.2,2
+Cormac Warde,5625 Goldenrod Dr,45239,"$290,000.00 ",12/9/2022,4,3,1977,2816,10672,2
+Sethavatey Limsreng,"8702 Tanagerwoods Dr, Cincinnati, OH 45249",45249,"$587,000.00 ",12/19/2022,4,3,1977,3872,20037.6,2
+Wenhan Zhu,"8327 Summerbridge Way, West Chester, OH 45069",45069,"$232,500.00 ",12/22/2022,3,3,1977,2316,0,1
+Samipya Pamuru,"68 Rice Dr, New Vienna, OH 45159",45159,"$183,900.00 ",12/30/2022,4,2,1977,1248,12632,0
+Anhly Truong,5614 Lake Mead Dr,45014,"$250,000.00 ",1/10/2023,3,2,1977,1620,12632.4,2
+Adam Wilson,1489 Nathanial Dr,45240,"$150,000.00 ",1/11/2023,3,2,1977,1652,9975,2
+Dayne Brito,"2213 State Route 28, Goshen, OH 45122",45122,"$365,000.00 ",1/12/2023,3,3,1977,1232,56192,3
+Rohit Bhoite,"2213 State Route 28, Goshen, OH",45122,"$365,000.00 ",1/13/2023,3,3,1977,1232,56192.4,3
+Sean McGill,"650 Reisling Knl, Cincinnati, OH",45226,"$555,000.00 ",7/20/2020,3,4,1978,3972,14810,2
+Sethavatey Limsreng,"8037 Monte Dr, Montgomery, OH 45242",45242,"$660,000.00 ",11/18/2022,4,3,1978,2958,19602,2
+Sethavatey Limsreng,"10600 Indian Woods Dr, Montgomery, OH 45242",45242,"$510,000.00 ",12/2/2022,4,5,1978,4011,127630.8,2
+Snehal Lokhande,"934 Sarbrook Dr, Cincinnati, OH",45231,"$275,000.00 ",12/27/2022,3,2,1978,2796,12196,2
+Jorgen Kerens,"26 Jennifer Ct, Fort Thomas, KY",41075,"$350,000.00 ",1/13/2023,3,2,1978,,8276,2
+Meghana Mittameedi,"26 Jennifer Ct, Fort Thomas, KY 41075",41075,"$350,000.00 ",1/13/2023,3,2,1978,2897,8276.4,2
+Nitish HS Reddy,"26 Jennifer Ct, Fort Thomas, KY 41075",41075,"$350,000.00 ",1/13/2023,3,2,1978,,8276,2
+Ryan Sosinski,8669 Enchanted Way,45247,"$239,900.00 ",11/28/2022,3,3,1979,1728,,2
+Vishnu Srinath,"8669 Enchanted Way, Cincinnati, OH",45247,"$239,900.00 ",11/28/2022,3,3,1979,1728,27878.4,2
+Wenhan Zhu,"7509 Cinnamon Woods Dr, West Chester, OH 45069",45069,"$330,000.00 ",12/13/2022,3,3,1979,2320,4000,2
+Jahnavi Galla,"100 Saint Andrews Dr, Cincinnati, OH",45245,"$142,500.00 ",12/28/2022,2,2,1979,1160,705.27,2
+Avi Aggarwal,"10355 Pippin Ln, Cincinnati, Ohio",45231,"$200,000.00 ",1/6/2023,3,2,1979,1548,11325.6,1
+Elayna Franklin,"10355 Pippin Ln, Cincinnati, Ohio",45231,"$200,000.00 ",1/9/2023,3,2,1979,1548,11325.6,1
+Gabriela Varisco,"10355 Pippin Ln, Cincinnati, OH",45231,"$200,000.00 ",1/9/2023,3,2,1979,1548,11325,1
+Jahnavi Galla,"10355 Pippin Ln, Cincinnati, OH",45231,"$200,000.00 ",1/9/2023,3,2,1979,1548,11325.6,1
+Kristi Duncan,"10355 Pippin Ln, Cincinnati, OH 45231",45231,"$200,000.00 ",1/10/2023,3,2,1979,1548,11326,1
+Maddie Hannan,10355 Pippin Ln,45231,"$200,000.00 ",1/10/2023,3,2,1979,1548,11326,1
+Jorgen Kerens,"2027 Woodcrest Dr, Independence, KY",41051,"$146,000.00 ",1/13/2023,3,2,1979,1040,7405,1
+Neil Bechmann,9571 Beech Dr,45231,"$241,000.00 ",6/3/2022,4,2.5,1980,3302,32670,2
+Rohit Bhoite,"7368 Betsy Ross Ct, Hamilton, OH",45011,"$302,000.00 ",9/16/2022,4,3,1980,2214,36241.92,2
+Cormac Warde,2962 Orchardknoll Ct,45239,"$232,500.00 ",12/15/2022,3,3,1980,1396,8276,2
+Wenhan Zhu,"7594 Weatherly Ct, West Chester, OH 45069",45069,"$155,000.00 ",12/16/2022,3,2,1980,1516,0,2
+Reshma Punukollu,"2497 Crest Rd, Cincinnati, OH ",45231,"$267,500.00 ",12/22/2022,4,3,1980,1856,7840,2
+Wenhan Zhu,"5607 Plowshare Way, West Chester, OH 45069",45069,"$275,000.00 ",12/30/2022,3,3,1980,1716,9209,2
+Saurav Nandi,6712 Miami Ave,45243,"$896,712.00 ",3/1/2232,3,3,1980,0,0,3
+Sethavatey Limsreng,"12057 Cooperwood Ln, Cincinnati, OH 45242",45242,"$685,000.00 ",10/24/2022,4,3,1981,2264,20473.2,2
+Sethavatey Limsreng,"7775 Ivygate Ln, Montgomery, OH 45242",45242,"$725,000.00 ",12/12/2022,4,4,1981,4727,20037.6,2
+Meghana Mittameedi,"4016 Lakepoint Ct, Villa Hills, KY 41017",41017,"$204,000.00 ",1/13/2023,3,4,1981,1367,1306.8,1
+Meghana Mittameedi,"4454 N Bend Rd, Cincinnati, OH 45211",45211,"$277,325.00 ",1/13/2023,4,3,1981,1240,8102.16,2
+Saurav Nandi,7240 Thomas Dr,45243,"$837,823.00 ",10/18/2230,4,4,1981,930,8276,2
+Xinzhu Sun,2193 Julie Ter,45215,"$280,000.00 ",7/14/2022,3,2,1982,1586,8276,1
+Wenhan Zhu,"5396 Pine Valley Dr, West Chester, OH 45069",45069,"$265,000.00 ",12/15/2022,3,3,1982,1448,4996,2
+Dayne Brito,"6150 Taylor Pike, Blanchester, OH 45107",45107,"$385,000.00 ",11/29/2022,5,4,1983,3045,42689,3
+Rudranshi Singh,"5060 Clarevalley Dr, Cincinnati, OH",45238,"$292,900.00 ",12/16/2022,3,2.5,1983,1682,13068,2
+Rudranshi Singh,"3004 Glenmore Ave UNIT 402, Cincinnati, OH",45238,"$84,500.00 ",12/16/2022,2,2,1983,1134,71002,1
+Saiteja Boga,"522 Riddle Rd UNIT 21, Cincinnati, OH",45220,"$75,000.00 ",12/21/2022,2,2,1983,880,N/A,1
+Chris Lindemann,"10052 Bennington Dr, Cincinnati, OH",45241,"$420,000.00 ",12/23/2022,4,3,1983,2586,16988,2
+Chris Lindemann,"7831 Montreal Ct, Cincinnati, OH",45241,"$460,000.00 ",12/28/2022,4,3,1983,2596,20473,2
+Mackenzie Dunn,1417 Rambling Hills Dr,45230,"$365,000.00 ",1/9/2023,4,3,1983,2048,14810.4,2
+Adam Wilson,7104 Saint Edmunds Dr,45230,"$425,000.00 ",1/11/2023,4,4,1983,3364,17424,2
+Gabriela Varisco,"7104 Saint Edmunds Dr, Anderson Twp, OH",45230,"$425,000.00 ",1/11/2023,4,4,1983,3364,17424,2
+Krishnaja Pinnamaneni,"7104 Saint Edmunds Dr, Anderson Twp, OH",45230,"$425,000.00 ",1/11/2023,4,4,1983,3364,17424,2
+Krishnaja Pinnamaneni,"7104 Saint Edmunds Dr, Anderson Twp, OH",45230,"$425,000.00 ",1/11/2023,4,4,1983,3364,17424,2
+Kristi Duncan,"7104 Saint Edmunds Dr, Anderson Twp, OH 45230",45230,"$425,000.00 ",1/11/2023,4,4,1983,3364,17424,2
+Maddie Hannan,7104 Saint Edmunds Dr,45230,"$425,000.00 ",1/11/2023,4,4,1983,3364,17424,2
+Priyanka Nainani,"7104 Saint Edmunds Dr, Anderson Twp, OH ",45230,"$425,000.00 ",1/11/2023,4,4,1983,3364,0.403,2
+Tejaswini Sapkota,"7104 Saint Edmunds Dr, Anderson Twp, OH 45230",45230,"$425,300.00 ",1/11/2023,4,4,1983,3364,17424,2
+Elayna Franklin,"7104 Saint Edmunds Dr, Anderson Twp, Ohio",45240,"$425,000.00 ",1/11/2023,4,4,1983,3364,17424,2
+Rohit Bhoite,"4431 Elmwood Rd, Batavia, OH",45103,"$415,000.00 ",1/13/2023,4,4,1983,2236,130680,4
+Rohit Bhoite,"1286 Monticello Ct, Milford, OH",45150,"$225,000.00 ",1/13/2023,3,2,1983,1472,16552.8,1
+Tejaswini Sapkota,"680 Roundtree Ct, Cincinnati, OH 45230",45230,"$206,000.00 ",12/20/2022,2,4,1984,1140,n/a,2
+Wenhan Zhu,"5431 Falcon Ln, West Chester, OH 45069",45069,"$338,000.00 ",12/27/2022,3,4,1984,3228,5600,2
+Lawrence McCullough,"1084 Tumbleweed Dr, Loveland, OH",45140,"$415,000.00 ",1/5/2023,5,5,1984,2921,25265,2
+Mackenzie Dunn,1084 Tumbleweed Dr,45140,"$415,000.00 ",1/5/2023,5,5,1984,2921,25264.8,2
+Jayanth Chowdary Bandi,"5702 Brushy Creek Trl, Dallas, TX",75252,"$769,000.00 ",1/6/2023,4,3,1984,3226,9147,2
+Jorgen Kerens,"142 Mussel Ln, Shelbyville, KY",40065,"$165,000.00 ",1/13/2023,3,2,1984,1066,10890,0
+Nitish HS Reddy,"142 Mussel Ln, Shelbyville, KY 40065",40065,"$165,000.00 ",1/13/2023,3,2,1984,1066,10890,0
+Chris Lindemann,"215 Assisiview Ct, Cincinnati, OH",45238,"$255,000.00 ",12/16/2022,3,3,1985,2034,8145,2
+Rudranshi Singh,"215 Assisiview Ct, Delhi, OH",45238,"$255,000.00 ",12/16/2022,3,2.5,1985,2034,8145,2
+Samipya Pamuru,"72 Dudley Rd, Blanchester, OH 45107",45107,"$320,000.00 ",12/23/2022,4,2,1985,3312,44867,2
+Saiteja Boga,"521 Martin Luther King Dr W APT 36, Cincinnati, OH",45220,"$115,000.00 ",11/9/2022,2,2,1986,925,N/A,0
+Wenhan Zhu,"6455 Fountains Blvd, West Chester, OH 45069",45069,"$445,450.00 ",12/14/2022,5,4,1986,2864,4100,2
+Wenhan Zhu,"8116 Brookfield Dr, West Chester, OH 45069",45069,"$280,000.00 ",12/19/2022,3,2,1986,1606,3500,2
+Chris Lindemann,"11183 Jardin Pl, Cincinnat, OH",45241,"$290,000.00 ",12/30/2022,3,4,1986,1880,6219,2
+Lawrence McCullough,"7940 Deerhurst Pl, Maineville, OH",45039,"$355,000.00 ",1/6/2023,4,3,1986,2668,14375,2
+Chris Lindemann,"132 Sheffield Rd, Cincinnati, OH",45240,"$311,000.00 ",1/6/2023,3,3,1986,2216,47916,2
+Adam Wilson,2890 Millbank Row,45039,"$183,000.00 ",1/11/2023,2,2,1986,1020,1020,0
+Meghana Mittameedi,"11180 Jardin Pl, Blue Ash, OH 45241",45241,"$332,000.00 ",1/13/2023,2,3,1986,2374,2962.08,2
+Nitish HS Reddy,"11180 Jardin Pl, Blue Ash, OH 45241",45241,"$332,000.00 ",1/13/2023,2,3,1986,2374,,2
+Meghana Mittameedi,"254 Greendale Ave, Cincinnati, OH 45220",45220,"$975,000.00 ",10/14/2021,6,5,1987,6445,39204,3
+Rohit Bhoite,"3868 Celtis Ct, Hamilton, OH",45013,"$280,000.00 ",9/19/2022,3,2,1987,1568,15389.75,2
+Avi Aggarwal,"5454 Victorian Way, Cincinnati, OH",45241,"$261,900.00 ",12/14/2022,2,3,1987,1225,4139,1
+Rudranshi Singh,"915 Nordyke Rd, Cincinnati, OH",45255,"$351,900.00 ",12/16/2022,3,3,1987,2418,40075,2
+Tejaswini Sapkota,"915 Nordyke Rd, Cincinnati, OH 45255",45255,"$354,800.00 ",12/16/2022,3,2,1987,2418,40946.4,2
+Jahnavi Galla,"1421 E McMillan St, Cincinnati, OH",45206,"$185,000.00 ",12/27/2022,2,2,1987,1049,566.28,1
+Chris Lindemann,"5454 Victorian Way, Cincinnati, OH",45241,"$261,900.00 ",12/30/2022,2,3,1987,1225,4139,1
+Chris Lindemann,"12040 Stillwind Dr, Cincinnati, OH ",45249,"$275,000.00 ",1/9/2023,3,3,1987,1544,15682,2
+Meghana Mittameedi,"5977 Meadowcreek Dr #11, Milford, OH 45150",45150,"$128,000.00 ",1/13/2023,2,2,1987,1022,492.228,1
+Nitish HS Reddy,"5977 Meadowcreek Dr #11, Milford, OH 45150",45150,"$128,000.00 ",1/13/2023,2,2,1987,1022,,1
+Rohit Bhoite,"5977 Meadowcreek Dr #11, Milford, OH",45150,"$128,000.00 ",1/13/2023,2,2,1987,1022,492.228,1
+Saurav Nandi,5723 Windridge Dr,45243,"$600,000.00 ",7/2/2178,4,4,1987,2771,25265,2
+Wenhan Zhu,"8822 Revere Run, West Chester, OH 45069",45069,"$410,000.00 ",12/20/2022,4,4,1988,2876,3500,2
+Aidan Zebertavage,"774 Roundtree Ct, Cincinnati, OH",45230,"$479,000.00 ",12/22/2022,4,3,1988,2590,19602,2
+Tejaswini Sapkota,"774 Roundtree Ct, Cincinnati, OH 45230",45230,"$479,000.00 ",12/23/2022,4,3,1988,2590,19602,2
+Adam Wilson,5770 Lengwood Dr,45244,"$890,500.00 ",1/12/2023,4,5,1988,3434,25265,2
+Meghana Mittameedi,"1653 Shady Cove Ln, Florence, KY 41042",41042,"$178,000.00 ",1/13/2023,3,2,1988,871.2,871.2,1
+Nitish HS Reddy,"1653 Shady Cove Ln, Florence, KY 41042",41042,"$178,000.00 ",1/13/2023,3,2,1988,871.2,,1
+Adam Wilson,"2876 Chaise Ln, Maineville",45039,"$190,000.00 ",1/13/2023,2,2,1988,1020,1729,1
+Elayna Franklin,"2876 Chaise Ln, Mainville, Ohio",45039,"$190,000.00 ",1/13/2023,2,2,1988,1020,1329,1
+Nick Flessner,3531 Beekley Woods Drive,45241,"$380,000.00 ",6/9/2021,4,3,1989,2686,42253,2
+Neil Bechmann,11830 Colerain Ave,45252,"$365,000.00 ",8/31/2022,4,2.5,1989,2358,45738,2
+Rohit Bhoite,"5543 Waynes Trace Rd, Hamilton, OH",45011,"$325,000.00 ",9/19/2022,4,3,1989,1950,196717,2
+Sethavatey Limsreng,"3 Coventry Ct, Loveland, OH 45140",45140,"$414,000.00 ",9/29/2022,3,4,1989,2374,5924,2
+Reshma Punukollu,"4162 Gleneste Withamsville Rd, Cincinnati, OH ",45245,"$260,000.00 ",12/5/2022,3,2,1989,1424,14810.4,1
+Neil Bechmann,4191 Miamitrail Ln,45252,"$440,000.00 ",12/8/2022,3,2.5,1989,2638,113691.6,2
+Tejaswini Sapkota,"1684 Emerald Glade Ln, Cincinnati, OH 45255",45255,"$225,500.00 ",12/20/2022,3,2,1989,1862,n/a,1
+Jahnavi Galla,"7341 Waterpoint Ln, Cincinnati, OH",45255,"$1,105,000.00 ",12/22/2022,5,6,1989,5278,43560,3
+Tejaswini Sapkota,"7341 Waterpoint Ln, Cincinnati, OH 45255",45255,"$1,105,000.00 ",12/22/2022,5,6,1989,5278,49560,3
+Jayanth Chowdary Bandi,"4815 Holly Tree Dr, Dallas, TX",75287,"$950,000.00 ",1/3/2023,4,4,1989,3952,10018,3
+Tejaswini Sapkota,"7568 Greenarbor Dr, Cincinnati, OH 45255",45255,"$185,000.00 ",1/6/2023,2,2,1989,1176,1176,1
+Neil Bechmann,9906 Sherwood Dr,45231,"$350,000.00 ",1/15/2021,3,3.5,1990,2562,48787.2,2
+Sean McGill,"554 Missouri Ave, Cincinnati, OH",45226,"$310,000.00 ",4/9/2021,3,2.5,1990,1891,3789,1
+Meghana Mittameedi,"764 Old Ludlow Ave, Cincinnati, OH 45220",45220,"$850,000.00 ",10/28/2022,5,5,1990,5334,20908.8,3
+Snehal Lokhande,"764 Old Ludlow Ave, Cincinnati, OH",45220,"$850,000.00 ",10/28/2022,5,5,1990,5334,20908.8,3
+Xinzhu Sun,94 Orchard Knoll Dr,45215,"$257,500.00 ",11/14/2022,3,3,1990,1568,7579,2
+Reshma Punukollu,"866 Country Club Dr, Cincinnati, OH ",45245,"$580,000.00 ",12/13/2022,4,5,1990,4702,42688.8,3
+Rudranshi Singh,"4267 Wellington Dr, Cincinnati, OH",45245,"$429,000.00 ",12/16/2022,5,3.5,1990,3500,21780,2
+Rudranshi Singh,"1191 Lamplighter Way, Cincinnati, OH",45245,"$150,000.00 ",12/16/2022,2,2,1990,1096,1286,2
+Jahnavi Galla,"8301 Jakaro Dr, Cincinnati, OH",45255,"$450,000.00 ",12/20/2022,4,4,1990,2088,23522.4,2
+Tejaswini Sapkota,"8301 Jakaro Dr, Cincinnati, OH 45255",45255,"$450,000.00 ",12/20/2022,4,4,1990,2088,23522,2
+Avi Aggarwal,"999 Cedar Ridge Dr APT 5, Cincinnati, Ohio",45245,"$140,000.00 ",1/9/2023,2,2,1990,1064,649,2
+Elayna Franklin,"999 Cedar Ridge Dr APT 5, Cincinnati, Ohio",45245,"$140,000.00 ",1/9/2023,2,2,1990,1064,649,2
+Maddie Hannan,99 Cedar Ridge Dr,45245,"$140,000.00 ",1/9/2023,2,2,1990,1064,12240,2
+Avi Aggarwal,"999 Cedar Ridge Dr APT 5, Cincinnati, Ohio",45245,"$140,000.00 ",1/10/2023,2,2,1990,1064,649,2
+Dayne Brito,"112 Hill Top Ln, Moscow, OH 45153",45153,"$140,000.00 ",11/16/2022,3,2,1991,1536,105851,1
+Wenhan Zhu,"6148 Beckett Station Ct, West Chester, OH 45069",45069,"$330,000.00 ",12/20/2022,4,2.5,1991,2424,3900,1
+Tejaswini Sapkota,"6355 Corbly Rd UNIT 20, Cincinnati, OH 45230",45230,"$206,500.00 ",12/20/2022,2,4,1991,1600,n/a,1
+Anhly Truong,8237 Maddox Dr,45069,"$394,000.00 ",12/28/2022,4,3,1991,2649,15246,2
+Wenhan Zhu,"8237 Maddox Dr, West Chester, OH 45069",45069,"$394,000.00 ",12/28/2022,4,3,1991,2649,3500,2
+Adam Wilson,1165 Creekstone Dr,45103,"$290,000.00 ",1/11/2023,4,4,1991,1928,13068,2
+Rohit Bhoite,"1165 Creekstone Dr, Batavia, OH",45103,"$290,000.00 ",1/11/2023,4,4,1991,1928,12893,2
+Adam Wilson,"1367 Hunter Ct, Fairfield",45014,"$330,000.00 ",1/12/2023,4,3,1991,3366,14375,2
+Lawrence McCullough,"1367 Hunter Ct, Fairfield, OH",45014,"$330,000.00 ",1/12/2023,4,3,1991,3366,14375,2
+Neil Bechmann,553 Meadowtrail ct,45231,"$448,000.00 ",3/1/2022,4,3.5,1992,2219,19166.4,2
+Ryan Sosinski,3982 Maplecove Ln,45255,"$148,000.00 ",11/28/2022,2,2,1992,1113,na,2
+Rudranshi Singh,"900 Adams Xing STE 5800, Cincinnati, OH",45202,"$521,000.00 ",12/15/2022,2,2.5,1992,2177,81892,2
+Dayne Brito,"7020 Sheed Rd, Cincinnati, OH 45247",45247,"$235,000.00 ",12/16/2022,3,3,1992,1584,19166,2
+Rudranshi Singh,"7020 Sheed Rd, Cincinnati, OH",45247,"$235,000.00 ",12/16/2022,3,3,1992,1584,19166,2
+Enola Picardo,"6465 Mapleton Ave, Cincinnati, OH",45233,"$417,500.00 ",1/3/2023,4,3,1992,2750,17860,2
+Mackenzie Dunn,6465 Mapleton Ave,45233,"$417,500.00 ",1/3/2023,4,4,1992,2750,17859.6,2
+Mackenzie Dunn,7048 Pinemill Dr,45069,"$430,000.00 ",1/9/2023,4,4,1992,2494,15246,2
+Wenhan Zhu,"8164 Westfall Ln, West Chester, OH 45069",45069,"$430,000.00 ",1/9/2023,4,4,1992,2494,3500,2
+Nick Flessner,458 Klotter Avenue,45214,"$464,000.00 ",9/17/2021,3,3,1993,1964,4350,2
+Xinzhu Sun,160 Eagleview Way,45215,"$230,000.00 ",9/29/2022,4,2.5,1993,2002,9147,2
+Sethavatey Limsreng,"7750 Campus Ln, Montgomery, OH 45242",45242,"$515,000.00 ",10/5/2022,3,3,1993,2175,24393.6,3
+Victoria Smith,"538 Missouri Ave, Cincinnati, OH",45226,"$440,000.00 ",10/7/2022,3,3,1993,1891,3877,1
+Ryan Sosinski,9800 Regatta Dr Unit 302,45252,"$152,500.00 ",11/25/2022,2,2,1993,1159,na,0
+Victoria Smith,"419 Elizabeth St, Cincinnati, OH",45203,"$339,000.00 ",12/9/2022,3,3,1993,1342,0,1
+Tejaswini Sapkota,"6511 Wyndwatch Dr, Cincinnati, OH 45230",45230,"$750,000.00 ",12/16/2022,4,3,1993,5595,160736.4,2
+Rudranshi Singh,"11535 Regency Square Ct UNIT 4, Cincinnati, OH",45231,"$120,000.00 ",12/16/2022,2,2,1993,1150,99752,1
+Xinzhu Sun,212 Breezy Vis,45215,"$360,000.00 ",12/27/2022,4,4,1993,2288,10497,2
+Samipya Pamuru,"210 Charles Dr, Carlisle, OH 45005",45005,"$225,000.00 ",1/6/2023,3,2,1993,1248,15246,2
+Nitish HS Reddy,"104 Dusty Rd, Sharpsburg, KY 40374",40374,"$102,000.00 ",1/13/2023,3,2,1993,1741,50530,2
+Meghana Mittameedi,"140 Buckhorn Ct APT 7, Erlanger, KY 41018",41018,"$139,900.00 ",1/13/2023,2,2,1993,986,1306.8,1
+Nitish HS Reddy,"140 Buckhorn Ct APT 7, Erlanger, KY 41018",41018,"$139,900.00 ",1/13/2023,2,2,1993,986,,
+Loryn Flowers,"1133 Carney St, Cincinnati, OH 45202",45202,"$720,000.00 ",2/25/2022,3,4,1994,3150,2090,2
+Xinzhu Sun,128 Eagleview Way,45215,"$318,500.00 ",3/21/2022,3,3,1994,1842,10890,2
+Xinzhu Sun,212 Rainbow Rdg,45215,"$340,000.00 ",6/30/2022,3,3,1994,2015,9888,2
+Wenhan Zhu,"7074 Barret Rd, West Chester, OH 45069",45069,"$1,300,000.00 ",12/30/2022,4,6,1994,6859,53000,6
+Wenhan Zhu,"7666 Legendary Ln, West Chester, OH 45069",45069,"$540,000.00 ",12/31/2022,4,4,1994,3997,4100,2
+Adam Wilson,3178 McCowan Dr,41015,"$392,000.00 ",1/10/2023,4,3,1994,2460,14810,2
+Adam Wilson,"11970 Weeping Willow Ct, Loveland",45140,"$397,950.00 ",1/13/2023,3,3,1994,1645,11326,2
+Elayna Franklin,"11970 Weeping Willow Ct, Loveland, Ohio",45140,"$364,900.00 ",1/13/2023,3,3,1994,1645,11325.6,2
+Saurav Nandi,212 Rainbow Rdg,45215,"$340,000.00 ",7/17/2072,3,3,1994,2015,9888,2
+Samipya Pamuru,"21826 Fayetteville Rd, Blanchester, OH 45107",45107,"$275,000.00 ",12/13/2022,3,2,1995,1600,43560,2
+Neil Bechmann,11559 Grandstone Ln,45249,"$1,079,500.00 ",12/14/2022,5,4.5,1995,5611,21344.4,3
+Chandler Craker,"2242 Siesta Dr, Batavia, OH",45103,"$235,000.00 ",1/6/2023,3,3,1995,1976,10105,2
+Jorgen Kerens,"1385 Ashford Pl, Florence, KY",41042,"$319,900.00 ",1/13/2023,4,3,1995,2456,12197,2
+Meghana Mittameedi,"1385 Ashford Pl, Florence, KY 41042",41042,"$319,900.00 ",1/13/2023,4,3,1995,2456,12197,2
+Saurav Nandi,116 Eagleview Way,45215,"$252,000.00 ",2/16/2154,3,3,1995,1840,10824,2
+Wenhan Zhu,"7157 Saint Ives Pl, West Chester, OH 45069",45069,"$640,000.00 ",12/21/2022,4,5,1996,5083,4700,3
+Wenhan Zhu,"7740 Ottawa Ln APT 257, West Chester, OH 45069",45069,"$163,000.00 ",12/23/2022,2,2,1996,1144,0,1
+Sethavatey Limsreng,"10628 Convo Ct, Montgomery, OH 45242",45242,"$826,000.00 ",12/23/2022,4,5,1996,4372,20037.6,3
+Wenhan Zhu,"7356 Wetherington Dr, West Chester, OH 45069",45069,"$637,500.00 ",12/27/2022,1,4,1996,3970,3200,3
+Mackenzie Dunn,"5634 Carolina Way #9-4,",41005,"$174,900.00 ",1/1/2023,2,2,1996,1045,na,1
+Samipya Pamuru,"2677 Rochester Ave, Hamilton, OH 45011",45011,"$182,000.00 ",1/4/2023,3,1,1996,1092,11326,1
+Rohit Bhoite,"555 Aspen Glen Dr APT 710, Cincinnati, OH",45244,"$150,000.00 ",1/12/2023,2,2,1996,1360,531.432,0
+Samipya Pamuru,"5937 Wells Goecke Rd, Georgetown, OH 45121",45121,"$160,000.00 ",12/9/2022,3,2,1997,1296,56628,2
+Enola Picardo,"422 Elizabeth St, Cincinnati, OH",45203,"$380,000.00 ",1/3/2023,3,2.5,1997,2880,2047,2
+Enola Picardo,"10296 Deerhollow Dr, Cincinnati, OH",45252,"$429,900.00 ",1/3/2023,3,3.5,1997,2475,142441,3
+Mackenzie Dunn,10296 Deerhollow Dr,45252,"$429,900.00 ",1/3/2023,3,4,1997,2475,142441.2,3
+Snehal Lokhande,"10296 Deerhollow Dr, Cincinnati, OH",45252,"$429,900.00 ",1/3/2023,3,4,1997,2475,162043,3
+Jorgen Kerens,"1114 Cannonball Way, Independence, KY",41051,"$235,000.00 ",1/13/2023,3,3,1997,,13068,2
+Nitish HS Reddy,"1114 Cannonball Way, Independence, KY 41051",41051,"$235,000.00 ",1/13/2023,3,3,1997,,13068,
+Tejaswini Sapkota,"779 Ackley Rd, Cincinnati, OH 45255",45255,"$200,000.00 ",12/12/2022,3,2,1998,2688,6500,2
+Dayne Brito,"3371 Mauch Rd, Amelia, OH 45102",45102,"$305,000.00 ",12/13/2022,3,3,1998,2317,33106,1
+Wenhan Zhu,"7925 Kristen Dr, West Chester, OH 45069",45069,"$329,900.00 ",12/15/2022,3,3,1998,1797,3500,2
+Rudranshi Singh,"8169 Witts Meadow Ln, Cincinnati, OH",45255,"$220,000.00 ",12/16/2022,2,3.5,1998,1155,52272,1
+Tejaswini Sapkota,"8169 Witts Meadow Ln, Cincinnati, OH 45255",45255,"$220,000.00 ",12/16/2022,2,4,1998,1155,34848,1
+Tejaswini Sapkota,"465 Brandsteade Ct, Cincinnati, OH 45255",45255,"$370,000.00 ",12/30/2022,4,3,1998,2127,15942.96,2
+Chandler Craker,"11066 Woodlands Way, Blue Ash, OH",45241,"$825,000.00 ",1/6/2023,5,5,1998,4572,14810,3
+Lawrence McCullough,"11066 Woodlands Way, Blue Ash, OH",45241,"$825,000.00 ",1/6/2023,5,5,1998,4572,14810,3
+Meghana Mittameedi,"(undisclosed Address), Cincinnati, OH 45251",45251,"$135,000.00 ",1/13/2023,3,1,1998,925,925,1
+Sean McGill,"583 Tusculum Ave, Cincinnati, OH",45226,"$1,025,986.00 ",12/3/2021,4,4,1999,5364,42253,3
+Loryn Flowers,"2158 Riverside Dr, Cincinnati, OH 45202",45202,"$605,000.00 ",3/11/2022,4,4,1999,4356,3104,2
+Dayne Brito,"1538 Creekside Rd, Amelia, OH 45102",45102,"$280,000.00 ",9/1/2022,3,3,1999,1658,10628,2
+Rohit Bhoite,"3065 Foxhound Dr, Hamilton, OH",45011,"$275,000.00 ",9/19/2022,3,2,1999,1454,9722.592,2
+Sean Rossander,702 Springhill Ln,45226,"$1,099,990.00 ",11/16/2022,5,4.5,1999,4472,19166,2
+Vishnu Srinath,"3434 W Legendary Run, Cincinnati, OH",45245,"$590,000.00 ",11/21/2022,4,5,1999,4173,23522.4,3
+Vishnu Srinath,"1826 Coralberry Ct, Cincinnati, OH",45230,"$260,000.00 ",11/23/2022,3,2,1999,1488,4922,2
+Anhly Truong,4207 Windrift Ct,45040,"$485,000.00 ",12/29/2022,4,3,1999,2589,18295.2,2
+Wenhan Zhu,"7341 Chatham Ct APT B, West Chester, OH 45069",45069,"$165,000.00 ",12/30/2022,2,2,1999,1012,0,1
+Elayna Franklin,"1922 Coralberry Ct, Cincinnati, Ohio",45230,"$250,000.00 ",1/6/2023,3,2,1999,1488,8407,2
+Gabriela Varisco,"1822 Coralberry Ct, Cincinnati, OH",45230,"$250,000.00 ",1/6/2023,3,2,1999,1488,8407,2
+Hannah Grilliot,1822 Coralberry Ct,45230,"$250,000.00 ",1/6/2023,3,2,1999,1488,8407,2
+Maddie Hannan,1822 Coralberry Ct,45230,"$250,000.00 ",1/6/2023,3,2,1999,1488,8407,2
+Tejaswini Sapkota,"1822 Coralberry Ct, Cincinnati, OH 45230",45230,"$250,000.00 ",1/6/2023,3,2,1999,1488,8407,2
+Avi Aggarwal,"1922 Coralberry Ct, Cincinnati, Ohio",45230,"$250,000.00 ",1/9/2023,3,2,1999,1488,8407,2
+Avi Aggarwal,"1922 Coralberry Ct, Cincinnati, Ohio",45230,"$250,000.00 ",1/10/2023,3,2,1999,1488,8407,2
+Jorgen Kerens,"163 Wendell Shivener Rd, West Union, OH",45693,"$260,000.00 ",1/13/2023,3,3,1999,2400+,117612,2
+Nitish HS Reddy,"163 Wendell Shivener Rd, West Union, OH 45693",45693,"$260,000.00 ",1/13/2023,3,3,1999,2400,117612,2
+Sean McGill,"325 Katiebud Dr, Cincinnati, OH",45238,"$308,000.00 ",11/18/2022,4,2.5,2000,2221,10628,3
+Tejaswini Sapkota,"6557 Silverfox Dr, Cincinnati, OH 45230",45230,"$208,000.00 ",12/19/2022,2,3,2000,1294,n/a,1
+Rohit Bhoite,"1223 Nottingham Rd, Amelia, OH ",45102,"$277,000.00 ",1/10/2023,3,4,2000,1729,47480.4,2
+Dayne Brito,"1557 Maryan Ave, Amelia, OH 45102",45102,"$170,000.00 ",7/25/2022,3,2,2001,1296,12632,1
+Andrew Flach,28 Arcadia Pl,45208,"$765,000.00 ",8/26/2022,3,3.5,2001,3372,6272,2
+Aidan Zebertavage,"10090 Thoroughbred Ln, Cincinnati, OH",45231,"$450,000.00 ",12/14/2022,4,4,2001,2636,20473.2,2
+Anhly Truong,3669 Dunlop Ct,45040,"$528,000.00 ",12/26/2022,4,4,2001,2910,14810.4,3
+Dayne Brito,"807 Dorgene Ln, Cincinnati, OH 45244",45244,"$557,000.00 ",12/27/2022,4,4,2001,4746,41818,3
+Dayne Brito,"613 Laurelwood Dr, Cleves, OH 45002",45002,"$435,000.00 ",12/30/2022,4,4,2001,2766,38768,2
+Enola Picardo,"4074 Lenox Dr, Cincinnati, OH",45245,"$372,000.00 ",1/3/2023,4,2.5,2001,2225,22651,2
+Chandler Craker,"1215 Obannon Creek Ln, Loveland, OH",45140,"$537,900.00 ",1/6/2023,4,4,2001,2834,20900,3
+Lawrence McCullough,"1215 Obannon Creek Ln, Loveland, OH",45140,"$537,900.00 ",1/6/2023,4,4,2001,2834,20909,3
+Mackenzie Dunn,1215 Obannon Creek Ln,45140,"$537,900.00 ",1/6/2023,4,4,2001,2834,20908.8,3
+Sean McGill,"336 Stone Arbor Ln, Cincinnati, OH",45226,"$790,000.00 ",12/21/2020,4,3.5,2002,4136,32234,3
+Reshma Punukollu,"2338 Buddleia Ct, Cincinnati, OH ",45239,"$198,000.00 ",12/14/2022,2,3,2002,1082,91040.4,1
+Samipya Pamuru,"1711 Laurie St, Williamsburg, OH 45176",45176,"$135,900.00 ",12/16/2022,3,2,2002,2108,43560,1
+Lawrence McCullough,"142 Azure View Ct, Maineville, OH",45039,"$290,000.00 ",1/5/2023,3,2,2002,1650,8668,2
+Mackenzie Dunn,142 Azure View Ct,45039,"$290,000.00 ",1/5/2023,3,2,2002,1650,8668,2
+Samipya Pamuru,"2845 Fairways Dr, Fairfield, OH 45011",45011,"$309,000.00 ",1/6/2023,4,3,2002,2057,6599,2
+Elayna Franklin,"205 Indian Lake Dr, Hamilton Twp, Ohio",45039,"$360,000.00 ",1/13/2023,4,4,2002,2200,12196.8,2
+Jorgen Kerens,"205 Indian Lake Dr, Hamilton Twp, OH",45039,"$360,000.00 ",1/13/2023,4,4,2002,2200,12196,2
+Meghana Mittameedi,"205 Indian Lake Dr, Hamilton Twp, OH 45039",45039,"$360,000.00 ",1/13/2023,4,4,2002,2200,12197,2
+Nitish HS Reddy,"205 Indian Lake Dr, Hamilton Twp, OH 45039",45039,"$360,000.00 ",1/13/2023,4,4,2002,2200,12196.8,2
+Dayne Brito,"16 Wooded Ridge Dr, Amelia, OH 45102",45102,"$185,000.00 ",5/22/2020,3,3,2003,1164,10454,2
+Dayne Brito,"3585 Applewood Dr, Amelia, OH 45102",45102,"$250,900.00 ",10/24/2022,3,2,2003,1280,10018,2
+Wenhan Zhu,"7244 Leemel Dr, West Chester, OH 45069",45069,"$525,000.00 ",12/13/2022,4,4,2003,3290,4100,2
+Sean Rossander,3860 Debby Carol Dr,45245,"$325,000.00 ",12/14/2022,2,2,2003,1261,20037,2
+Dayne Brito,"3949 Bear Ln, Cleves, OH 45002",45002,"$420,000.00 ",1/4/2023,4,4,2003,2394,15246,2
+Mackenzie Dunn,3949 Bear Ln,45002,"$420,000.00 ",1/4/2023,4,4,2003,2394,15246,2
+Chandler Craker,"3447 Mackenzie Crossing, Cincinnati, OH",45245,"$410,000.00 ",1/6/2023,4,3,2003,2699,18730,3
+Hannah Grilliot,3447 Mackenzie Xing,45245,"$410,000.00 ",1/6/2023,4,3,2003,2699,18730.8,3
+Mackenzie Dunn,9259 Hardwicke Ln,41042,"$375,000.00 ",1/9/2023,4,4,2003,2326,8712,2
+Samipya Pamuru,"103 Autumn Ct, Mount Orab, OH 45154",45154,"$479,900.00 ",1/9/2023,4,4,2003,2698,43560,4
+Lawrence McCullough,"6607 Rosegate Ct, Mason, OH",45040,"$515,000.00 ",1/12/2023,4,3,2003,2693,24829,3
+Dayne Brito,"69 Wooded Ridge Dr, Amelia, OH 45102",45102,"$205,000.00 ",5/21/2021,3,2,2004,1168,15682,2
+Sean McGill,"435 Stanley Ave, Cincinnati, OH",45226,"$360,000.00 ",11/30/2021,3,3.5,2004,2400,3310,2
+Priyanka Nainani,"5372 Cottage View Ct, Hamilton, OH ",45011,"$480,000.00 ",9/12/2022,5,4,2004,2452,0.4851,2
+Priyanka Nainani,"1126 Minor Ave, Hamilton, OH ",45015,"$235,000.00 ",9/12/2022,2,1,2004,631,5227.2,3
+Dayne Brito,"2022 Cristata Ct, Amelia, OH 45102",45102,"$335,000.00 ",11/7/2022,4,3,2004,1928,25700,2
+Chandler Craker,"875 Virginiabradford Ct, Elsmere, KY",41018,"$225,000.00 ",1/6/2023,3,2,2004,936,7405,1
+Mackenzie Dunn,787 Woodside Ct,41017,"$550,000.00 ",1/9/2023,3,3,2004,1878,4791,2
+Nitish HS Reddy,"4518 Cherry Forest Cir, Louisville, KY 40245",40245,"$470,000.00 ",1/13/2023,4,3,2004,2964,9583,2
+Meghana Mittameedi,"2867 Decatur Ct, Union, KY 41091",41091,"$372,500.00 ",1/13/2023,3,3,2004,1841,6969.6,2
+Dayne Brito,"33 Wooded Ridge Dr, Amelia, OH 45102",45102,"$215,000.00 ",4/30/2021,3,2,2005,1148,16117,2
+Loryn Flowers,"1436 Riverside Dr, Cincinnati, OH 45202",45202,"$770,000.00 ",3/7/2022,3,4,2005,3268,2744,2
+Priyanka Nainani,"7686 Red Fox Run, Hamilton, OH ",45011,"$212,000.00 ",9/12/2022,3,4,2005,1504,5227,2
+Loryn Flowers,"1404 Riverside Dr, Cincinnati, OH 45202",45202,"$825,000.00 ",11/9/2022,3,3.5,2005,2768,2831,1
+Ryan Sosinski,5309 Reserve Cir,45230,"$290,000.00 ",11/28/2022,3,4,2005,1376,na,1
+Wenhan Zhu,"7704 Hunters Trl, West Chester, OH 45069",45069,"$608,000.00 ",12/23/2022,5,5,2005,4687,2900,3
+Nitish HS Reddy,"201 Fern Way, Mount Washington, KY 40047",40047,"$245,000.00 ",1/13/2023,3,2,2005,1236,9530,2
+Rohit Bhoite,"3049 Jenny Lind Rd, Amelia, OH",45102,"$800,000.00 ",1/13/2023,5,5,2005,4384,206953.6,5
+Nick Flessner,548 Conroy Street,45214,"$515,000.00 ",5/27/2022,3,3,2006,2200,2874,2
+Loryn Flowers,"2126 Loth St, Cincinnati, OH 45202",45202,"$435,800.00 ",10/7/2022,3,3,2006,2060,2134,1
+Samipya Pamuru,"5130 Murphysville Rd, Maysville, KY 41056",41056,"$312,500.00 ",11/8/2022,4,2,2006,1872,479160,0
+Samipya Pamuru,"1447 Meadow Ridge Cir, Wilmington, OH 45177",45177,"$300,000.00 ",11/11/2022,3,4,2006,2468,9583,2
+Vishnu Srinath,"1518 Jonathan Ave, Cincinnati, OH",45207,"$257,500.00 ",11/23/2022,3,3,2006,1971,788.44,2
+Samipya Pamuru,"539 John Chambers Dr, Wilmington, OH 45177",45177,"$260,900.00 ",12/12/2022,3,2,2006,1553,43560,2
+Chandler Craker,"741 Morning Glory Dr, Covington, KY",41015,"$365,000.00 ",1/6/2023,3,4,2006,2453,9583,2
+Chandler Craker,"1527 Pointe Dr, Milford, OH",45150,"$395,000.00 ",1/6/2023,4,4,2006,2824,13068,2
+Lawrence McCullough,"1527 Pointe Dr, Milford, OH",45150,"$395,000.00 ",1/6/2023,4,4,2006,2824,13068,2
+Mackenzie Dunn,1527 Pointe Dr,45150,"$395,000.00 ",1/6/2023,4,4,2006,2824,13068,2
+Anhly Truong,321 Bern Ln,45246,"$195,000.00 ",1/9/2023,2,2,2006,1279,32234.4,1
+Jorgen Kerens,"2867 Decatur Ct, Union, KY",41091,"$372,500.00 ",1/13/2023,3,3,2006,1841,6969,2
+Nitish HS Reddy,"2867 Decatur Ct, Union, KY 41091",41091,"$372,500.00 ",1/13/2023,3,3,2006,1841,6969,2
+Rohit Bhoite,"1601 Roseville Dr, Hamilton, OH",45013,"$380,000.00 ",9/20/2022,4,3,2007,3018,12453.8,2
+Jahnavi Galla,"353 W 4th St UNIT 209, Cincinnati, OH",45202,"$295,000.00 ",12/22/2022,2,2,2007,1066,13068,2
+Reshma Punukollu,"353 W 4th St UNIT 209, Cincinnati, OH ",45202,"$295,000.00 ",12/22/2022,2,2,2007,1066,13068,1
+Chandler Craker,"10773 Carolina Pines Dr, Harrison, OH",45030,"$379,000.00 ",1/6/2023,4,3,2007,2179,13507,2
+Mackenzie Dunn,7146 Hearthwood Dr,45011,"$380,000.00 ",1/9/2023,4,4,2007,2877,13503.6,2
+Enola Picardo,"575 Old Orchard Dr, Cincinnati, OH",45255,"$245,000.00 ",1/3/2023,3,3,2008,2160,17424,2
+Chandler Craker,"10899 Sand Run Rd, Harrison, OH",45030,"$700,000.00 ",1/6/2023,3,6,2008,4886,462171,3
+Adam Wilson,8060 Brill Rd,45243,"$4,000,000.00 ",1/11/2023,4,6,2008,10484,277042,4
+Aidan Zebertavage,"871 W Anson Dr, Cincinnati, OH",45245,"$292,900.00 ",11/29/2022,3,3,2009,2110,4748,2
+Mackenzie Dunn,1277 Misty Lake Ln,45103,"$280,000.00 ",1/9/2023,4,4,2009,2168,9583,2
+Dayne Brito,"13 Cedarwood Dr, Amelia, OH 45102",45102,"$250,000.00 ",12/2/2022,3,3,2010,1620,7318,2
+Sethavatey Limsreng,"101 Candlewood Cir, Montgomery, OH 45249",45249,"$875,000.00 ",12/16/2022,4,3,2010,3336,7239,2
+Jorgen Kerens,"701 Falcon Ridge Ln, La Grange, KY",40031,"$355,000.00 ",1/13/2023,3,4,2010,2699,14810,2
+Ryan Sosinski,947 Shireton Ct,45245,"$470,000.00 ",11/28/2022,4,3,2011,3339,,3
+Adam Wilson,4216 Tower Ave,45217,"$240,000.00 ",1/11/2023,4,3,2011,2029,5998,1
+Chris Lindemann,"4216 Tower Ave, Cincinnati, OH",45217,"$240,000.00 ",1/11/2023,4,3,2011,2029,5998,0
+Saiteja Boga,"4216 Tower Ave, Cincinnati, OH",45217,"$240,000.00 ",1/11/2023,4,3,2011,2029,5998,0
+Neil Bechmann,576 Laramie Trl,45231,"$759,000.00 ",6/22/2021,4,3.5,2012,3374,22215.6,3
+Ryan Sosinski,9286 Bridgecreek Dr,45231,$225.00 ,11/28/2022,2,2.5,2012,1104,,2
+Nick Flessner,421 Boal Street,45202,"$700,000.00 ",6/29/2021,2,3,2013,2182,2265,1
+Loryn Flowers,"13 Mercer St, Cincinnati, OH 45202",45202,"$422,800.00 ",1/11/2022,2,2,2013,1120,6969,0
+Mackenzie Dunn,1553 Tatum Ln,45013,"$332,500.00 ",1/3/2023,3,3,2013,2567,14374.8,3
+Jayanth Chowdary Bandi,"18304 Stapleford Way, Dallas, TX ",75252,"$765,000.00 ",1/14/2023,3,3,2013,2746,3534,2
+Neil Bechmann,509 Conrad Dr,45231,"$366,500.00 ",7/22/2020,4,3.5,2014,3552,14374.8,2
+Sean McGill,"418 McDowell Street, Cincinnati, OH",45226,"$698,000.00 ",5/16/2022,3,3,2014,2204,2940,2
+Neil Bechmann,521 Meadowcrest Rd,45231,"$420,000.00 ",11/14/2022,4,2.5,2014,3183,13939.2,2
+Wenhan Zhu,"5767 E Senour Dr, West Chester, OH 45069",45069,"$630,000.00 ",12/16/2022,4,5,2014,4284,4400,3
+Anhly Truong,2014 Faith St,45237,"$425,000.00 ",12/30/2022,4,3,2014,3353,5001,2
+Enola Picardo,"2014 Faith St, Cincinnati, OH",45237,"$425,000.00 ",12/30/2022,4,2.5,2014,3353,5001,2
+Lawrence McCullough,"4944 Crooked River Ct, Maineville, OH",45039,"$516,500.00 ",1/4/2023,3,2,2014,2823,17860,2
+Mackenzie Dunn,4944 Crooked River Ct,45039,"$516,500.00 ",1/4/2023,3,2,2014,2823,17859.6,2
+Chandler Craker,"1387 Ponder Ct, Union, KY",41091,"$695,000.00 ",1/6/2023,4,3,2014,3882,33105,3
+Nitish HS Reddy,"630 Mount Moriah Rd, Carlisle, KY 40311",40311,"$68,000.00 ",1/13/2023,2,1,2014,800,235659.6,
+Jorgen Kerens,"9860 Cedar Cove Ln, Alexandria, KY",41001,"$327,000.00 ",1/13/2023,4,3,2014,2972,8276,2
+Lawrence McCullough,"5372 Woodview Way, Hamilton, OH",45011,"$585,000.00 ",1/11/2023,4,4,2015,2998,22216,3
+Vishnu Srinath,"3629 Russell Ave, Cincinnati, OH",45208,"$1,195,000.00 ",11/22/2022,4,5,2016,3562,5545,2
+Nitish HS Reddy,"1433 W Springfield St, Greensburg, IN 47240",47240,"$425,000.00 ",1/13/2023,5,4,2016,3276,10890,2
+Saurav Nandi,7137 Sanoma Ave,45243,"$725,000.00 ",7/6/2181,4,4,2016,3318,7492,2
+Lawrence McCullough,"5092 Jessica Suzanne Dr, Morrow, OH",45152,"$358,000.00 ",1/6/2023,3,4,2017,3484,7457,3
+Mackenzie Dunn,5092 Jessica Suzanne Dr,45152,"$358,000.00 ",1/6/2023,3,4,2017,3484,7457,3
+Jorgen Kerens,"1074 Morning Glory Ln, Shelbyville, KY",40065,"$474,900.00 ",1/13/2023,4,3,2017,2279,19602,2
+Nitish HS Reddy,"
+312 Bridlewood Ave, Shelbyville, KY 40065",40065,"$260,000.00 ",1/13/2023,3,2,2017,1640,7840,2
+Nick Flessner,406 Boal Street,45202,"$915,000.00 ",3/25/2022,3,4,2018,2888,5140,2
+Nick Flessner,439 Pueblo Street,45202,"$1,650,513.00 ",6/10/2022,5,4,2018,4570,3092,2
+Rohit Bhoite,"5925 Tilbury Trl, Hamilton, OH",45011,"$557,000.00 ",9/16/2022,4,4,2018,2994,21727.73,3
+Ryan Sosinski,1011 Prestwick Pl,45245,"$575,000.00 ",11/25/2022,4,5,2018,3113,na,3
+Vishnu Srinath,"1011 Prestwick PI, Cincinnati, OH",45245,"$575,000.00 ",11/25/2022,4,5,2018,3113,12196.8,3
+Aidan Zebertavage,"2732 Cleinview Ave, Cincinnati, OH",45206,"$700,000.00 ",12/14/2022,2,3,2018,2422,2657,2
+Reshma Punukollu,"2732 Cleinview Ave, Cincinnati, OH ",45206,"$700,000.00 ",12/14/2022,2,3,2018,2422,2657,2
+Jayanth Chowdary Bandi,"2036 Cloudcroft Cir, Dallas, TX",75224,"$550,000.00 ",1/12/2023,3,3,2018,2640,8537,2
+Loryn Flowers,"312 Mulberry St, Cincinnati, OH 45202",45202,"$1,000,000.00 ",11/23/2021,4,4,2019,2833,2069,2
+Enola Picardo,"3700 Duck Creek Rd, Cincinnati, OH",45227,"$505,000.00 ",12/30/2022,3,2.5,2020,1932,16117,2
+Meghana Mittameedi,"7491 Dornoch Ln, Alexandria, KY 41001",41001,"$390,000.00 ",1/13/2023,2,3,2021,2374,2962.08,2
+Nitish HS Reddy,"7491 Dornoch Ln, Alexandria, KY 41001",41001,"$390,000.00 ",1/13/2023,2,3,2021,,,2
+Jorgen Kerens,"151 Pansy Pike, Blanchester, OH",45107,"$262,500.00 ",1/13/2023,3,2,2021,,20037,2
+Nitish HS Reddy,"151 Pansy Pike, Blanchester, OH 45107",45107,"$262,500.00 ",1/13/2023,3,2,2021,,20037.6,2
+Jayanth Chowdary Bandi,"1542 Owega Ave, Dallas, TX",75216,"$315,000.00 ",9/30/2022,4,3,2022,2129,7845,0
+Samipya Pamuru,"12176 Martin Alexander Rd, Sardinia, OH 45171",45171,"$110,000.00 ",12/16/2022,2,1,2022,2272,91912,2
+Cormac Warde,7190 Greenvalley Ter #5,45239,"$646,000.00 ",12/20/2022,4,4,2022,3097,6416,2
+Sean Rossander,1325 Knowlton St,45223,"$525,000.00 ",1/4/2023,3,2.5,2022,1650,21780,1
+Chandler Craker,"10560 Elderberry Ln, Independence, KY",41051,"$390,855.00 ",1/5/2023,3,3,2022,1864,5662,2
+Mackenzie Dunn,10 E Persimmon Dr,45013,"$279,900.00 ",1/9/2023,3,2,2022,1344,11325.6,2
+Adam Wilson,7010 Briarcliff C,45039,"$588,756.00 ",1/10/2023,4,3,2022,2758,14375,2
+Jayanth Chowdary Bandi,"2628 Lawrence St, Dallas, TX",75215,"$389,000.00 ",1/11/2023,4,2,2022,1800,7318,2
+Jorgen Kerens,"613 Colony Trl, New Carlisle, OH",45344,"$290,000.00 ",1/13/2023,3,2,2022,1670,8712,2
+Nitish HS Reddy,"613 Colony Trl, New Carlisle, OH 45344",45344,"$290,000.00 ",1/13/2023,3,2,2022,1670,8712,2
+Sean Rossander,1332 Custer Ave,45208,"$1,175,000.00 ",1/6/2023,4,3.5,2023,1060,6098,2
+Sean Rossander,2999 Walworth Ave LOT 19,45226,"$1,690,000.00 ",1/9/2023,4,5,2023,1621,3922,3
+Wenhan Zhu,"8164 Westfall Ln, West Chester, OH 45069",45069,"$561,875.00 ",1/10/2023,3,3,2023,4685,8712,2
+Sean Rossander,5015 Garden Ln,45237,"$339,900.00 ",1/11/2023,2,2,2023,1487,3598,2
+Ryan Sosinski,1579 Meredith Dr Unit 15,45231,"$58,000.00 ",11/25/2022,2,2,,936,na,0
+Nitish HS Reddy,"701 Falcon Ridge Ln, La Grange, KY 40031",40031,"$355,000.00 ",1/13/2023,3,4,,2699,14810,2
+Jorgen Kerens,"314 N Adams St, Owenton, KY",40359,"$100,000.00 ",1/13/2023,2,1,,1153,6969,0
+Nitish HS Reddy,"314 N Adams St, Owenton, KY 40359",40359,"$100,000.00 ",1/13/2023,2,1,,1153,6969,
+Jorgen Kerens,"1915 Franklin St, Covington, KY",41014,"$186,900.00 ",1/13/2023,3,2,,,,2
+Jorgen Kerens,"8 E Persimmon Dr, Hamilton, OH",45013,"$279,900.00 ",1/13/2023,3,2,,1344,12632,2
+Nitish HS Reddy,"8 E Persimmon Dr, Hamilton, OH 45013",45013,"$279,900.00 ",1/13/2023,3,2,,1344,12632.4,

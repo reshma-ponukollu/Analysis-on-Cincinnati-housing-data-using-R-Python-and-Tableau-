@@ -1,0 +1,137 @@
+---
+title: "Nandi_report_project"
+author: "Saurav Nandi"
+date: "2023-02-21"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r, message=FALSE, fig.width=22, fig.height=14}
+cincinnati_ohio_housing <- read.csv("C:/Users/saura/OneDrive/Documents/Datasets/Housing_Data.csv")
+cincinnati_ohio_housing
+
+```
+
+
+```{r, message=FALSE, fig.width=22, fig.height=14}
+
+cincinnati_ohio_housing_new <- subset(cincinnati_ohio_housing, select = c(Address, Zip.Code, Price.Sold, Date.Sold, Number.of.Bedrooms,  Year.Built))
+
+cincinnati_ohio_housing_new 
+
+```
+```{r, message=FALSE, fig.width=22, fig.height=14}
+
+
+
+library(dplyr)
+
+
+top_10_addresses <- cincinnati_ohio_housing_new %>% 
+  arrange(desc(Price.Sold)) %>% 
+  head(10)
+
+
+top_10_addresses
+
+
+
+
+
+
+
+```
+
+```{r, message=FALSE, fig.width=22, fig.height=14}
+
+library(stats)
+
+
+Model_1 <- lm(Price.Sold ~ Number.of.Bedrooms, data = top_10_addresses)
+
+summary(Model_1)$r.squared
+
+```
+
+
+The R-Squared Value or the coefficient of determination represents the proportion of variance in the Price.Sold column that is predicted from independent variable, Year.Built.
+
+```{r, message=FALSE, fig.width=22, fig.height=14}
+summary(Model_1)$coefficients
+```
+From the above description, we can analyze and observe that the P value is more  than 0.05(0.1817188),which means that this model containing so2 concentration and recession rate Accepts the null hypothesis that this model would have a negative  slope. Thus, the value of slope is negative as proven in the plot below
+
+
+```{r, message=FALSE, fig.width=22, fig.height=14}
+
+plot(top_10_addresses$Price.Sold ~ top_10_addresses$Number.of.Bedrooms , data = top_10_addresses, pch = 15)
+abline(Model_1, col = "red")
+
+
+
+```
+
+
+As we can see from the above plot, the slope of the predicted value of price is negative slope  Also, there are only few actual values that is close to the linear regression line, which means that there is a poor fit between the data and the linear regression model. There might be outliers in the data due to which actual results are skewed.
+
+
+```{r, message=FALSE, fig.width=22, fig.height=14}
+
+predict(Model_1, newdata = data.frame(Number.of.Bedrooms= c(5, 4)))
+
+
+
+
+```
+
+From the above prediction, suppose the number of bedrooms in two real estates are 5 and  4 respectively. Thus, the predicted price according to the principle of linear regression analysis above are 223474094 dollars and  260179275   dollars respectively. Thus, the price of real estate increases as the number of bedrooms increases. Thus, real estate managers require to manage the number of bedrooms in their estates, so that they are able to sell their estates at an affordable prices to alot of customers in order to increase their profits in the long run.
+
+
+```{r, message=FALSE, fig.width=22, fig.height=14}
+library(ggplot2)
+
+
+library(scales)
+
+ggplot(top_10_addresses, aes(x = Price.Sold)) +
+  geom_histogram(bins = 10, fill = "blue", color = "black") +
+  scale_x_continuous(labels = dollar_format(prefix = "$", suffix = ".00", big.mark = ",")) +
+  labs(title = "Histogram of Price Sold", x = "Price Sold", y = "Frequency")
+  
+
+
+
+
+```
+From the above analysis, we can analyze the frequency of real estates sold in the price  range between 2 million and 3 million dollars respectively,  which means that real estate sellers s should set the prize in these ranges for top 10 houses sold across different regions of Cincinnati on the basis of their price.
+
+```{r, message=FALSE, fig.width=22, fig.height=14}
+
+
+library(stringr)
+street_address <- str_extract(top_10_addresses$Address, "^[^,]+")
+top_10_addresses$Street_Address<- street_address
+top_10_addresses
+```
+
+```{r, message=FALSE, fig.width=22, fig.height=14}
+
+library(scales)
+ggplot(top_10_addresses, aes(x = "", y = Price.Sold , fill = Street_Address )) + 
+  geom_bar(stat = "identity", width = 1) +
+  coord_polar("y", start=0) +
+  scale_y_continuous(labels = comma) +
+  labs(title = "Pie Chart of Price Sold by Street Address", y = "Price Sold")
+  
+```
+
+
+The above pie chart describes the price sold by Street Address of top 10 Real estates sold on the basis of price. 
+
+
+
+
